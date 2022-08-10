@@ -1,0 +1,794 @@
+idSubDisciplina,cveSubDisciplina,descSubDisciplina,idDisciplina
+1201,201401,Conservación ecológica,65
+3956,201402,Ecología y ciencias ambientales,65
+1203,201501,Otras,66
+1204,201601,Otras,67
+1205,201701,Etnobotánica,68
+4655,201703,Otras,68
+4631,201702,Etnoecología ,68
+1233,201805,Otras,69
+1207,201801,Acuacultura,69
+1208,201802,Animal,69
+1209,201803,Humana,69
+1210,201804,Insectos,69
+1211,201901,Otras,70
+934,202001,Biofarmacia,71
+1212,202002,Otras,71
+1223,202111,Fisiología del medio interno,72
+1224,202112,Fisiología del movimiento,72
+1225,202113,Fisiología del músculo,72
+1226,202114,Fisiología del sistema nervioso central,72
+1227,202115,Fisiología endocrina,72
+1228,202116,Fisiología humana,72
+1229,202117,Metabolismo humano,72
+1230,202118,Neurofisiología,72
+1231,202119,Otras,72
+1232,202120,Regulación de la temperatura humana,72
+1213,202101,Anestesiología,72
+1214,202102,Fisiología cardiovascular,72
+1215,202103,Fisiología de la audición,72
+1216,202104,Fisiología de la digestión,72
+1217,202105,Fisiología de la reproducción,72
+1218,202106,Fisiología de la respiración,72
+1219,202107,Fisiología de la visión,72
+1220,202108,Fisiología del ejercicio,72
+1221,202109,Fisiología del equilibrio,72
+1222,202110,Fisiología del lenguaje,72
+1234,202201,Acuacultura,73
+1235,202202,Citogenética,73
+1236,202203,Citogenética animal,73
+1237,202204,Embriología,73
+1238,202205,Genética clínica,73
+1239,202206,Genética de poblaciones,73
+1240,202207,Genética del desarrollo,73
+1241,202208,Genética humana,73
+1242,202209,Genética molecular de plantas,73
+1243,202210,Genética Toxicológica,73
+1244,202211,Ingeniería genética,73
+3910,202212,Otras,73
+1245,202301,Anticuerpos,74
+1246,202302,Anticuerpos de tejidos,74
+1247,202303,Antígenos,74
+1248,202304,Catálisis, autocatálisis, inmunocátalisis,74
+1249,202305,Formación de anticuerpos,74
+1250,202306,Hipersensibilidad,74
+1251,202307,Inmunización,74
+1252,202308,Inmunología,74
+1253,202309,Inmunopatología,74
+1254,202310,Otras,74
+1255,202311,Reacción antígeno-anticuerpo,74
+1256,202312,Trasplante de órganos,74
+1257,202313,Vacunas,74
+1258,202401,Antibióticos,75
+1259,202402,Bacteriófagos,75
+1260,202403,Bacteriología,75
+1261,202404,Fisiología bacteriana,75
+1262,202405,Hongos,75
+1263,202406,Metabolismo bacteriano,75
+1264,202407,Metabolismo microbiano,75
+1265,202408,Micología (levaduras),75
+1266,202409,Microbiología,75
+1267,202410,Microbiología clínica,75
+1268,202411,Microbiología industrial,75
+1269,202412,Microbiología: degradación de residuos vegetales,75
+1270,202413,Mohos,75
+1271,202414,Otras,75
+1272,202415,Procesos microbianos,75
+1273,202501,Neurofisiología,76
+1274,202502,Neuroquímica,76
+1275,202601,Otras,77
+1276,202701,Otras,78
+1277,202702,Paleontología animal,78
+1278,202703,Paleontología de las plantas,78
+1279,202704,Paleontología de los invertebrados,78
+1280,202705,Paleontología de los vertebrados,78
+1281,202706,Palinología,78
+1282,202801,Otras,79
+1283,202901,Análisis bioquímico,80
+1284,202902,Análisis cromatográfico,80
+1285,202903,Análisis de polímeros,80
+1286,202904,Análisis electroquímico,80
+1287,202905,Análisis microquímico,80
+1288,202906,Análisis radioquímico,80
+1289,202907,Espectroscopía de absorción,80
+1290,202908,Espectroscopía de emisión,80
+1291,202909,Espectroscopía de infrarrojos,80
+1292,202910,Espectroscopía de masas,80
+1293,202911,Espectroscopía de microondas,80
+1294,202912,Espectroscopía de rayos x,80
+1295,202913,Espectroscopía de resonancia magnética,80
+1296,202914,Espectroscopía raman,80
+1297,202915,Fluorimetría07 gravimetría,80
+1298,202916,Fosforimetría,80
+1299,202917,Métodos termoanalíticos,80
+1300,202918,Microscopia,80
+1301,202919,Otras,80
+1302,202920,Volumetría,80
+1303,203001,Diseño, síntesis y estudio de nuevos fármacos,81
+1304,203102,Cinética química,82
+1305,203103,Cristales líquidos,82
+1306,203104,Cristalografía,82
+1307,203105,Electrolitos,82
+1308,203106,Electroquímica,82
+1309,203107,Emulsiones,82
+1310,203108,Equilibrio de fases,82
+1311,203109,Equilibrio químico y de fase,82
+1312,203110,Espectroscopía electrónica,82
+1313,203111,Espectroscopía molecular,82
+1314,203112,Estados de la materia,82
+1315,203113,Fenómenos de dispersión,82
+1316,203114,Fenómenos de membrana,82
+1317,203115,Fenómenos de transporte,82
+1318,203116,Física de la fase gaseosa,82
+1319,203117,Física del estado líquido,82
+1320,203118,Física del estado sólido,82
+1321,203119,Fotoquímica,82
+1322,203120,Intercambio iónico,82
+1323,203121,Llamas,82
+1324,203122,Otras,82
+1325,203123,Procesos de relajación,82
+1326,203124,Química de coloides,82
+1327,203125,Química de interfases,82
+1328,203126,Química de las altas temperaturas,82
+1329,203127,Química del estado sólido,82
+1330,203128,Química-física de polímeros,82
+1331,203129,Química-física: química de la fase gaseosa,82
+1332,203130,Radioquímica,82
+1333,203131,Reacciones rápidas y explosivos,82
+1334,203132,Sales fundidas,82
+1335,203133,Soluciones,82
+1336,203134,Teoría cuántica,82
+1337,203135,Teoría de la valencia,82
+1338,203136,Teoría de las células de combustible,82
+1339,203137,Termodinámica,82
+1340,203138,Termoquímica,82
+1341,203139,Transferencia de energía,82
+1202,203101,Catálisis,82
+1342,203201,Alquilos metálicos,83
+1343,203202,Análisis de polímeros,83
+1344,203203,Carbono,83
+1345,203204,Celulosa,83
+1346,203205,Compuestos de azufre,83
+1347,203206,Compuestos de boro,83
+1348,203207,Compuestos de cloro,83
+1349,203208,Compuestos de coordinación,83
+1350,203209,Compuestos de flúor,83
+1351,203210,Compuestos de fósforo,83
+1352,203211,Compuestos de plomo,83
+1353,203212,Compuestos de sodio,83
+1354,203213,Compuestos deficientes de electrones,83
+1355,203214,Compuestos del nitrógeno,83
+1356,203215,Compuestos heterocíclicos,83
+1357,203216,Derivados del benceno,83
+1358,203217,Desionización,83
+1359,203218,Economía química,83
+1360,203219,Elastómeros,83
+1361,203220,Elementos alcalinos,83
+1362,203221,Elementos alcalinotérreos,83
+1363,203222,Elementos de transición,83
+1364,203223,Elementos electropositivos,83
+1365,203224,Elementos sintéticos,83
+1366,203225,Elementos transuránidos,83
+1367,203226,Estabilidad de las macromoléculas,83
+1368,203227,Estereoquímica y análisis conformacional,83
+1369,203228,Estructura de las moléculas orgánicas,83
+1370,203229,Estructura de los compuestos inorgánicos,83
+1371,203230,Fibras naturales,83
+1372,203231,Fibras sintéticas,83
+1373,203232,Germanio,83
+1374,203233,Gomas,83
+1375,203234,Grafito,83
+1376,203235,Halógenos,83
+1377,203236,Hidrocarburos alifáticos,83
+1378,203237,Hidrocarburos aromáticos,83
+1379,203238,Hidrógeno,83
+1380,203239,Hidruros,83
+1381,203240,Macromoléculas,83
+1382,203241,Mecanismos de las reacciones inorgánicas,83
+1383,203242,Mecanismos de reacción,83
+1384,203243,Metales,83
+1385,203244,Modificación de macromoléculas,83
+1386,203245,Operaciones electroquímicas,83
+1387,203246,Plásticos celulares,83
+1388,203247,Polielectrolitos,83
+1389,203248,Poliésteres,83
+1390,203249,Poliestireno,83
+1391,203250,Polietilenos,83
+1392,203251,Polímeros compuestos,83
+1393,203252,Polímeros de alto peso molecular,83
+1394,203253,Polímeros en forma dispersa,83
+1395,203254,Polímeros inorgánicos,83
+1396,203255,Polímeros reticulados,83
+1397,203256,Polipéptidos y proteínas,83
+1398,203257,Polisacáridos,83
+1399,203258,Poliuretanos,83
+1400,203259,Procesos de química nuclear,83
+1401,203260,Procesos químicos,83
+1402,203261,Química de carbaniones,83
+1403,203262,Química de los actínidos,83
+1404,203263,Química de los colorantes,83
+1405,203264,Química de los compuestos bicíclicos,83
+1406,203265,Química de los esteroides,83
+1407,203266,Química de los hidratos de carbono,83
+1408,203267,Química de los organofosforados,83
+1409,203268,Química de los organosilícicos,83
+1410,203269,Química de los organosulfurados,83
+1411,203270,Química de los pigmentos,83
+1412,203271,Química de monómeros,83
+1413,203272,Química de productos naturales orgánicos,83
+1414,203273,Química del agua,83
+1415,203274,Química del carbonio,83
+1416,203275,Química industrial,83
+1417,203276,Química orgánica. Análisis instrumental,83
+1418,203277,Radicales libres,83
+1419,203278,Recubrimiento por electrólisis,83
+1420,203279,Revestimientos hidrófobos,83
+1421,203280,Revestimientos protectores,83
+1422,203281,Revestimientos refractarios,83
+1423,203282,Separación química,83
+1424,203283,Síntesis de macromoléculas,83
+1425,203284,Síntesis química,83
+1426,203285,Tecnología de la catálisis,83
+1427,203286,Tecnología de la combustión,83
+1428,203287,Tecnología de la conservación,83
+1429,203288,Tecnología de la corrosión,83
+1430,203289,Tecnología química: tensioactivos,83
+1431,203290,Tierras raras,83
+1432,203301,Alquilos metálicos,84
+1433,203302,Análisis de polímeros,84
+1434,203303,Carbono,84
+1435,203304,Celulosa,84
+1436,203305,Compuestos de azufre,84
+1437,203306,Compuestos de boro,84
+1438,203307,Compuestos de cloro,84
+1439,203308,Compuestos de coordinación,84
+1440,203309,Compuestos de flúor,84
+1441,203310,Compuestos de fósforo,84
+1442,203311,Compuestos de plomo,84
+1443,203312,Compuestos de sodio,84
+1444,203313,Compuestos deficientes de electrones,84
+1445,203314,Compuestos del nitrógeno,84
+1446,203315,Compuestos heterocíclicos,84
+1447,203316,Derivados del benceno,84
+1448,203317,Desionización,84
+1449,203318,Economía química,84
+1450,203319,Elastómeros,84
+1451,203320,Elementos alcalinos,84
+1452,203321,Elementos alcalinotérreos,84
+1453,203322,Elementos de transición,84
+1454,203323,Elementos electropositivos,84
+1455,203324,Elementos sintéticos,84
+1456,203325,Elementos transuránidos,84
+1457,203326,Estabilidad de las macromoléculas,84
+1458,203327,Estereoquímica y análisis conformacional,84
+1459,203328,Estructura de las moléculas orgánicas,84
+1460,203329,Estructura de los compuestos inorgánicos,84
+1461,203330,Fibras naturales,84
+1462,203331,Fibras sintéticas,84
+1463,203332,Germanio,84
+1464,203333,Gomas,84
+1465,203334,Grafito,84
+1466,203335,Halógenos,84
+1467,203336,Hidrocarburos alifáticos,84
+1468,203337,Hidrocarburos aromáticos,84
+1469,203338,Hidrógeno,84
+1470,203339,Hidruros,84
+1471,203340,Macromoléculas,84
+1472,203341,Mecanismos de las reacciones inorgánicas,84
+1473,203342,Mecanismos de reacción,84
+1474,203343,Metales,84
+1475,203344,Modificación de macromoléculas,84
+1476,203345,Operaciones electroquímicas,84
+1477,203346,Plásticos celulares,84
+1478,203347,Polielectrolitos,84
+1479,203348,Poliésteres,84
+1480,203349,Poliestireno,84
+1481,203350,Polietilenos,84
+1482,203351,Polímeros compuestos,84
+1483,203352,Polímeros de alto peso molecular,84
+1484,203353,Polímeros en forma dispersa,84
+1485,203354,Polímeros inorgánicos,84
+1486,203355,Polímeros reticulados,84
+1487,203356,Polipéptidos y proteínas,84
+1488,203357,Polisacáridos,84
+1489,203358,Poliuretanos,84
+1490,203359,Procesos de química nuclear,84
+1491,203360,Procesos químicos,84
+1492,203361,Química de carbaniones,84
+1493,203362,Química de los actínidos,84
+1494,203363,Química de los colorantes,84
+1495,203364,Química de los compuestos bicíclicos,84
+1496,203365,Química de los esteroides,84
+1497,203366,Química de los hidratos de carbono,84
+1498,203367,Química de los organofosforados,84
+1499,203368,Química de los organosilícicos,84
+1500,203369,Química de los organosulfurados,84
+1501,203370,Química de los pigmentos,84
+1502,203371,Química de monómeros,84
+1503,203372,Química de productos naturales orgánicos,84
+1504,203373,Química del agua,84
+1505,203374,Química del carbonio,84
+1506,203375,Química industrial,84
+1507,203376,Química orgánica. Análisis instrumental,84
+1508,203377,Radicales libres,84
+1509,203378,Recubrimiento por electrólisis,84
+1510,203379,Revestimientos hidrófobos,84
+1511,203380,Revestimientos protectores,84
+1512,203381,Revestimientos refractarios,84
+1513,203382,Separación química,84
+1514,203383,Síntesis de macromoléculas,84
+1515,203384,Síntesis química,84
+1516,203385,Tecnología de la catálisis,84
+1517,203386,Tecnología de la combustión,84
+1518,203387,Tecnología de la conservación,84
+1519,203388,Tecnología de la corrosión,84
+1520,203389,Tecnología química: tensioactivos,84
+1521,203390,Tierras raras,84
+1522,203401,Moléculas marcadas,85
+1523,203402,Otras,85
+1524,203403,Química de átomos calientes,85
+1525,203404,Química de la radiación,85
+1526,203405,Radioisótopos,85
+1527,203406,Radioquímica,85
+1528,203407,Separación de isótopos,85
+1529,203408,Trazadores isotópicos,85
+1627,203598,Procesos metabólicos,86
+1628,203599,Procesos químicos,86
+1629,2035100,Productos del petróleo: gasolina, aceites y ceras,86
+1630,2035101,Productos derivados del petróleo,86
+1631,2035102,Productos químicos derivados del carbón,86
+1632,2035103,Proteínas,86
+1633,2035104,Química clínica,86
+1634,2035105,Química de carbaniones,86
+1635,2035106,Química de los actínidos,86
+1636,2035107,Química de los colorantes,86
+1637,2035108,Química de los compuestos bicíclicos,86
+1638,2035109,Química de los esteroides,86
+1639,2035110,Química de los hidratos de carbono,86
+1640,2035111,Química de los organofosforados,86
+1641,2035112,Química de los organosilícicos,86
+1642,2035113,Química de los organosulfurados,86
+1643,2035114,Química de los pigmentos,86
+1644,2035115,Química de macromoléculas biológicas,86
+1645,2035116,Química de monómeros,86
+1646,2035117,Química de productos naturales orgánicos,86
+1647,2035118,Química del agua,86
+1648,2035119,Química del carbonio,86
+1649,2035120,Química industrial,86
+1650,2035121,Química microbiológica,86
+1651,2035122,Química orgánica. Análisis instrumental,86
+1652,2035123,Quimioterapia,86
+1653,2035124,Radicales libres,86
+1654,2035125,Recubrimiento por electrólisis,86
+1655,2035126,Regulación por retroalimentación,86
+1656,2035127,Revestimientos hidrófobos,86
+1657,2035128,Revestimientos protectores,86
+1658,2035129,Revestimientos refractarios,86
+1659,2035130,Separación química,86
+1660,2035131,Síntesis de macromoléculas,86
+1661,2035132,Síntesis química,86
+1662,2035133,Tecnología de la catálisis,86
+1663,2035134,Tecnología de la combustión,86
+1664,2035135,Tecnología de la conservación,86
+1665,2035136,Tecnología de la corrosión,86
+1666,2035137,Tecnología química: tensioactivos,86
+1667,2035138,Terpenos,86
+1668,2035139,Tierras raras,86
+1669,2035140,Vitaminas,86
+1530,203501,Aceite y grasa lubricantes,86
+1531,203502,Aceites esenciales,86
+1532,203503,Ácidos grasos,86
+1533,203504,Ácidos nucleicos,86
+1534,203505,Alcaloides,86
+1535,203506,Almacenamiento (petróleo y gas),86
+1536,203507,Almidón,86
+1537,203508,Alquilos metálicos,86
+1538,203509,Aminoácidos,86
+1539,203510,Análisis de polímeros,86
+1540,203511,Antimetabólitos,86
+1541,203512,Biología molecular,86
+1542,203513,Bioquímica de alimentos,86
+1543,203514,Bioquímica física,86
+1544,203515,Biosíntesis,86
+1545,203516,Caracterización de carbones,86
+1546,203517,Carbono,86
+1547,203518,Celulosa,86
+1548,203519,Ceras,86
+1549,203520,Coenzimas,86
+1550,203521,Compuestos de azufre,86
+1551,203522,Compuestos de boro,86
+1552,203523,Compuestos de cloro,86
+1553,203524,Compuestos de coordinación,86
+1554,203525,Compuestos de flúor,86
+1555,203526,Compuestos de fósforo,86
+1556,203527,Compuestos de plomo,86
+1557,203528,Compuestos de sodio,86
+1558,203529,Compuestos deficientes de electrones,86
+1559,203530,Compuestos del nitrógeno,86
+1560,203531,Compuestos heterocíclicos,86
+1561,203532,Derivados del benceno,86
+1562,203533,Desionización,86
+1563,203534,Diseño de refinerías,86
+1564,203535,Economía química,86
+1565,203536,Elastómeros,86
+1566,203537,Elementos alcalinos,86
+1567,203538,Elementos alcalinotérreos,86
+1568,203539,Elementos de transición,86
+1569,203540,Elementos electropositivos,86
+1570,203541,Elementos sintéticos,86
+1571,203542,Elementos transuránidos,86
+1572,203543,Enzimología,86
+1573,203544,Equipo de campos petrolíferos,86
+1574,203545,Estabilidad de las macromoléculas,86
+1575,203546,Estereoquímica y análisis conformacional,86
+1576,203547,Esteroides,86
+1577,203548,Estructura de las moléculas orgánicas,86
+1578,203549,Estructura de los compuestos inorgánicos,86
+1579,203550,Farmacología molecular,86
+1580,203551,Fermentación,86
+1581,203552,Fibras naturales,86
+1582,203553,Fibras sintéticas,86
+1583,203554,Fotosíntesis,86
+1584,203555,Gas licuado,86
+1585,203556,Gas natural,86
+1586,203557,Gaseoductos,86
+1587,203558,Genética bioquímica,86
+1588,203559,Germanio,86
+1589,203560,Glúcidos,86
+1590,203561,Gomas,86
+1591,203562,Grafito,86
+1592,203563,Halógenos,86
+1593,203564,Hidrocarburos alifáticos,86
+1594,203565,Hidrocarburos aromáticos,86
+1595,203566,Hidrógeno,86
+1596,203567,Hidruros,86
+1597,203568,Hormonas,86
+1598,203569,Infraestructura de campos petrolíferos,86
+1599,203570,Inmunoquímica,86
+1600,203571,Lípidos,86
+1601,203572,Macromoléculas,86
+1602,203573,Materiales asfálticos,86
+1603,203574,Mecanismos de las reacciones inorgánicas,86
+1604,203575,Mecanismos de reacción,86
+1605,203576,Metabolismo intermediario,86
+1606,203577,Metales,86
+1607,203578,Modificación de macromoléculas,86
+1608,203579,Oleoductos,86
+1609,203580,Oligoelementos,86
+1610,203581,Operaciones electroquímicas,86
+1611,203582,Péptidos,86
+1612,203583,Petróleo crudo,86
+1613,203584,Plásticos celulares,86
+1614,203585,Polielectrolitos,86
+1615,203586,Poliésteres,86
+1616,203587,Poliestireno,86
+1617,203588,Polietilenos,86
+1618,203589,Polímeros compuestos,86
+1619,203590,Polímeros de alto peso molecular,86
+1620,203591,Polímeros en forma dispersa,86
+1621,203592,Polímeros inorgánicos,86
+1622,203593,Polímeros reticulados,86
+1623,203594,Polipéptidos y proteínas,86
+1624,203595,Polisacáridos,86
+1625,203596,Poliuretanos,86
+1626,203597,Procesos de química nuclear,86
+1670,203601,Medicina nuclear,87
+1671,203602,Patología de la radiación,87
+1672,203603,Radioterapia,87
+1673,203701,Otras,88
+1674,203801,Otras,89
+1675,203901,Arbovirus,90
+1676,203902,Bacteriofagos,90
+1677,203903,Enterovirus,90
+1678,203904,Otras,90
+1679,203905,Poxvirus,90
+1680,203906,Virología,90
+1681,203907,Virología animal,90
+1682,203908,Virus,90
+1683,203909,Virus dermatrópicos,90
+1684,203910,Virus neurotrópicos,90
+1685,203911,Virus pantrópicos,90
+1686,203912,Virus respiratorios,90
+1687,203913,Virus viscerotrópicos,90
+4492,Proteom2,Proteómica molecular y celular,592
+4491,Prot1,Proteómica biomédica,592
+4493,Otr,Otras,592
+918,200101,Antropogenética,51
+919,200102,Antropología médica,51
+920,200103,Antropometría y antropología forense,51
+921,200104,Archivos antropológicos,51
+922,200105,Biología de poblaciones,51
+923,200106,Biología racial,51
+924,200107,Comportamiento de los primates,51
+925,200108,Composición del cuerpo,51
+926,200109,Constitución del cuerpo,51
+927,200110,Desarrollo somático,51
+928,200111,Envejecimiento somático,51
+930,200113,Hábitos alimentarios,51
+931,200114,Osteología,51
+932,200115,Otras,51
+933,200116,Somatología de los primates,51
+929,200112,Etnología,51
+935,200201,Bioacústica,52
+936,200202,Bioelectricidad,52
+937,200203,Bioenergética,52
+938,200204,Biomecánica,52
+939,200205,Bioóptica,52
+940,200206,Física médica,52
+941,200207,Otras,52
+942,200301,Anatomía,53
+943,200302,Anatomía animal,53
+944,200303,Cirugía,53
+945,200304,Citología animal,53
+946,200305,Comportamiento animal,53
+947,200306,Comunicación animal,53
+948,200307,Crecimiento animal,53
+949,200308,Desarrollo animal,53
+950,200309,Ecología animal,53
+951,200310,Embriología animal,53
+952,200311,Farmacología,53
+953,200312,Fisiología,53
+954,200313,Fisiología animal,53
+955,200314,Genética,53
+956,200315,Genética animal,53
+957,200316,Herpetología,53
+958,200317,Histología animal,53
+959,200318,Inmunología,53
+960,200319,Invertebrados,53
+961,200320,Invertebrados no insectos,53
+962,200321,Mamíferos,53
+963,200322,Medicina interna,53
+964,200323,Microbiología,53
+965,200324,Nutrición,53
+966,200325,Ornitología,53
+967,200326,Parasitología animal,53
+968,200327,Patología,53
+969,200328,Patología animal,53
+970,200329,Primates,53
+971,200330,Protozoología,53
+972,200331,Taxonomía animal,53
+973,200332,Vertebrados,53
+974,200333,Virología,53
+975,200334,Zoología general,53
+976,200335,Zoología marina,53
+977,200336,Zoología: letiología,53
+978,200401,Citogenética,54
+979,200402,Citología,54
+980,200403,Cultivo celular,54
+981,200404,Cultivo de tejidos,54
+982,200405,Estructura de la pared celular,54
+983,200406,Morfología celular,54
+984,200407,Otras,54
+985,200501,Desarrollo de los insectos,55
+986,200502,Ecología de los insectos,55
+987,200503,Entomología general,55
+988,200504,Fisiología de los insectos,55
+989,200505,Insecticidas,55
+990,200506,Insectos,55
+991,200507,Morfología de los insectos,55
+992,200508,Otras,55
+993,200509,Taxonomía de los insectos,55
+994,200601,Aceites esenciales,56
+995,200602,Ácidos grasos,56
+996,200603,Ácidos nucleicos,56
+997,200604,Alcaloides,56
+998,200605,Almidón,56
+999,200606,Aminoácidos,56
+1000,200607,Anatomía humana,56
+1001,200608,Anatomía sistemática,56
+1002,200609,Anatomía topográfica,56
+1003,200610,Anestesiología,56
+1004,200611,Antimetabolitos,56
+1005,200612,Biología molecular,56
+1006,200613,Bioquímica de alimentos,56
+1007,200614,Bioquímica física,56
+1008,200615,Biosíntesis,56
+1009,200616,Ceras,56
+1010,200617,Citología humana,56
+1011,200618,Coenzimas,56
+1012,200619,Desarrollo humano,56
+1013,200620,Ecología humana,56
+1014,200621,Embriología humana,56
+1015,200622,Enzimología,56
+1016,200623,Esteroides,56
+1017,200624,Farmacología molecular,56
+1018,200625,Fermentación,56
+1019,200626,Fisiología cardiovascular,56
+1020,200627,Fisiología de la audición,56
+1021,200628,Fisiología de la digestión,56
+1022,200629,Fisiología de la reproducción,56
+1023,200630,Fisiología de la respiración,56
+1024,200631,Fisiología de la visión,56
+1025,200632,Fisiología del ejercicio,56
+1026,200633,Fisiología del equilibrio,56
+1027,200634,Fisiología del lenguaje,56
+1028,200635,Fisiología del medio interno,56
+1029,200636,Fisiología del movimiento,56
+1030,200637,Fisiología del músculo,56
+1031,200638,Fisiología del sistema nervioso central,56
+1032,200639,Fisiología endocrina,56
+1033,200640,Fisiología humana,56
+1034,200641,Fotosíntesis,56
+1035,200642,Genética bioquímica,56
+1036,200643,Genética humana,56
+1037,200644,Glúcidos,56
+1038,200645,Grupo sanguíneo,56
+1039,200646,Histología humana,56
+1040,200647,Hormonas,56
+1041,200648,Inmunoquímica,56
+1042,200649,Lípidos,56
+1043,200650,Medicina tradicional,56
+1044,200651,Metabolismo humano,56
+1045,200652,Metabolismo intermediario,56
+1046,200653,Neuroanatomía humana,56
+1047,200654,Neurofisiología,56
+1048,200655,Oligoelementos,56
+1049,200656,Órganos sensoriales,56
+1050,200657,Péptidos,56
+1051,200658,Procesos metabólicos,56
+1052,200659,Proteínas,56
+1053,200660,Química clínica,56
+1054,200661,Química de macromoléculas biológicas,56
+1055,200662,Química microbiológica,56
+1056,200663,Quimioterapia,56
+1057,200664,Regulación de la temperatura humana,56
+1058,200665,Regulación por retroalimentación,56
+1059,200666,Terpenos,56
+1060,200667,Vitaminas,56
+3959,200668,Criobiología,56
+1061,200701,Otras,57
+1062,204001,Biología molecular,58
+1063,204002,Biología molecular de microorganismos,58
+1064,204003,Biología molecular de plantas,58
+1066,200801,Agricultura, silvicultura, pesca,59
+1067,200802,Algología (ficología),59
+1068,200803,Anatomía vegetal,59
+1069,200804,Biología marina,59
+1070,200805,Botánica general,59
+1071,200806,Briología,59
+1072,200807,Césped,59
+1073,200808,Citología vegetal,59
+1074,200809,Comportamiento del suelo en cultivos rotatorios,59
+1075,200810,Control de malezas,59
+1076,200811,Cultivos de campo,59
+1077,200812,Cultivos de plantas ornamentales,59
+1078,200813,Cultivos forrajeros,59
+1079,200814,Dendrología,59
+1080,200815,Desarrollo vegetal,59
+1081,200816,Ecología vegetal,59
+1082,200817,Explotación de los cultivos,59
+1083,200818,Fertilidad del suelo,59
+1084,200819,Fijación biológica del nitrógeno,59
+1085,200820,Fijación y movilización biológica de nutrientes,59
+1086,200821,Fisiología de la maduración,59
+1087,200822,Fisiología vegetal,59
+1088,200823,Fitobiología,59
+1089,200824,Fitopatología,59
+1090,200825,Genética vegetal,59
+1091,200826,Gestión de la producción vegetal,59
+1092,200827,Hibridación de cultivos,59
+1093,200828,Histología vegetal,59
+1094,200829,Limnología,59
+1095,200830,Micología (setas),59
+1096,200831,Nutrición vegetal,59
+1097,200832,Paleobotánica,59
+1098,200833,Parasitología vegetal,59
+1099,200834,Pastos,59
+1100,200835,Producción de cultivos,59
+1101,200836,Propagación de vegetales,59
+1102,200837,Protección de los cultivos,59
+1103,200838,Pteridología,59
+1104,200839,Semillas,59
+1105,200840,Taxonomía vegetal,59
+1106,200841,Técnicas de cultivo,59
+1107,200842,Uso (manejo) combinado del agua y fertilizantes,59
+3958,200843,Biología evolutiva,59
+1108,200901,Bioestadística,60
+1109,201002,Otras,60
+1110,201001,Otras,61
+1111,201101,Aceite y grasa lubricantes,62
+1112,201102,Aceites esenciales,62
+1113,201103,Aceites esenciales,62
+1114,201104,Ácidos grasos,62
+1115,201105,Ácidos nucléicos,62
+1116,201106,Alcaloides,62
+1117,201107,Almacenamiento (petróleo y gas),62
+1118,201108,Almidón,62
+1119,201109,Aminoácidos,62
+1120,201110,Antimetabolitos,62
+1121,201111,Biología molecular,62
+1122,201112,Bioquímica de alimentos,62
+1123,201113,Bioquímica física,62
+1124,201114,Biosíntesis,62
+1125,201115,Caracterización de carbones,62
+1126,201116,Ceras,62
+1127,201117,Coenzimas,62
+1128,201118,Compuestos heterocíclicos,62
+1129,201119,Compuestos organometálicos,62
+1130,201120,Derivados del benceno,62
+1131,201121,Desionización,62
+1132,201122,Diseño de refinerías,62
+1133,201123,Economía química,62
+1134,201124,Enzimología,62
+1135,201125,Equipo de campos petrolíferos,62
+1136,201126,Estereoquímica y análisis conformacional,62
+1137,201127,Esteroides,62
+1138,201128,Estructura de las moléculas orgánicas,62
+1139,201129,Farmacología molecular,62
+1140,201130,Fermentación,62
+1141,201131,Fotosíntesis,62
+1142,201132,Gas licuado,62
+1143,201133,Gas natural,62
+1144,201134,Gaseoductos,62
+1145,201135,Genética bioquímica,62
+1146,201136,Glúcidos,62
+1147,201137,Hidrocarburos alifáticos,62
+1148,201138,Hidrocarburos aromáticos,62
+1149,201139,Hormonas,62
+1150,201140,Infraestructura de campos petrolíferos,62
+1151,201141,Inmunoquímica,62
+1152,201142,Lípidos,62
+1153,201143,Materiales asfálticos,62
+1154,201144,Mecanismos de reacción,62
+1155,201145,Metabolismo intermediario,62
+1156,201146,Oleoductos,62
+1157,201147,Oligoelementos,62
+1158,201148,Operaciones electroquímicas,62
+1159,201149,Péptidos,62
+1160,201150,Petróleo crudo,62
+1161,201151,Procesos de química nuclear,62
+1162,201152,Procesos metabólicos,62
+1163,201153,Procesos químicos,62
+1164,201154,Productos del petróleo: gasolina, aceites y ceras,62
+1165,201155,Productos derivados del petróleo,62
+1166,201156,Productos químicos derivados del carbón,62
+1167,201157,Proteínas,62
+1168,201158,Química clínica,62
+1169,201159,Química de carbaniones,62
+1170,201160,Química de los colorantes,62
+1171,201161,Química de los compuestos bicíclicos,62
+1172,201162,Química de los esteroides,62
+1173,201163,Química de los hidratos de carbono,62
+1174,201164,Química de los organofosforados,62
+1175,201165,Química de los organosilícicos,62
+1176,201166,Química de los organosulfurados,62
+1177,201167,Química de macromoléculas biológicas,62
+1178,201168,Química de productos naturales orgánicos,62
+1179,201169,Química del carbonio,62
+1180,201170,Química industrial,62
+1181,201171,Química microbiológica,62
+1182,201172,Química orgánica. Análisis instrumental,62
+1183,201173,Quimioterapia,62
+1184,201174,Radicales libres,62
+1185,201175,Recubrimiento por electrólisis,62
+1186,201176,Regulación por retroalimentación,62
+1187,201177,Revestimientos hidrófobos,62
+1188,201178,Revestimientos protectores,62
+1189,201179,Revestimientos refractarios,62
+1190,201180,Separación química,62
+1191,201181,Síntesis química,62
+1192,201182,Tecnología de la catálisis,62
+1193,201183,Tecnología de la combustión,62
+1194,201184,Tecnología de la conservación,62
+1195,201185,Tecnología de la corrosión,62
+1196,201186,Tecnología química: tensioactivos,62
+1197,201187,Terpenos,62
+1198,201188,Terpenos,62
+1199,201189,Vitaminas,62
+1200,201201,Otras,63
+1206,201202,Acuacultura,63
+1065,201301,Biología pesquera,64
+4328,210101,Otras,492
+4717,220101,Bioinformática,698
+5211,766,Otras,699
+4718,170201,Manejo costero,699
+4719,220301,Biología estructural,700
+4720,220401,Campos emergentes,701
+4721,220501,Ciencia de los alimentos,702
+4722,220601,Enfermedades infecciosas,703
+4723,220701,Farmacología animal,704
+4724,220801,Farmacología humana,705
+4725,220901,Genómica animal,706
+4726,221001,Genómica humana,707
+4727,221101,Neurobiología,708
+4728,221201,Salud ambiental,709

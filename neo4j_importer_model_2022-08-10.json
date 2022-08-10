@@ -1,0 +1,425 @@
+{
+  "version": "0.4.1",
+  "graph": {
+    "nodes": [
+      {
+        "id": "n0",
+        "position": {
+          "x": -147,
+          "y": 0
+        },
+        "caption": "KnowledgeArea"
+      },
+      {
+        "id": "n1",
+        "position": {
+          "x": 177,
+          "y": 0
+        },
+        "caption": "KnowledgeField"
+      },
+      {
+        "id": "n2",
+        "position": {
+          "x": 177,
+          "y": 171
+        },
+        "caption": "KnowledgeDiscipline"
+      },
+      {
+        "id": "n3",
+        "position": {
+          "x": -147,
+          "y": 171
+        },
+        "caption": "KnowledgeSubdiscipline"
+      }
+    ],
+    "relationships": [
+      {
+        "id": "n0",
+        "type": "SUBCLASS_OF",
+        "fromId": "n1",
+        "toId": "n0"
+      },
+      {
+        "id": "n1",
+        "type": "SUBCLASS_OF",
+        "fromId": "n3",
+        "toId": "n2"
+      },
+      {
+        "id": "n2",
+        "type": "SUBCLASS_OF",
+        "fromId": "n2",
+        "toId": "n1"
+      }
+    ]
+  },
+  "dataModel": {
+    "fileModel": {
+      "fileSchemas": {
+        "subdisciplinaConocimiento.csv": {
+          "expanded": true,
+          "fields": [
+            {
+              "name": "idSubDisciplina",
+              "type": "string",
+              "sample": "1201",
+              "include": true
+            },
+            {
+              "name": "cveSubDisciplina",
+              "type": "string",
+              "sample": "201401",
+              "include": true
+            },
+            {
+              "name": "descSubDisciplina",
+              "type": "string",
+              "sample": "Conservación ecológica",
+              "include": true
+            },
+            {
+              "name": "idDisciplina",
+              "type": "string",
+              "sample": "65",
+              "include": true
+            }
+          ]
+        },
+        "disciplinaConocimiento.csv": {
+          "expanded": true,
+          "fields": [
+            {
+              "name": "idDisciplina",
+              "type": "string",
+              "sample": "65",
+              "include": true
+            },
+            {
+              "name": "cveDisciplina",
+              "type": "string",
+              "sample": "2014",
+              "include": true
+            },
+            {
+              "name": "descDisciplina",
+              "type": "string",
+              "sample": "Ecología",
+              "include": true
+            },
+            {
+              "name": "idCampoConocimiento",
+              "type": "string",
+              "sample": "7",
+              "include": true
+            }
+          ]
+        },
+        "campoConocimiento.csv": {
+          "expanded": true,
+          "fields": [
+            {
+              "name": "idCampoConocimiento",
+              "type": "string",
+              "sample": "7",
+              "include": true
+            },
+            {
+              "name": "claveCampoConocimiento",
+              "type": "string",
+              "sample": "20",
+              "include": true
+            },
+            {
+              "name": "descCampoConocimiento",
+              "type": "string",
+              "sample": "Ciencias de la vida",
+              "include": true
+            },
+            {
+              "name": "idAreaConocimiento",
+              "type": "string",
+              "sample": "2",
+              "include": true
+            }
+          ]
+        },
+        "areaConocimiento.csv": {
+          "expanded": true,
+          "fields": [
+            {
+              "name": "idAreaConocimiento",
+              "type": "string",
+              "sample": "2",
+              "include": true
+            },
+            {
+              "name": "cveAreaConocimiento",
+              "type": "string",
+              "sample": "2",
+              "include": true
+            },
+            {
+              "name": "descAreaConocimiento",
+              "type": "string",
+              "sample": "Biología y química",
+              "include": true
+            }
+          ]
+        }
+      }
+    },
+    "graphModel": {
+      "nodeSchemas": {
+        "n0": {
+          "label": "KnowledgeArea",
+          "additionLabels": [],
+          "labelProperties": [],
+          "properties": [
+            {
+              "property": "id",
+              "type": "integer",
+              "identifier": "WSFVL70WRngCxK6xqnGTI"
+            },
+            {
+              "property": "cve",
+              "type": "integer",
+              "identifier": "ncn1NqNzZjd-PqX5HvgLi"
+            },
+            {
+              "property": "description",
+              "type": "string",
+              "identifier": "sd3VFlRIPKItnaqZzwpGm"
+            }
+          ],
+          "key": {
+            "properties": [
+              "WSFVL70WRngCxK6xqnGTI"
+            ],
+            "name": ""
+          }
+        },
+        "n1": {
+          "label": "KnowledgeField",
+          "additionLabels": [],
+          "labelProperties": [],
+          "properties": [
+            {
+              "property": "id",
+              "type": "integer",
+              "identifier": "ECudgFGL3ovjmuQVIrCof"
+            },
+            {
+              "property": "cve",
+              "type": "integer",
+              "identifier": "ch5QEe69AdJwnCcfID35F"
+            },
+            {
+              "property": "description",
+              "type": "string",
+              "identifier": "CToQWs82UMj1EmAjb-PGQ"
+            }
+          ],
+          "key": {
+            "properties": [
+              "ECudgFGL3ovjmuQVIrCof"
+            ],
+            "name": ""
+          }
+        },
+        "n2": {
+          "label": "KnowledgeDiscipline",
+          "additionLabels": [],
+          "labelProperties": [],
+          "properties": [
+            {
+              "property": "id",
+              "type": "integer",
+              "identifier": "sh6iDhjW-iJF2U9lAD-Ew"
+            },
+            {
+              "property": "cvd",
+              "type": "integer",
+              "identifier": "4qa2Ctod7Q11wu4WLa2Fl"
+            },
+            {
+              "property": "description",
+              "type": "string",
+              "identifier": "l_04hDXqpy7HNkwseC_Ns"
+            }
+          ],
+          "key": {
+            "properties": [
+              "sh6iDhjW-iJF2U9lAD-Ew"
+            ],
+            "name": ""
+          }
+        },
+        "n3": {
+          "label": "KnowledgeSubdiscipline",
+          "additionLabels": [],
+          "labelProperties": [],
+          "properties": [
+            {
+              "property": "id",
+              "type": "integer",
+              "identifier": "jXCHcetwgemD7-ASbL_Pe"
+            },
+            {
+              "property": "cve",
+              "type": "integer",
+              "identifier": "rMWDXMj05LPppyeNXwt2A"
+            },
+            {
+              "property": "description",
+              "type": "string",
+              "identifier": "BeLi5iYZKyYySRAugQOpt"
+            }
+          ],
+          "key": {
+            "properties": [
+              "jXCHcetwgemD7-ASbL_Pe"
+            ],
+            "name": ""
+          }
+        }
+      },
+      "relationshipSchemas": {
+        "n0": {
+          "type": "SUBCLASS_OF",
+          "sourceNodeSchema": "n1",
+          "targetNodeSchema": "n0",
+          "properties": []
+        },
+        "n1": {
+          "type": "SUBCLASS_OF",
+          "sourceNodeSchema": "n3",
+          "targetNodeSchema": "n2",
+          "properties": []
+        },
+        "n2": {
+          "type": "SUBCLASS_OF",
+          "sourceNodeSchema": "n2",
+          "targetNodeSchema": "n1",
+          "properties": []
+        }
+      }
+    },
+    "mappingModel": {
+      "nodeMappings": {
+        "n0": {
+          "nodeSchema": "n0",
+          "fileSchema": "areaConocimiento.csv",
+          "mappings": [
+            {
+              "field": "idAreaConocimiento"
+            },
+            {
+              "field": "cveAreaConocimiento"
+            },
+            {
+              "field": "descAreaConocimiento"
+            }
+          ]
+        },
+        "n1": {
+          "nodeSchema": "n1",
+          "fileSchema": "campoConocimiento.csv",
+          "mappings": [
+            {
+              "field": "idCampoConocimiento"
+            },
+            {
+              "field": "claveCampoConocimiento"
+            },
+            {
+              "field": "descCampoConocimiento"
+            }
+          ]
+        },
+        "n2": {
+          "nodeSchema": "n2",
+          "fileSchema": "disciplinaConocimiento.csv",
+          "mappings": [
+            {
+              "field": "idDisciplina"
+            },
+            {
+              "field": "cveDisciplina"
+            },
+            {
+              "field": "descDisciplina"
+            }
+          ]
+        },
+        "n3": {
+          "nodeSchema": "n3",
+          "fileSchema": "subdisciplinaConocimiento.csv",
+          "mappings": [
+            {
+              "field": "idSubDisciplina"
+            },
+            {
+              "field": "cveSubDisciplina"
+            },
+            {
+              "field": "descSubDisciplina"
+            }
+          ]
+        }
+      },
+      "relationshipMappings": {
+        "n0": {
+          "relationshipSchema": "n0",
+          "mappings": [],
+          "sourceMappings": [
+            {
+              "field": "idCampoConocimiento"
+            }
+          ],
+          "targetMappings": [
+            {
+              "field": "idAreaConocimiento"
+            }
+          ],
+          "fileSchema": "campoConocimiento.csv"
+        },
+        "n1": {
+          "relationshipSchema": "n1",
+          "mappings": [],
+          "sourceMappings": [
+            {
+              "field": "idSubDisciplina"
+            }
+          ],
+          "targetMappings": [
+            {
+              "field": "idDisciplina"
+            }
+          ],
+          "fileSchema": "subdisciplinaConocimiento.csv"
+        },
+        "n2": {
+          "relationshipSchema": "n2",
+          "mappings": [],
+          "sourceMappings": [
+            {
+              "field": "idDisciplina"
+            }
+          ],
+          "targetMappings": [
+            {
+              "field": "idCampoConocimiento"
+            }
+          ],
+          "fileSchema": "disciplinaConocimiento.csv"
+        }
+      }
+    },
+    "configurations": {
+      "idsToIgnore": []
+    }
+  }
+}

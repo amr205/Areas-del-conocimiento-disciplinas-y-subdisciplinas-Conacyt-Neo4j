@@ -1,0 +1,59 @@
+idCampoConocimiento,claveCampoConocimiento,descCampoConocimiento,idAreaConocimiento
+7,20,Ciencias de la vida,2
+73,21,Prospectiva ,2
+115,22,Ciencias biomédicas,2
+116,23,Biología,2
+117,24,Química,2
+118,25,Ciencias Ambientales,2
+19,50,Ciencia política,5
+20,51,Ciencias de la educación,5
+21,52,Ciencias económicas,5
+22,53,Ciencias jurídicas y derecho,5
+23,54,Demografía,5
+24,55,Formación docente,5
+25,56,Geografía,5
+26,57,Historia,5
+27,58,Sociología,5
+75,501,Prospectiva ,5
+33,59,Administración y negocios,5
+34,500,Medios de comunicación y comunicaciones,5
+93,CCientif,Comunicación Científica,5
+124,502,Gestión,5
+133,81,Estudios de Género,5
+28,60,Biotecnología,6
+29,61,Ciencias agrarias,6
+35,62,Biotecnología agrícola,6
+125,64,Salud y Producción Animal,6
+126,63,Pesca,6
+1,10,Astrofísica,1
+2,11,Astronomía,1
+3,12,Ciencias de la tierra y del espacio,1
+4,13,Física,1
+5,14,Lógica,1
+6,15,Matemáticas,1
+74,16,Prospectiva ,1
+114,17,Ciencias del mar,1
+10,40,Antropología,4
+11,41,Ciencias de las artes y las letras,4
+12,42,Ética,4
+13,43,Filosofía,4
+14,44,Historia,4
+15,45,Lingüística,4
+16,46,Literatura,4
+17,47,Pedagogía,4
+18,48,Psicología,4
+37,49,Lengua y Literatura,4
+76,400,Prospectiva ,4
+122,401,Arquitectura y urbanismo,4
+123,402,Arte y cultura,4
+134,766,Estudios de Género,4
+30,70,Ciencias tecnológicas,7
+32,71,Ingeniería,7
+77,72,Prospectiva ,7
+8,30,Ciencias médicas,3
+9,31,Medicina,3
+36,32,Enfermería,3
+53,33,Ingeniería biomédica,3
+119,34,Especialidad médica,3
+120,35,Odontología,3
+121,36,Investigación médica,3

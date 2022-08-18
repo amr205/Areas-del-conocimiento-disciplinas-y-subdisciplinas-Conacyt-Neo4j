@@ -792,3 +792,768 @@ idSubDisciplina,cveSubDisciplina,descSubDisciplina,idDisciplina
 4726,221001,Genómica humana,707
 4727,221101,Neurobiología,708
 4728,221201,Salud ambiental,709
+4729,230101,Anatomía,710
+4730,230201,Bacteriología,711
+4731,230301,Biología de poblaciones,712
+4732,230401,Biología evolutiva,713
+4733,230501,Endocrinología,714
+4734,230601,Fisiología biofísica,715
+4735,230701,Fisiología vegetal,716
+4736,230801,Genética vegetal,717
+4737,230901,Genética y evolución,718
+4738,231001,Limnología,719
+4739,231101,Morfología,720
+4740,231201,Parasitología,721
+4741,240101,Electroquímica,722
+4742,240201,Química general,,723
+4743,240301,Química teórica,724
+4744,250101,Bioseguridad,725
+4745,250201,Biosistemática y manejo de recursos naturales,726
+4746,250301,Conservación de ecosistemas,727
+4747,250401,Ecología marina,728
+4748,250501,Ecología molecular,729
+4749,250601,Gestión ambiental,730
+4750,250701,Gestión ambiental para la sustentabilidad,731
+4751,250801,Manejo de recursos marinos,732
+4752,250901,Mitigación y adaptación al cambio climático,733
+4753,251001,Química de recursos naturales,734
+4754,251101,Química del ambiente,735
+4755,251201,Seguridad hídrica,736
+2341,500101,Administración de los recursos hídricos,168
+2342,500102,Administración civil,168
+2343,500103,Gestión administrativa,168
+2344,500104,Instituciones centrales,168
+2345,500105,Instituciones regionales,168
+2346,500106,Otras,168
+2347,500107,Servicios públicos,168
+2348,500201,Otras,169
+2349,500202,Planificación política,169
+2350,500203,Política agrícola,169
+2351,500204,Política científica y tecnológica,169
+2352,500205,Política comercial,169
+2353,500206,Política cultural,169
+2354,500207,Política de comunicaciones,169
+2355,500208,Política de la información,169
+2356,500209,Política de transportes,169
+2357,500210,Política del medio ambiente,169
+2358,500211,Política demográfica,169
+2359,500212,Política económica,169
+2360,500213,Política educativa,169
+2361,500214,Política exterior,169
+2362,500215,Política gubernamental,169
+2363,500216,Política industrial,169
+2364,500217,Política sanitaria,169
+2365,500218,Política social,169
+2366,500301,Filosofía política,170
+2367,500302,Teoría de las ideologías,170
+2368,500401,Otras,171
+2369,500402,Poder ejecutivo,171
+2370,500403,Poder judicial,171
+2371,500404,Poder legislativo,171
+2372,500405,Relaciones entre los poderes,171
+2373,500501,Información,172
+2374,500502,Medios de comunicación de masas,172
+2375,500503,Opinión pública,172
+2376,500504,Otras,172
+2377,500505,Prensa,172
+2378,500506,Propaganda,172
+2379,500601,Otras,173
+2380,500701,Cooperación internacional,174
+2381,500702,Ética transnacional,174
+2382,500703,Organizaciones internacionales,174
+2383,500704,Otras,174
+2384,500705,Política internacional,174
+2385,500706,Problemas de las relaciones internacionales,174
+2386,500707,Tratados y acuerdos internacionales,174
+4354,DH,Derechos humanos,174
+2387,500801,Sistema político mexicano,175
+2388,500802,Sistemas políticos: área americana,175
+2389,500901,Conflictos sociales,176
+2390,500902,Derechos humanos,176
+2391,500903,Lenguas,176
+2392,500904,Minorías,176
+2393,500905,Otras,176
+2394,500906,Raza,176
+2395,500907,Religión,176
+2396,501001,Otras,177
+2397,501101,Comportamiento político,178
+2398,501102,Elecciones,178
+2399,501103,Grupos políticos,178
+2400,501104,Liderazgo político,178
+2401,501105,Movimientos políticos,178
+2402,501106,Otras,178
+2538,501107,Partidos políticos,178
+4351,PMig,Política migratoria,512
+4352,PDrog,Política de drogas,512
+4353,Otr,Otros,512
+4952,Pedu,Política educativa,512
+4411,LAT,Estudios Latinoamericanos,552
+5171,Ot,Otras,552
+2604,510101,Didáctica,179
+2605,510201,Ciencias del lenguaje,180
+2607,510202,Educación comparada,180
+3915,510203,Educación especial,180
+4951,01,Política Educativa,932
+2403,520101,Comercio exterior,181
+2404,520102,Comercio interior,181
+2405,520103,Consumo, ahorro, inversión,181
+2406,520104,Dinero y operaciones bancarias,181
+2407,520105,Distribución,181
+2408,520106,Economía monetaria,181
+2409,520107,Otras,181
+2410,520108,Producción,181
+2411,520109,Redistribución,181
+2412,520110,Seguros,181
+2413,520201,Contabilidad de la renta nacional,182
+2414,520202,Contabilidad financiera,182
+2415,520203,Contabilidad social,182
+2416,520204,Input-output,182
+2417,520205,Otras,182
+2418,520206,Riqueza nacional y balance de situación,182
+2419,520301,Estadística económica,183
+2420,520302,Indicadores económicos,183
+2421,520303,Modelos econométricos,183
+2422,520304,Otras,183
+2423,520305,Proyección económica,183
+2424,520306,Series cronológicas económicas,183
+2425,520401,Economía de la investigación y del desarrollo experimental,184
+2426,520402,Economía tecnológica,184
+2427,520403,Innovación tecnológica,184
+2428,520404,Otras,184
+2429,520405,Tecnología y cambio social,184
+2430,520406,Transferencia de tecnología,184
+2431,520501,Comportamiento del consumidor,185
+2432,520502,Historia del pensamiento económico,185
+2433,520503,Metodología económica,185
+2434,520504,Otras,185
+2435,520505,Planeación de recursos,185
+2436,520506,Presupuestos y planificación del desarrollo,185
+2437,520601,Acuerdos monetarios internacionales,186
+2438,520602,Ayuda exterior,186
+2439,520603,Ayuda internacional,186
+2440,520604,Balanza de pagos,186
+2441,520605,Comunidad europea,186
+2442,520606,Economía internacional: área americana,186
+2443,520607,Economía internacional: área europea,186
+2444,520608,Financiación internacional,186
+2445,520609,Inversión exterior,186
+2446,520610,Operaciones comerciales internacionales,186
+2447,520611,Otras,186
+2448,520612,Política económica internacional,186
+2449,520613,Relaciones comerciales internacionales,186
+2450,520701,Agricultura, silvicultura, pesca,187
+2451,520702,Comercio,187
+2452,520703,Construcción,187
+2453,520704,Economía del desarrollo rural,187
+2454,520705,Educación,187
+2455,520706,Energía,187
+2456,520707,Fabricación,187
+2457,520708,Finanzas y seguros,187
+2458,520709,Investigación y desarrollo,187
+2459,520710,Minería,187
+2460,520711,Otras,187
+2461,520712,Sanidad,187
+2462,520713,Servicios comunitarios, sociales e individuales,187
+2463,520714,Transportes y comunicaciones,187
+2464,520715,Turismo,187
+2465,520801,Concentración económica,188
+2466,520802,Empresas de servicios públicos,188
+2467,520803,Empresas publicas,188
+2468,520804,Estructura del mercado,188
+2469,520805,Integración económica,188
+2470,520806,Monopolio y competencia,188
+2471,520807,Otras,188
+2472,520808,Regulación gubernamental del sector privado,188
+2473,520901,Dirección de ventas,189
+2474,520902,Equipo industrial,189
+2475,520903,Especificaciones de procesos,189
+2476,520904,Estudio de mercados,189
+2477,520905,Estudio de tiempos y movimientos,189
+2478,520906,Estudios industriales,189
+2479,520907,Gestión financiera,189
+2480,520908,Ingeniería de mantenimiento,189
+2481,520909,Ingeniería de procesos,189
+2482,520910,Investigación operativa,189
+2483,520911,Maquinaria industrial,189
+2484,520912,Marketing (comercialización),189
+2485,520913,Mercadotecnia,189
+2486,520914,Niveles óptimos de producción,189
+2487,520915,Organización de la producción,189
+2488,520916,Organización de recursos humanos,189
+2489,520917,Procesos industriales,189
+2490,520918,Publicidad,189
+2491,521001,Otras,190
+4098,521002,Economía ambiental,190
+4099,251003,Economía ecológica,190
+4100,251004,Desarrollo sustentable,190
+2492,521101,Hacienda pública (presupuesto),191
+2493,521102,Otras,191
+2494,521103,Política fiscal y deuda pública,191
+2495,521201,Otras,192
+2496,521202,Sistemas económicos capitalistas,192
+2497,521203,Sistemas económicos colectivistas,192
+2498,521204,Sistemas económicos comparados,192
+2499,521205,Sistemas económicos socialistas,192
+2500,521301,Equilibrio económico,193
+2501,521302,Estudios de desarrollo económico,193
+2502,521303,Fluctuaciones económicas,193
+2503,521304,Formación de capital,193
+2504,521305,Modelos y teorías del desarrollo económico,193
+2505,521306,Otras,193
+2506,521307,Previsión económica,193
+2507,521308,Teoría de la inversión,193
+2508,521309,Teoría de la planificación económica,193
+2509,521310,Teoría del ahorro,193
+2510,521311,Teoría del bienestar,193
+2595,521312,Teoría del comercio internacional,193
+2596,521313,Teoría del crecimiento económico,193
+2597,521314,Teoría del crédito,193
+2598,521315,Teoría fiscal,193
+2599,521316,Teoría macroeconómica,193
+2600,521317,Teoría microeconómica,193
+2601,521318,Teoría monetaria,193
+2602,521319,Teoría y modelos de empleo,193
+2603,521320,Teorías de la estabilización,193
+5077,531307,Grupos de trabajo de alto desempeño,992
+5078,531308,Personal,992
+5083,531313,Diseño de procesos administrativos,992
+5084,531314,Administración de procesos,992
+5075,531305,Empowerment,992
+5076,531306,Clima organizacional,992
+5079,531309,Solución de problemas,992
+5085,531315,Evaluación y diagnóstico,992
+5086,531316,Desarrollo del entorno social,992
+5071,531301,Medición de la satisfacción de mercados y clientes,992
+5072,531302,Diseño y mejora de servicio,992
+5073,531303,Administración de la calidad total,992
+5074,531304,Administración del cambio,992
+5080,531310,Capital intelectual,992
+5081,531311,Administración del conocimiento,992
+5082,531312,Planeación estratégica,992
+5131,1,Evaluación de políticas públicas,1032
+2511,530101,Ciencias criminológicas,194
+5031,53102,Otras,194
+2512,530201,Religión,195
+2513,530301,Derecho aeronáutico,196
+2514,530302,Derecho del mar,196
+2515,530303,Derecho sobre el espacio ultraterrestre,196
+2516,530304,Derecho sobre los fondos marinos,196
+2517,530305,Otras,196
+2518,530401,Derecho administrativo,197
+2519,530402,Derecho civil,197
+2520,530403,Derecho constitucional,197
+2521,530404,Derecho fiscal,197
+2522,530405,Derecho mercantil,197
+2523,530406,Derecho penal,197
+2524,530407,Derecho privado,197
+2525,530408,Derecho público,197
+2526,530409,Otras,197
+2527,530501,Funcionarios de justicia y procesos judiciales,198
+2528,530502,Magistratura,198
+2529,530503,Otras,198
+2530,530504,Tribunales,198
+2531,530601,Otras,199
+2532,530701,Derecho comparado,200
+2533,530702,Derecho común anglosajón,200
+2534,530703,Derecho de la antigüedad,200
+2535,530704,Derecho natural,200
+2536,530705,Filosofía del derecho,200
+2537,530706,Legislación,200
+2593,530707,Otras,200
+3913,530802,Criminología y criminalística,294
+3914,530801,Derecho,294
+2539,540101,Características biológicas,201
+2540,540102,Características epidemiológicas,201
+2541,540103,Características socio-económicas,201
+2542,540104,Distribución de edad,201
+2543,540105,Envejecimiento de la población,201
+2544,540106,Estructuras demográficas generales,201
+2545,540107,Genética de la población,201
+2546,540108,Morbilidad,201
+2547,540109,Otras,201
+2548,540110,Población activa,201
+2549,540111,Sexo,201
+2550,540201,Metodología de análisis,202
+2551,540202,Metodología de investigación,202
+2552,540203,Otras,202
+2553,540204,Teoría,202
+2554,540301,Demogeografía,203
+2555,540302,Demografía local,203
+2556,540303,Demografía regional,203
+2557,540304,Demografía rural,203
+2558,540305,Demografía urbana,203
+2559,540306,Movilidad y migraciones interiores,203
+2560,540307,Movilidad y migraciones internacionales,203
+2561,540308,Otras,203
+2562,540401,Cuestiones metodológicas,204
+2563,540402,Cuestiones teóricas,204
+2564,540403,Fertilidad e índice de matrimonios,204
+2565,540404,Fuentes de observación,204
+2566,540405,Migraciones,204
+2567,540406,Mortalidad,204
+2568,540407,Otras,204
+2569,540501,Esterilidad y fecundidad,205
+2570,540502,Fertilidad general,205
+2571,540503,Ilegitimidad,205
+2572,540504,Índice de matrimonios,205
+2573,540505,Índice de natalidad,205
+2574,540506,Otras,205
+2575,540601,Causas de mortalidad,206
+2576,540602,Mortalidad general,206
+2577,540603,Mortalidad infantil,206
+2578,540604,Mortalidad prenatal y perinatal,206
+2579,540605,Otras,206
+2580,540606,Relación de variables,206
+2581,540701,Otras,207
+2582,540801,Análisis demográfico,208
+2583,540802,Cálculo demográfico,208
+2584,540803,Censos de población y recogida de otros datos,208
+2585,540804,Crecimiento de la población,208
+2586,540805,Estadística de poblaciones,208
+2587,540806,Estimaciones de población,208
+2588,540807,Modelos de población,208
+2589,540808,Otras,208
+2590,540809,Previsiones de población,208
+2591,540810,Proyecciones de población,208
+2592,540811,Transición demográfica,208
+2606,550101,Educación adultos,209
+2608,560101,Desarrollo regional,210
+2609,560102,Distribución de recursos naturales,210
+2610,560103,Geografía de las actividades,210
+2611,560104,Otras,210
+2612,560105,Utilización de la tierra,210
+2613,560201,Otras,211
+2614,560301,Biogeografía,212
+2615,560302,Demogeografía,212
+2616,560303,Geografía cultural,212
+2617,560304,Geografía de la religión,212
+2618,560305,Geografía lingüística,212
+2619,560306,Geografía política,212
+2620,560307,Geografía social,212
+2621,560308,Otras,212
+2622,560401,Geografía rural,213
+2623,560402,Geografía urbana,213
+2624,560403,Otras,213
+2625,560501,Otras,214
+3936,560601,Otros,299
+3937,560701,Planeación y Desarrollo,300
+3938,560801,Otros,301
+2626,570101,Arqueología,215
+2627,570102,Ciencia de la cerámica,215
+2628,570103,Epigrafía,215
+2629,570104,Estratigrafía,215
+2630,570105,Filología,215
+2631,570106,Heráldica,215
+2632,570107,Iconografía,215
+2633,570108,Numismática,215
+2634,570109,Onomástica,215
+2635,570110,Otras,215
+2636,570111,Paleografía,215
+2637,570112,Papirología,215
+2638,570113,Sigilografía,215
+2639,570201,Historia local,216
+2640,570202,Historia regional,216
+2641,570203,Otras,216
+2642,570301,Historia comparada,217
+2643,570302,Historiografía,217
+2644,570303,Monografías históricas,217
+2645,570304,Otras,217
+2646,570305,Teorías y métodos,217
+2647,570401,Historia antigua,218
+2648,570402,Historia contemporánea,218
+2649,570403,Historia medieval,218
+2650,570404,Historia moderna,218
+2651,570405,Otras,218
+2652,570406,Prehistoria,218
+2653,570501,Historia de la arquitectura,219
+2654,570502,Historia de la astronomía,219
+2655,570503,Historia de la biología,219
+2656,570504,Historia de la botánica,219
+2657,570505,Historia de la ciencia,219
+2658,570506,Historia de la economía,219
+2659,570507,Historia de la educación,219
+2660,570508,Historia de la filosofía,219
+2661,570509,Historia de la física,219
+2662,570510,Historia de la geografía,219
+2663,570511,Historia de la geología,219
+2664,570512,Historia de la guerra,219
+2665,570513,Historia de la lingüística,219
+2666,570514,Historia de la literatura,219
+2667,570515,Historia de la lógica,219
+2668,570516,Historia de la magistratura,219
+2669,570517,Historia de la medicina,219
+2670,570518,Historia de la química,219
+2671,570519,Historia de la sociología,219
+2672,570520,Historia de la tecnología,219
+2673,570521,Historia de las ideas políticas,219
+2674,570522,Historia de las relaciones internacionales,219
+2675,570523,Historia de las religiones,219
+2676,570524,Historia del arte,219
+2677,570525,Historia del derecho y de las instituciones jurídicas,219
+2678,570526,Historia del periodismo,219
+2679,570527,Otras,219
+2680,570601,Otras,220
+3912,570701,Otros,293
+2681,580101,Desarrollo socio-económico,221
+2682,580102,Evolución de las sociedades,221
+2683,580103,Otras,221
+2684,580104,Países en vías de desarrollo,221
+2685,580105,Política social,221
+2686,580106,Seguridad social,221
+2687,580107,Servicios sociales,221
+2688,580108,Tecnología y cambio social,221
+2689,580201,Otras,222
+2690,580202,Signos,222
+2691,580203,Símbolos,222
+2692,580204,Sociolingüística,222
+2693,580301,Castas,223
+2694,580302,Clases sociales,223
+2695,580303,Elites,223
+2696,580304,Estratificación social,223
+2697,580305,Familia, parentesco,223
+2698,580306,Matrimonio,223
+2699,580307,Movilidad social,223
+2700,580308,Otras,223
+2701,580309,Posición social de la mujer,223
+2702,580310,Tribus,223
+2594,580401,Ciencias criminológicas,224
+2703,580402,Otras,224
+2704,580501,Conflictos,225
+2705,580502,Guerra y paz,225
+2706,580503,Otras,225
+2707,580504,Problemas de las relaciones internacionales,225
+2708,580505,Solución de conflictos,225
+2719,580611,Nivel de vida,226
+2720,580612,Otras,226
+2721,580613,Pobreza,226
+2722,580614,Relaciones interraciales,226
+2723,580615,Terrorismo,226
+2709,580601,Bienestar social,226
+2710,580602,Calidad de vida,226
+2711,580603,Conflicto social y adaptación,226
+2712,580604,Crimen,226
+2713,580605,Delincuencia,226
+2714,580606,Desempleo,226
+2715,580607,Enfermedad,226
+2716,580608,Hambre,226
+2717,580609,Inadaptados,226
+2718,580610,Minusválidos,226
+2725,580701,Civilización y caracteres nacionales,227
+2726,580702,Estudios Regionales,227
+2727,580703,Evolución cultural,227
+2728,580704,Folklore,227
+2729,580705,Lengua y cultura,227
+2730,580706,Otras,227
+2731,580707,Relaciones culturales,227
+2732,580708,Relaciones interétnicas,227
+2733,580709,Sociología de la literatura,227
+2734,580710,Sociología de la religión,227
+2735,580711,Sociología del arte,227
+2736,580712,Sociología del derecho,227
+2737,580801,Barrios bajos,228
+2738,580802,Estudios de comunidad,228
+2739,580803,Otras,228
+2740,580804,Sociología ecológica,228
+2741,580805,Sociología local,228
+2742,580806,Sociología rural,228
+2743,580807,Sociología urbana,228
+2744,580901,Burocracia,229
+2745,580902,Otras,229
+2746,580903,Sociología de la ciencia,229
+2747,580904,Sociología de la educación,229
+2748,580905,Sociología de los medios de comunicación de masas,229
+2749,580906,Sociología del derecho,229
+2750,580907,Sociología educativa,229
+2751,580908,Sociología industrial,229
+2752,580909,Sociología médica,229
+2753,581001,Diseño de investigación social,230
+2754,581002,Métodos de investigación social,230
+2755,581003,Otras,230
+2756,581004,Psicología social,230
+2757,581005,Recogida de datos de campo,230
+2724,581101,Desarrollo regional,231
+2758,581102,Metodología,231
+2759,581103,Otras,231
+2760,581104,Sociografía,231
+2761,581105,Sociología comparada,231
+2762,581106,Sociología histórica,231
+2763,581107,Teoría,231
+2764,581201,Análisis estadístico,232
+2765,581202,Elaboración de modelos,232
+2766,581203,Medida y construcción de índices,232
+2767,581204,Otras,232
+3926,581304,Atención a la violencia familiar,298
+3927,581401,Ciencias de la familia,298
+3932,581406,Prevención de adicciones,298
+3933,581407,Trabajo social,298
+3934,581408,Trabajo social comunitario,298
+3935,581409,Trabajo social y desarrollo humano,298
+3928,581402,Consultoría familiar,298
+3929,581403,Gericultura,298
+3930,581404,Intervención en violencia,298
+3931,581405,Orientación familiar,298
+3923,581301,Estudios de género y de la mujer,297
+3924,581302,Estudios de la familia,297
+3925,581303,Trabajo social,297
+4531,01,Otras ,612
+4330,5010101,Otras,494
+4331,5010201,Otras,495
+4332,5010301,Otras,496
+4333,5010401,Otras,497
+4334,5010501,Otras,498
+4335,5010601,Otras,499
+4336,5010701,Otras,500
+3916,590102,Mercadotecnia y publicidad,292
+3911,590101,Negocios y comercio,292
+3917,590103,Finanzas, banca y seguros,292
+3918,590104,Contabilidad y fiscalización,292
+3919,590201,Administración de empresas,296
+3920,590202,Administración turística y de restaurantes,296
+3921,590203,Administración en el ámbito de la ingeniería y la construcción,296
+3922,590204,Administración en los campos de la educación, salud, deporte, agronomía y las artes y humanidades,296
+4611,590205,Administración de la Innovación,296
+3941,5000301,Otros,304
+3939,5000101,Otros,302
+3940,5000201,Otros,303
+3942,5000401,Otros,305
+4551,Otr,Otras,632
+4552,Otr,Otras,633
+4890,5020101,Bibliotecología y estudios de la información,871
+4891,5020201,Desarrollo científico y tecnológico,872
+4892,5020301,Gestión de innovación de las tecnologías de información y comunicación,873
+4893,5020401,Gestión de la tecnología,874
+4894,5020501,Gestión sustentable del agua,875
+4975,747,Migración,953
+4976,748,Violencias,953
+4977,749,Trabajo,953
+4978,749,Participación políticas de las mujeres,953
+4979,750,Otras,953
+4980,752,Sexualidades e identidades,954
+4981,754,Otras,954
+4982,756,Historia del feminismo,955
+4983,758,Representaciones culturales y prácticas sociales,955
+4984,759,Construcción de la subjetividad,955
+4985,760,Otras,955
+4986,762,Salud mental,956
+4987,763,Salud reproductiva,956
+4988,763,Desigualdad,956
+4989,764,Otras,956
+2934,600105,Nutrición y alimentos,233
+2935,600106,Toxicología,233
+2777,600101,Cereales y leguminosas,233
+2931,600102,Control de calidad,233
+2932,600103,Fermentación,233
+2933,600104,Investigación,233
+4374,600201,Otras,532
+4375,600301,Otras,533
+4376,600401,Otras,534
+4377,600501,Otras,535
+4380,600601,Otras,536
+4379,600701,Otras,537
+4378,600801,Otras,538
+4373,600901,Otras,539
+4372,601001,Otras ,540
+4382,601101,Otras,541
+4381,601201,Otras,542
+2768,610101,Acarología,234
+2769,610102,Agricultura, silvicultura, pesca,234
+2770,610103,Algología (ficología),234
+2771,610104,Anatomía vegetal,234
+2772,610105,Biología marina,234
+2773,610106,Botánica general,234
+2774,610107,Briología,234
+2775,610108,Césped,234
+2776,610109,Citología vegetal,234
+2778,610110,Comportamiento del suelo en cultivos rotatorios,234
+2779,610111,Control de malezas,234
+2780,610112,Cultivos de campo,234
+2781,610113,Cultivos de plantas ornamentales,234
+2782,610114,Cultivos forrajeros,234
+2783,610115,Dendrología,234
+2784,610116,Desarrollo vegetal,234
+2785,610117,Ecología vegetal,234
+2786,610118,Educación agrícola,234
+2787,610119,Epidemiología,234
+2788,610120,Explotación de los cultivos,234
+2789,610121,Fertilidad del suelo,234
+2790,610122,Fijación biológica del nitrógeno,234
+2791,610123,Fijación y movilización biológica de nutrientes,234
+2792,610124,Fisiología de la maduración,234
+2793,610125,Fisiología vegetal,234
+2794,610126,Fitobiología,234
+2795,610127,Fitopatología,234
+2796,610128,Fitopatología,234
+2797,610129,Genética vegetal,234
+2798,610130,Gestión de la producción vegetal,234
+2799,610131,Hibridación de cultivos,234
+2800,610132,Histología vegetal,234
+2801,610133,Ingeniería agrícola,234
+2802,610134,Limnología,234
+2803,610135,Maquinaria agrícola,234
+2804,610136,Micología (setas),234
+2805,610137,Nutrición vegetal,234
+2806,610138,Nutrición vegetal,234
+2807,610139,Paleobotánica,234
+2808,610140,Parasitología vegetal,234
+2809,610141,Pastos,234
+2810,610142,Producción de cultivos,234
+2811,610143,Propagación de vegetales,234
+2812,610144,Protección de los cultivos,234
+2813,610145,Pteridología,234
+2814,610146,Semillas,234
+2815,610147,Sistemas de producción agropecuaria,234
+2816,610148,Taxonomía vegetal,234
+2817,610149,Técnicas de cultivo,234
+2818,610150,Uso (manejo) combinado del agua y fertilizantes,234
+2819,610151,Uso y conservación del agua,234
+3951,610152,Fitomejoramiento y protección de las plantas,234
+2820,610201,Fabricación de abonos,235
+2821,610202,Fungicidas,235
+2822,610203,Herbicidas,235
+2823,610204,Insecticidas,235
+2824,610205,Otras,235
+2825,610206,Plaguicidas,235
+2826,610207,Productos agrícolas no alimenticios,235
+2827,610208,Productos de la pesca,235
+2828,610209,Productos lácteos,235
+2829,610210,Reguladores del crecimiento de las plantas,235
+2830,610211,Utilización de abonos,235
+2831,610301,Otras,236
+2832,610302,Tecnología de la madera,236
+2833,610401,Agricultura, silvicultura, pesca,237
+2834,610402,Conservación,237
+2835,610403,Control de la erosión,237
+2836,610404,Ordenación de cuencas fluviales,237
+2837,610405,Ordenación de montes,237
+2838,610406,Ordenación de pastos,237
+2839,610407,Otras,237
+2840,610408,Productos,237
+2841,610409,Protección,237
+2842,610410,Silvicultura,237
+2843,610411,Técnicas de cultivo,237
+2844,610412,Tecnología de la madera,237
+4393,610540,Enfermería veterinaria,238
+2845,610501,Anatomía,238
+2846,610502,Anatomía animal,238
+2847,610503,Cirugía,238
+2848,610504,Citología animal,238
+2849,610505,Comportamiento animal,238
+2850,610506,Comunicación animal,238
+2851,610507,Crecimiento animal,238
+2852,610508,Desarrollo animal,238
+2853,610509,Ecología animal,238
+2854,610510,Embriología animal,238
+2855,610511,Farmacología,238
+2856,610512,Fisiología,238
+2857,610513,Fisiología animal,238
+2858,610514,Genética,238
+2859,610515,Genética animal,238
+2860,610516,Herpetología,238
+2861,610517,Histología animal,238
+2862,610518,Inmunología,238
+2863,610519,Invertebrados,238
+2864,610520,Invertebrados no insectos,238
+2865,610521,Mamíferos,238
+2866,610522,Medicina interna,238
+2867,610523,Microbiología,238
+2868,610524,Nutrición,238
+2869,610525,Ornitología,238
+2870,610526,Parasitología animal,238
+2871,610527,Patología,238
+2872,610528,Patología animal,238
+2873,610529,Porcicultura,238
+2874,610530,Primates,238
+2875,610531,Producción animal tropical,238
+2876,610532,Protozoología,238
+2877,610533,Taxonomía animal,238
+2878,610534,Vertebrados,238
+2879,610535,Virología,238
+2880,610536,Zoología general,238
+2929,610537,Zoología marina,238
+4396,610543,Otros,238
+4391,610538,Asistencia veterinaria,238
+4392,610539,Ciencias de la reproducción animal,238
+4395,610542,Salud y producción animal,238
+4394,610541,Higiene veterinaria y salud pública,238
+2881,610601,Bacterias,239
+2882,610602,Control ambiental de enfermedades,239
+2883,610603,Control biológico de enfermedades,239
+2884,610604,Control químico de enfermedades,239
+2885,610605,Fisiogénesis,239
+2886,610606,Fitopatología,239
+2887,610607,Hongos,239
+2888,610608,Nemátodos,239
+2889,610609,Otras,239
+2890,610610,Susceptibilidad y resistencia vegetal,239
+2891,610611,Virus,239
+2892,610701,Floricultura,240
+2893,610702,Fruticultura,240
+2894,610703,Hibridación,240
+2895,610704,Hortalizas,240
+2896,610705,Otras,240
+2897,610706,Producción de cultivos,240
+2898,610707,Técnicas de cultivo,240
+3950,610708,Viticultura,240
+2899,610801,Otras,241
+2900,610901,Agricultura, silvicultura, pesca,242
+2901,610902,Caza,242
+2902,610903,Dinámica de las poblaciones,242
+2903,610904,Elaboración del pescado,242
+2904,610905,Hábitos de alimentación,242
+2905,610906,Influencia del hábitat,242
+2906,610907,Localización de peces,242
+2907,610908,Ordenación y conservación de la fauna silvestre,242
+2908,610909,Otras,242
+2909,610910,Piscicultura,242
+2910,610911,Propagación y ordenación,242
+2911,610912,Protección de los peces,242
+2912,610913,Reglamentación y control,242
+2913,610914,Técnicas pesqueras,242
+2914,611001,Apicultura,243
+2915,611002,Avicultura,243
+2916,611003,Bovinos,243
+2917,611004,Cría,243
+2918,611005,Cuidado y explotación,243
+2919,611006,Équidos,243
+2920,611007,Nutrición,243
+2921,611008,Otras,243
+2922,611009,Ovinos,243
+2923,611010,Porcinos,243
+2924,611011,Productos,243
+2925,611012,Reproducción,243
+2926,611013,Selección,243
+2927,611014,Sericultura,243
+2928,611015,Sistema de producción ganadera,243
+2936,611101,Genética animal,244
+2937,611102,Lactología,244
+2938,611103,Nutrición animal,244
+3945,611203,Construcción de granjas,306
+3946,611204,Equipo de granja,306
+3943,611201,Mecánica agrícola,306
+3944,611202,Drenaje,306
+3947,611205,Riego,306
+3948,611206,Otros,306
+3949,611301,Otros,307
+3972,611404,Ciencia y tecnología de la pesca,308
+3973,611405,Cultivos acuícolas,308
+3974,611406,Ingeniería acuícola,308
+3975,611407,Ingeniería en pesquerías,308
+3976,611408,Piscifactoría,308
+3969,611401,Acuicultura o acuacultura,308
+3970,611402,Biología pesquera,308
+3971,611403,Biotecnología en acuacultura,308
+4004,611701,Otros,327
+4001,611504,Tecnologías de producción de materias primas de biomasa,325
+3998,611501,Cultivos y ganado,325
+3999,611502,Clonación de ganado,325
+4000,611503,Selección asistida por marcador,325
+4002,611505,Biofarmacia,325
+4003,611601,Otros,326
+4895,640101,Enfermedades veterinarias,876
+4896,630101,Acuacultura,877
+4897,630201,Bioeconomía pesquera y acuícola,878
+4898,630301,Cultivos en ambientes controlados,879
+4899,630401,Recursos acuáticos,880
+4160,100203,Otras,372
+4111,100201,Antenas,372
+4159,100202,Radiotelescopios,372

@@ -1,600 +1,600 @@
-idDisciplina,cveDisciplina,descDisciplina,idCampoConocimiento
-65,2014,Ecología,7
-66,2015,Edafología,7
-67,2016,Electrónica,7
-68,2017,Etnobiología,7
-69,2018,Etología,7
-70,2019,Farmacia,7
-71,2020,Farmacología,7
-72,2021,Fisiología Humana,7
-73,2022,Genética,7
-74,2023,Inmunología,7
-75,2024,Microbiología,7
-76,2025,Neurociencias,7
-77,2026,Otras especialidades de la biología,7
-78,2027,Paleontología,7
-79,2028,Polímeros y materiales,7
-80,2029,Química analítica,7
-81,2030,Química farmacéutica,7
-82,2031,Química física,7
-83,2032,Química inorgánica,7
-84,2033,Química macromolecular,7
-85,2034,Química nuclear,7
-86,2035,Química orgánica,7
-87,2036,Radiobiología,7
-88,2037,Simbiosis,7
-89,2038,Tecnología de alimentos,7
-90,2039,Virología,7
-592,Proteomi,Proteómica,7
-51,2001,Antropología (física),7
-52,2002,Biofísica,7
-53,2003,Biología animal (zoología),7
-54,2004,Biología celular,7
-55,2005,Biología de insectos (Entomología),7
-56,2006,Biología humana,7
-57,2007,Biología integrativa,7
-58,2040,Biología molecular,7
-59,2008,Biología vegetal (botánica),7
-60,2009,Biomatemáticas,7
-61,2010,Biometría,7
-62,2011,Bioquímica,7
-63,2012,Biotecnología,7
-64,2013,Ciencias pesqueras,7
-492,2101,Desarrollo Sustentable ,73
-698,2201,Bioinformática,115
-699,2202,Biología del desarrollo / embriología,115
-700,2203,Biología estructural,115
-701,2204,Campos emergentes,115
-702,2205,Ciencia de los alimentos,115
-703,2206,Enfermedades infecciosas,115
-704,2207,Farmacología animal,115
-705,2208,Farmacología humana,115
-706,2209,Genómica animal,115
-707,2210,Genómica humana,115
-708,2211,Neurobiología,115
-709,2212,Salud ambiental,115
-710,2301,Anatomía,116
-711,2302,Bacteriología,116
-712,2303,Biología de poblaciones,116
-713,2304,Biología evolutiva,116
-714,2305,Endocrinología,116
-715,2306,Fisiología biofísica,116
-716,2307,Fisiología vegetal,116
-717,2308,Genética vegetal,116
-718,2309,Genética y evolución,116
-719,2310,Limnología,116
-720,2311,Morfología,116
-721,2312,Parasitología,116
-722,2401,Electroquímica,117
-723,2402,Química general,117
-724,2403,Química teórica,117
-725,2501,Bioseguridad,118
-726,2502,Biosistemática y manejo de recursos naturales,118
-727,2503,Conservación de ecosistemas,118
-728,2504,Ecología marina,118
-729,2505,Ecología molecular,118
-730,2506,Gestión ambiental,118
-731,2507,Gestión ambiental para la sustentabilidad,118
-732,2508,Manejo de recursos marinos,118
-733,2509,Mitigación y adaptación al cambio climático,118
-734,2510,Química de recursos naturales,118
-735,2511,Química del ambiente,118
-736,2512,Seguridad hídrica,118
-168,5001,Administración pública,19
-169,5002,Ciencias políticas,19
-170,5003,Ideologías políticas,19
-171,5004,Instituciones políticas,19
-172,5005,Opinión pública,19
-173,5006,Otras especialidades políticas,19
-174,5007,Relaciones internacionales,19
-175,5008,Sistemas políticos,19
-176,5009,Sociología política,19
-177,5010,Teoría política,19
-178,5011,Vida política,19
-512,PP,Políticas públicas,19
-552,ESTAREA,Estudios de Área,19
-179,5101,Didáctica, pedagogí­a y currí­culo,20
-180,5102,Educación,20
-932,5103,Polí­tica Educativa,20
-181,5201,Actividad económica,21
-182,5202,Contabilidad económica,21
-183,5203,Econometría,21
-184,5204,Economía del cambio tecnológico,21
-185,5205,Economía general,21
-186,5206,Economía internacional,21
-187,5207,Economía sectorial,21
-188,5208,Organización industrial y política pública,21
-189,5209,Organización y dirección de empresas,21
-190,5210,Otras especialidades económicas,21
-191,5211,Política fiscal y hacienda pública nacionales,21
-192,5212,Sistemas económicos,21
-193,5213,Teoría económica,21
-992,Calidad,Gestión de la calidad,21
-1032,5214,Políticas públicas,21
-194,5301,Derecho,22
-195,5302,Derecho canónico,22
-196,5303,Derecho internacional,22
-197,5304,Derecho y legislación nacionales,22
-198,5305,Organización jurídica,22
-199,5306,Otras especialidades jurídicas,22
-200,5307,Teoría y métodos generales,22
-294,5308,Derecho y criminología,22
-201,5401,Características de la población,23
-202,5402,Demografía general,23
-203,5403,Demografía geográfica,23
-204,5404,Demografía histórica,23
-205,5405,Fertilidad,23
-206,5406,Mortalidad,23
-207,5407,Otras especialidades demográficas,23
-208,5408,Tamaño de la población y evolución demográfica,23
-209,5501,Formación docente para otros servicios educativos,24
-210,5601,Geografía económica,25
-211,5602,Geografía histórica,25
-212,5603,Geografía humana,25
-213,5604,Geografía regional,25
-214,5605,Otras especialidades geográficas,25
-299,5606,Ciencias medioambientales (aspectos sociales),25
-300,5607,Estudios urbanos,25
-301,5608,Planeación del transporte y aspectos sociales del transporte,25
-215,5701,Ciencias auxiliares de la historia,26
-216,5702,Historia de países,26
-217,5703,Historia general,26
-218,5704,Historia por épocas,26
-219,5705,Historia por especialidades,26
-220,5706,Otras especialidades históricas,26
-293,5707,Biografías,26
-221,5801,Cambio y desarrollo social,27
-222,5802,Comunicaciones sociales,27
-223,5803,Grupos sociales,27
-224,5804,Otras especialidades sociológicas,27
-225,5805,Problemas internacionales,27
-226,5806,Problemas sociales,27
-227,5807,Sociología cultural,27
-228,5808,Sociología de los asentamientos humanos,27
-229,5809,Sociología del trabajo,27
-230,5810,Sociología experimental,27
-231,5811,Sociología general,27
-232,5812,Sociología matemática,27
-298,5814,Trabajo y atención social,27
-297,5813,Problemas sociales ó social topics,27
-612,5815,Sociología de la educación,27
-494,50101,Análisis de riesgos ,75
-495,20102,Análisis de tendencias ,75
-496,50103,Desarrollo sustentable ,75
-497,50104,Futuro de los conocimientos y nuevas tecnologías ,75
-498,50105,Nuevos sistemas organizacionales ,75
-499,50106,Otras especialidades en materias prospectivas ,75
-500,50107,Planeación y diseño de estrategias ,75
-292,5901,Negocios y contabilidad,33
-296,5902,Administración y gestión,33
-304,50003,Bibliotecología,34
-302,50001,Periodismo,34
-303,50002,Ciencias de la información,34
-305,50004,Medios de comunicación y comunicación socio cultural,34
-632,DivCienc,Divulgación de la ciencia,93
-633,PerCient,Periodismo científico,93
-871,50201,Bibliotecología y estudios de la información,124
-872,50202,Desarrollo científico y tecnológico,124
-873,50203,Gestión de innovación de las tecnologías de información y comunicación,124
-874,50204,Gestión de la tecnología,124
-875,50205,Gestión sustentable del agua,124
-953,746,Políticas Públicas y Ciudadanía,133
-954,760,Cuerpo y sexualidades ,133
-955,755,Feminismo, historia y cultura,133
-956,761,Salud y género,133
-233,6001,Tecnología de alimentos,28
-532,6002,Bioprocesos ,28
-533,6003,Biotecnología marina,28
-534,6004,Biotecnología productiva,28
-535,6005,Biotecnología vegetal,28
-536,6006,Biotecnología enzimática y biocatálisis,28
-537,6007,Biotecnología de alimentos y bebidas,28
-538,6008,Biotecnología ambiental,28
-539,6009,Bioingeniería y fermentaciones,28
-540,6010,Bioenergía y biocombustibles,28
-541,6011,Fisiología microbiana y áreas emergentes,28
-542,6012,Biotecnología médico farmacéutica,28
-234,6101,Agronomía,29
-235,6102,Agroquímica,29
-236,6103,Bosques y Maderas,29
-237,6104,Ciencia Forestal,29
-238,6105,Ciencias veterinarias,29
-239,6106,Fitopatología,29
-240,6107,Horticultura,29
-241,6108,Otras especialidades agrarias,29
-242,6109,Peces y fauna silvestre,29
-243,6110,Producción animal,29
-244,6111,Zootecnia,29
-306,6112,Ingeniería agrícola,29
-307,6113,Agricultura,29
-308,6114,Pesca y acuicultura,29
-327,6117,Biotecnología agricola y biotecnología alimentaria,35
-325,6115,Tecnología GM (genéticamente modificada),35
-326,6116,Ética relacionada con la biotecnología agrícola,35
-876,6401,Enfermedades veterinarias,125
-877,6301,Acuacultura,126
-878,6302,Bioeconomía pesquera y acuícola,126
-879,6303,Cultivos en ambientes controlados,126
-880,6304,Recursos acuáticos,126
-372,1002,Radioastronomía,1
-373,1003,Planetología,1
-375,1005,Medios interplanetarios,1
-376,1006,Otras especialidades astronómicas,1
-374,1004,Cosmología y cosmogonía,1
-377,1007,Sistema Solar,1
-1,1001,Astronomía óptica,1
-392,1102,Cosmología y cosmogonía,2
-395,1105,Planetología,2
-396,1106,Radioastronomía,2
-397,1107,Sistema Solar,2
-393,1103,Medios interplanetarios,2
-394,1104,Otras especialidades astronómicas,2
-2,1101,Astronomía óptica,2
-3,1201,Ciencias de la atmósfera,3
-4,1202,Ciencias del espacio,3
-5,1203,Ciencias del suelo (edafología),3
-6,1204,Climatología,3
-7,1205,Geodesia,3
-8,1206,Geofísica,3
-9,1207,Geografía,3
-10,1208,Geología,3
-11,1209,Geoquímica,3
-12,1210,Hidrología,3
-13,1211,Meteorología,3
-14,1212,Oceanografía,3
-15,1213,Oceanología,3
-16,1214,Otras especialidades de la tierra, espacio o entorno,3
-352,1318,Física médica,4
-398,1319,Otras especialidades físicas,4
-412,1320,Ingeniería física,4
-17,1301,Acústica,4
-18,1302,Electromagnetismo,4
-19,1303,Electrónica,4
-20,1304,Física atómica y nuclear,4
-21,1305,Física de altas energías,4
-22,1306,Física de fluídos,4
-23,1307,Física del estado sólido,4
-24,1308,Fisica estadística,4
-25,1309,Física molecular,4
-26,1310,Física teórica,4
-27,1311,Mecánica,4
-28,1312,Nucleónica,4
-29,1313,Óptica,4
-30,1314,Química física,4
-31,1315,Termodinámica,4
-32,1316,Unidades y constantes,4
-33,1317,Radiación,4
-34,1401,Aplicaciones de la lógica,5
-35,1402,Lógica deductiva,5
-36,1403,Lógica general,5
-37,1404,Lógica inductiva,5
-38,1405,Metodología,5
-39,1406,Otras especialidades relativas a la lógica,5
-40,1501,Álgebra,6
-41,1502,Análisis numérico,6
-42,1503,Análisis y análisis funcional,6
-43,1504,Ciencia de los ordenadores,6
-44,1505,Estadística,6
-45,1506,Geometría,6
-46,1507,Investigación operativa,6
-47,1508,Otras especialidades matemáticas,6
-48,1509,Probabilidad,6
-49,1510,Teoría de números,6
-50,1511,Topología,6
-493,1601,Desarrollo Sustentable ,74
-693,1701,Ciencias del mar,114
-694,1702,Manejo costero,114
-695,1703,Oceanografía costera,114
-696,1704,Oceanografía física,114
-697,1705,Oceanografía química,114
-114,4001,Antropología cultural,10
-115,4002,Antropología física,10
-116,4003,Antropología social,10
-117,4004,Arqueología,10
-118,4005,Etnografía y etnología,10
-119,4006,Otras especialidades antropológicas,10
-316,4107,Estudios de las artes escénicas,10
-672,4108,Museología,10
-120,4101,Arquitectura,11
-121,4101,Arquitectura (Planeación regional o urbana),11
-122,4102,Otras especialidades artísticas,11
-123,4103,Teoría, análisis y crítica de las bellas artes,11
-124,4104,Teoría, análisis y crítica literarias,11
-314,4107,Estudios de las artes escénicas,11
-312,4105,Artes,11
-313,4106,Diseño arquitectónico,11
-317,4108,Estudios del folklore ,11
-652,Diseño,Diseño,11
-125,4201,Ética clásica,12
-126,4202,Ética de grupo,12
-127,4203,Ética de individuos,12
-128,4204,La ética en perspectiva,12
-129,4205,Otras especialidades relacionadas con la ética,12
-311,4206,Estudios Religiosos ,12
-130,4301,Antropología filosófica,13
-131,4302,Doctrinas filosóficas,13
-132,4303,Filosofía de la ciencia,13
-133,4304,Filosofía de la naturaleza,13
-134,4305,Filosofía del conocimiento,13
-135,4306,Filosofía general,13
-136,4307,Filosofía social,13
-137,4308,Otras especialidades filosóficas,13
-138,4309,Sistemas filosóficos,13
-310,4310,Historia y filosofía de la ciencia y tecnología,13
-139,4401,Historia de la ciencia,14
-140,4402,Historia regional,14
-331,4404,Historia general,14
-335,4408,Historia por especialidades,14
-330,4403,Biografías,14
-332,4405,Historia de países ,14
-333,4406,Historia por épocas,14
-334,4407,Ciencias auxiliares de la historia ,14
-912,4408,Geografía Histórica,14
-913,4409,Geopolítica,14
-141,4501,Geografía lingüística,15
-142,4502,Lingüística aplicada,15
-143,4503,Lingüística diacrónica,15
-144,4504,Lingüística sincrónica,15
-145,4505,Otras especialidades lingüísticas,15
-146,4506,Teoría lingüística,15
-993,4510,Onomástica,15
-147,4601,Literatura española,16
-148,4701,Organización y planificación de la educación,17
-149,4702,Otras especialidades pedagógicas,17
-150,4703,Preparación y empleo de profesores,17
-151,4704,Teoría y métodos educativos,17
-152,4801,Asesoramiento y orientación,18
-153,4802,Desarrollo humano,18
-154,4803,Estudio psicológico de temas sociales,18
-155,4804,Evaluación y diagnóstico en psicología,18
-156,4805,Otras especialidades psicológicas,18
-157,4806,Parapsicología,18
-158,4807,Patología,18
-159,4808,Personalidad,18
-160,4809,Psicofarmacología,18
-161,4810,Psicología de la vejez,18
-162,4811,Psicología del niño y del adolescente,18
-163,4812,Psicología experimental,18
-164,4813,Psicología general,18
-165,4814,Psicología industrial,18
-166,4815,Psicología social,18
-167,4816,Psicopedagogía,18
-338,4904,Teoría de la literatura,37
-336,4901,Estudios generales del lenguaje,37
-337,4902,Lenguajes específicos,37
-339,4905,Literatura específica,37
-340,4903,Estudios generales de literatura,37
-503,40003,Otras especialidades en materia prospectiva ,76
-501,40001,Desarrollo sustentable ,76
-504,40005,Futuro de los conocimientos y las nuevas tecnologías ,76
-854,40101,Arquitectura, diseño y urbanismo,122
-855,40102,Ciencias del hábitat,122
-856,40103,Ciudad territorio  y sustentabilidad,122
-857,40104,Ciudad y espacio público sustentable,122
-858,40105,Conservación del patrimonio arquitectónico,122
-859,40106,Diseño urbano,122
-860,40107,Diseño, planificación y conservación  de paisajes y jardines,122
-861,40108,Proyectos y edificación sustentables,122
-862,40109,Valuación inmobiliaria,122
-863,40201,Artes escénicas,123
-864,40202,Artes para el diseño,123
-865,40203,Estética,123
-866,40204,Estudios culturales,123
-867,40205,Estudios y procesos creativos en arte y diseño,123
-868,40206,Gestión y desarrollo cultural,123
-869,40207,Música,123
-870,40208,Producción artística,123
-957,770,Políticas públicas y ciudadanía,134
-958,779,Cuerpo y sexualidades,134
-959,782,Feminismo, historia y cultura,134
-960,784,Salud y género,134
-245,7001,Computación,30
-246,7002,Ingeniería y tecnología aeronáuticas,30
-247,7003,Ingeniería y tecnología del medio ambiente,30
-248,7004,Ingeniería y tecnología eléctricas,30
-249,7005,Ingeniería y tecnología químicas,30
-250,7006,Otras especialidades tecnológicas,30
-251,7007,Planificación urbana,30
-252,7008,Procesos tecnológicos,30
-253,7009,Tecnología bioquímica,30
-254,7010,Tecnología de la construcción,30
-255,7011,Tecnología de la instrumentación,30
-452,7032,Tecnología de los productos metálicos,30
-256,7012,Tecnología de las telecomunicaciones,30
-257,7013,Tecnología de los alimentos,30
-258,7014,Tecnología de los ferrocarriles,30
-259,7015,Tecnología de los ordenadores,30
-260,7016,Tecnología de los sistemas de transporte,30
-261,7017,Tecnología de materiales,30
-262,7018,Tecnología de vehículos de motor,30
-263,7019,Tecnología del carbón y del petróleo,30
-264,7020,Tecnología del espacio,30
-265,7021,Tecnología e ingeniería mecánicas,30
-266,7022,Tecnología electrónica,30
-267,7023,Tecnología energética,30
-268,7024,Tecnología industrial,30
-269,7025,Tecnología médica,30
-270,7026,Tecnología metalúrgica,30
-271,7027,Tecnología minera,30
-272,7028,Tecnología naval,30
-273,7029,Tecnología nuclear,30
-274,7030,Tecnología textil,30
-291,7031,Instrumentación y mantenimiento,30
-472,7117,Ingeniería eléctrica ,32
-572,INGNEG,Ingeniería en negocios,32
-275,7101,Diseño industrial,32
-276,7102,Ingeniería civil,32
-277,7103,Ingeniería de sistemas,32
-278,7104,Ingeniería de telecomunicaciones,32
-279,7105,Ingeniería electrónica,32
-280,7106,Ingeniería energética,32
-281,7107,Ingeniería hidráulica,32
-282,7108,Ingeniería industrial,32
-283,7109,Ingeniería mecánica,32
-284,7110,Ingeniería metalúrgica y geológica,32
-285,7111,Ingeniería minera,32
-286,7112,Ingeniería naval,32
-287,7113,Ingeniería nuclear,32
-288,7114,Ingeniería petrolera y petroquímica,32
-289,7115,Ingeniería química,32
-290,7116,Ingeniería textil,32
-972,7120,Ingeniería mecatrónica,32
-1012,Ing,Ingeniería ambiental,32
-1052,7121,Otras,32
-505,7201,Construcción de escenarios ,77
-507,7203,Nuevas fuentes de energía ,77
-506,7202,Desarrollo sustentable ,77
-91,3001,Biología humana,8
-92,3002,Bioquímica,8
-93,3003,Ciencias clínicas,8
-94,3004,Ciencias de la nutrición,8
-95,3005,Cirugía,8
-96,3006,Epidemiología,8
-97,3007,Farmacodinámica,8
-98,3008,Farmacología,8
-99,3009,Fisiología humana,8
-100,3010,Medicina,8
-101,3011,Medicina del trabajo,8
-102,3012,Medicina forense,8
-103,3013,Medicina interna,8
-104,3014,Medicina preventiva,8
-105,3015,Odontología,8
-106,3016,Otras especialidades médicas,8
-107,3017,Patología,8
-108,3018,Psiquiatría,8
-109,3019,Salud pública,8
-110,3020,Toxicología,8
-309,3021,Medicina general,8
-892,Sex,Sexología,8
-952,1050,Salud y Género,8
-111,3101,Ciencias clínicas,9
-112,3102,Neurociencias,9
-113,3103,Planificación familiar,9
-320,3106,Salúd pública y ambiental,9
-321,3107,Medicina trópical ,9
-322,3108,Salud Ocupacional,9
-318,3104,Ciencias y servicios de la salud,9
-319,3105,Política y Servicios de salud,9
-323,3109,Ciencias del deporte y del fitness,9
-324,3110,Ciencias biomédicas sociales,9
-1072,EMEDICAS,Especialidad médica,9
-329,3202,Enfermería de especialidad,36
-328,3201,Enfermería general y obstetricia,36
-432,3301,Electrónica, instrumentación, biomecánica,53
-737,3401,Acupuntura humana,119
-738,3402,Alergia e inmunología clínica,119
-739,3403,Alergia e inmunología clínica pediátrica,119
-740,3404,Anatomía patológica,119
-741,3405,Anestesiología,119
-742,3406,Anestesiología pediátrica,119
-743,3407,Angiología y cirugía vascular,119
-744,3408,Audiología, otoneurología y foniatria,119
-745,3409,Biología de la reproducción humana,119
-746,3410,Biomedicina molecular,119
-747,3411,Calidad de la atención clínica,119
-748,3412,Cardiología,119
-749,3413,Cardiología pediátrica,119
-750,3414,Ciencias en salud de los trabajadores,119
-751,3415,Ciencias en salud pública,119
-752,3416,Ciencias estomatológicas,119
-753,3417,Cirugía cardiotorácica,119
-754,3418,Cirugía cardiotorácica pediátrica,119
-755,3419,Cirugía de columna,119
-756,3420,Cirugía general,119
-757,3421,Cirugía oncológica,119
-758,3422,Cirugía oral y maxilofacial,119
-759,3423,Cirugía pediátrica,119
-760,3424,Cirugía plástica y reconstructiva,119
-761,3425,Coloproctologia,119
-762,3426,Dermatología,119
-763,3427,Dermatología pediátrica,119
-764,3428,Endocrinología,119
-765,3429,Endocrinología pediátrica,119
-766,3430,Estomatología pediátrica,119
-767,3431,Gastroenterología,119
-768,3432,Gastroenterología pediátrica,119
-769,3433,Genética medica,119
-770,3434,Geriatría,119
-771,3435,Ginecología oncológica,119
-772,3436,Ginecología y obstetricia,119
-773,3437,Hematología,119
-774,3438,Hematología pediátrica,119
-775,3439,Imagenologia, diagnostica y terapéutica,119
-776,3440,Infectología,119
-777,3441,Infectología pediátrica,119
-778,3442,Infectómica y patogénesis molecular,119
-779,3443,Investigación médica, línea terminal biomedicina,119
-780,3444,Medicina de rehabilitación,119
-781,3445,Medicina del enfermo en estado crítico,119
-782,3446,Medicina del enfermo pediátrico en estado critico,119
-783,3447,Medicina familiar,119
-784,3448,Medicina materno fetal,119
-785,3449,Medicina nuclear,119
-786,3450,Medicina paliativa y del dolor,119
-787,3451,Nefrología,119
-788,3452,Nefrología pediátrica,119
-789,3453,Neonatología,119
-790,3454,Neumología,119
-791,3455,Neumología pediátrica,119
-792,3456,Neuroanestesiologia,119
-793,3457,Neurocirugía,119
-794,3458,Neurocirugía pediátrica,119
-795,3459,Neurofisiología clínica,119
-796,3460,Neurología,119
-797,3461,Neurología pediátrica,119
-798,3462,Neuroradiologia,119
-799,3463,Nutriología clínica,119
-800,3464,Obesidad y comorbilidades,119
-801,3465,Oftalmología,119
-802,3466,Oftalmología neurológica,119
-803,3467,Oncología,119
-804,3468,Oncología pediátrica,119
-805,3469,Otorrinolaringología pediátrica,119
-806,3470,Otorrinolaringología y cirugía de cabeza y cuello,119
-807,3471,Patología clínica,119
-808,3472,Patología pediátrica,119
-809,3473,Pediatría,119
-810,3474,Prótesis maxilofacial,119
-811,3475,Psiquiatría infantil y adolescencia,119
-812,3476,Radiología e imagen,119
-813,3477,Radiooncologia,119
-814,3478,Reumatología,119
-815,3479,Reumatología pediátrica,119
-816,3480,Seguridad alimentaria y nutricional,119
-817,3481,Terapia endovascular,119
-818,3482,Traumatología y ortopedia,119
-819,3483,Urgencias medicas,119
-820,3484,Urgencias pediátricas,119
-821,3485,Urología,119
-822,3486,Urología ginecológica,119
-823,3501,Endodoncia,120
-824,3502,Odontopediatría,120
-825,3503,Ortodoncia,120
-826,3504,Ortopedia dentomaxilofacial,120
-827,3505,Ortopedia y traumatología,120
-828,3506,Patología y medicina bucal,120
-829,3507,Periodoncia,120
-830,3508,Prostodoncia,120
-831,3509,Prótesis bucal,120
-832,3601,Anatomía normal y patológica,121
-833,3602,Cardiología, fisiología cardiovascular,121
-834,3603,Cirugía, traumatología, cirugía experimental,121
-835,3604,Dermatología y enfermedades de transmisión sexual,121
-836,3605,Enfermedades de la nutrición y endocrinología,121
-837,3606,Enfermedades infecciosas, bacteriología clínica, virología clínica,121
-838,3607,Enfermedades respiratorias, fisiología,121
-839,3608,Fisiopatología, fisiología clínica general,121
-840,3609,Gastroenterología, fisiología digestiva,121
-841,3610,Ginecología, obstetricia y reproducción,121
-842,3611,Hematología e inmunología clínica,121
-843,3612,Investigación clínica,121
-844,3613,Medicina física y rehabilitación, kinesiología,121
-845,3614,Medicina nuclear, radioterapia,121
-846,3615,Nefrología, fisiología renal,121
-847,3616,Neurología y neurocirugía,121
-848,3617,Oftalmología,121
-849,3618,Oncología, quimioterapia, cirugía oncología,121
-850,3619,Otorrinolaringología,121
-851,3620,Radiología y diagnóstico por imágenes,121
-852,3621,Reumatología, inflamación, enfermedades autoinmunes,121
-853,3622,Urología, transplante renal, fisiología urogenital,121
+idDisciplina;cveDisciplina;descDisciplina;idCampoConocimiento
+65;2014;Ecología;7
+66;2015;Edafología;7
+67;2016;Electrónica;7
+68;2017;Etnobiología;7
+69;2018;Etología;7
+70;2019;Farmacia;7
+71;2020;Farmacología;7
+72;2021;Fisiología Humana;7
+73;2022;Genética;7
+74;2023;Inmunología;7
+75;2024;Microbiología;7
+76;2025;Neurociencias;7
+77;2026;Otras especialidades de la biología;7
+78;2027;Paleontología;7
+79;2028;Polímeros y materiales;7
+80;2029;Química analítica;7
+81;2030;Química farmacéutica;7
+82;2031;Química física;7
+83;2032;Química inorgánica;7
+84;2033;Química macromolecular;7
+85;2034;Química nuclear;7
+86;2035;Química orgánica;7
+87;2036;Radiobiología;7
+88;2037;Simbiosis;7
+89;2038;Tecnología de alimentos;7
+90;2039;Virología;7
+592;Proteomi;Proteómica;7
+51;2001;Antropología (física);7
+52;2002;Biofísica;7
+53;2003;Biología animal (zoología);7
+54;2004;Biología celular;7
+55;2005;Biología de insectos (Entomología);7
+56;2006;Biología humana;7
+57;2007;Biología integrativa;7
+58;2040;Biología molecular;7
+59;2008;Biología vegetal (botánica);7
+60;2009;Biomatemáticas;7
+61;2010;Biometría;7
+62;2011;Bioquímica;7
+63;2012;Biotecnología;7
+64;2013;Ciencias pesqueras;7
+492;2101;Desarrollo Sustentable ;73
+698;2201;Bioinformática;115
+699;2202;Biología del desarrollo / embriología;115
+700;2203;Biología estructural;115
+701;2204;Campos emergentes;115
+702;2205;Ciencia de los alimentos;115
+703;2206;Enfermedades infecciosas;115
+704;2207;Farmacología animal;115
+705;2208;Farmacología humana;115
+706;2209;Genómica animal;115
+707;2210;Genómica humana;115
+708;2211;Neurobiología;115
+709;2212;Salud ambiental;115
+710;2301;Anatomía;116
+711;2302;Bacteriología;116
+712;2303;Biología de poblaciones;116
+713;2304;Biología evolutiva;116
+714;2305;Endocrinología;116
+715;2306;Fisiología biofísica;116
+716;2307;Fisiología vegetal;116
+717;2308;Genética vegetal;116
+718;2309;Genética y evolución;116
+719;2310;Limnología;116
+720;2311;Morfología;116
+721;2312;Parasitología;116
+722;2401;Electroquímica;117
+723;2402;Química general;117
+724;2403;Química teórica;117
+725;2501;Bioseguridad;118
+726;2502;Biosistemática y manejo de recursos naturales;118
+727;2503;Conservación de ecosistemas;118
+728;2504;Ecología marina;118
+729;2505;Ecología molecular;118
+730;2506;Gestión ambiental;118
+731;2507;Gestión ambiental para la sustentabilidad;118
+732;2508;Manejo de recursos marinos;118
+733;2509;Mitigación y adaptación al cambio climático;118
+734;2510;Química de recursos naturales;118
+735;2511;Química del ambiente;118
+736;2512;Seguridad hídrica;118
+168;5001;Administración pública;19
+169;5002;Ciencias políticas;19
+170;5003;Ideologías políticas;19
+171;5004;Instituciones políticas;19
+172;5005;Opinión pública;19
+173;5006;Otras especialidades políticas;19
+174;5007;Relaciones internacionales;19
+175;5008;Sistemas políticos;19
+176;5009;Sociología política;19
+177;5010;Teoría política;19
+178;5011;Vida política;19
+512;PP;Políticas públicas;19
+552;ESTAREA;Estudios de Área;19
+179;5101;Didáctica, pedagogí­a y currí­culo;20
+180;5102;Educación;20
+932;5103;Polí­tica Educativa;20
+181;5201;Actividad económica;21
+182;5202;Contabilidad económica;21
+183;5203;Econometría;21
+184;5204;Economía del cambio tecnológico;21
+185;5205;Economía general;21
+186;5206;Economía internacional;21
+187;5207;Economía sectorial;21
+188;5208;Organización industrial y política pública;21
+189;5209;Organización y dirección de empresas;21
+190;5210;Otras especialidades económicas;21
+191;5211;Política fiscal y hacienda pública nacionales;21
+192;5212;Sistemas económicos;21
+193;5213;Teoría económica;21
+992;Calidad;Gestión de la calidad;21
+1032;5214;Políticas públicas;21
+194;5301;Derecho;22
+195;5302;Derecho canónico;22
+196;5303;Derecho internacional;22
+197;5304;Derecho y legislación nacionales;22
+198;5305;Organización jurídica;22
+199;5306;Otras especialidades jurídicas;22
+200;5307;Teoría y métodos generales;22
+294;5308;Derecho y criminología;22
+201;5401;Características de la población;23
+202;5402;Demografía general;23
+203;5403;Demografía geográfica;23
+204;5404;Demografía histórica;23
+205;5405;Fertilidad;23
+206;5406;Mortalidad;23
+207;5407;Otras especialidades demográficas;23
+208;5408;Tamaño de la población y evolución demográfica;23
+209;5501;Formación docente para otros servicios educativos;24
+210;5601;Geografía económica;25
+211;5602;Geografía histórica;25
+212;5603;Geografía humana;25
+213;5604;Geografía regional;25
+214;5605;Otras especialidades geográficas;25
+299;5606;Ciencias medioambientales (aspectos sociales);25
+300;5607;Estudios urbanos;25
+301;5608;Planeación del transporte y aspectos sociales del transporte;25
+215;5701;Ciencias auxiliares de la historia;26
+216;5702;Historia de países;26
+217;5703;Historia general;26
+218;5704;Historia por épocas;26
+219;5705;Historia por especialidades;26
+220;5706;Otras especialidades históricas;26
+293;5707;Biografías;26
+221;5801;Cambio y desarrollo social;27
+222;5802;Comunicaciones sociales;27
+223;5803;Grupos sociales;27
+224;5804;Otras especialidades sociológicas;27
+225;5805;Problemas internacionales;27
+226;5806;Problemas sociales;27
+227;5807;Sociología cultural;27
+228;5808;Sociología de los asentamientos humanos;27
+229;5809;Sociología del trabajo;27
+230;5810;Sociología experimental;27
+231;5811;Sociología general;27
+232;5812;Sociología matemática;27
+298;5814;Trabajo y atención social;27
+297;5813;Problemas sociales ó social topics;27
+612;5815;Sociología de la educación;27
+494;50101;Análisis de riesgos ;75
+495;20102;Análisis de tendencias ;75
+496;50103;Desarrollo sustentable ;75
+497;50104;Futuro de los conocimientos y nuevas tecnologías ;75
+498;50105;Nuevos sistemas organizacionales ;75
+499;50106;Otras especialidades en materias prospectivas ;75
+500;50107;Planeación y diseño de estrategias ;75
+292;5901;Negocios y contabilidad;33
+296;5902;Administración y gestión;33
+304;50003;Bibliotecología;34
+302;50001;Periodismo;34
+303;50002;Ciencias de la información;34
+305;50004;Medios de comunicación y comunicación socio cultural;34
+632;DivCienc;Divulgación de la ciencia;93
+633;PerCient;Periodismo científico;93
+871;50201;Bibliotecología y estudios de la información;124
+872;50202;Desarrollo científico y tecnológico;124
+873;50203;Gestión de innovación de las tecnologías de información y comunicación;124
+874;50204;Gestión de la tecnología;124
+875;50205;Gestión sustentable del agua;124
+953;746;Políticas Públicas y Ciudadanía;133
+954;760;Cuerpo y sexualidades ;133
+955;755;Feminismo, historia y cultura;133
+956;761;Salud y género;133
+233;6001;Tecnología de alimentos;28
+532;6002;Bioprocesos ;28
+533;6003;Biotecnología marina;28
+534;6004;Biotecnología productiva;28
+535;6005;Biotecnología vegetal;28
+536;6006;Biotecnología enzimática y biocatálisis;28
+537;6007;Biotecnología de alimentos y bebidas;28
+538;6008;Biotecnología ambiental;28
+539;6009;Bioingeniería y fermentaciones;28
+540;6010;Bioenergía y biocombustibles;28
+541;6011;Fisiología microbiana y áreas emergentes;28
+542;6012;Biotecnología médico farmacéutica;28
+234;6101;Agronomía;29
+235;6102;Agroquímica;29
+236;6103;Bosques y Maderas;29
+237;6104;Ciencia Forestal;29
+238;6105;Ciencias veterinarias;29
+239;6106;Fitopatología;29
+240;6107;Horticultura;29
+241;6108;Otras especialidades agrarias;29
+242;6109;Peces y fauna silvestre;29
+243;6110;Producción animal;29
+244;6111;Zootecnia;29
+306;6112;Ingeniería agrícola;29
+307;6113;Agricultura;29
+308;6114;Pesca y acuicultura;29
+327;6117;Biotecnología agricola y biotecnología alimentaria;35
+325;6115;Tecnología GM (genéticamente modificada);35
+326;6116;Ética relacionada con la biotecnología agrícola;35
+876;6401;Enfermedades veterinarias;125
+877;6301;Acuacultura;126
+878;6302;Bioeconomía pesquera y acuícola;126
+879;6303;Cultivos en ambientes controlados;126
+880;6304;Recursos acuáticos;126
+372;1002;Radioastronomía;1
+373;1003;Planetología;1
+375;1005;Medios interplanetarios;1
+376;1006;Otras especialidades astronómicas;1
+374;1004;Cosmología y cosmogonía;1
+377;1007;Sistema Solar;1
+1;1001;Astronomía óptica;1
+392;1102;Cosmología y cosmogonía;2
+395;1105;Planetología;2
+396;1106;Radioastronomía;2
+397;1107;Sistema Solar;2
+393;1103;Medios interplanetarios;2
+394;1104;Otras especialidades astronómicas;2
+2;1101;Astronomía óptica;2
+3;1201;Ciencias de la atmósfera;3
+4;1202;Ciencias del espacio;3
+5;1203;Ciencias del suelo (edafología);3
+6;1204;Climatología;3
+7;1205;Geodesia;3
+8;1206;Geofísica;3
+9;1207;Geografía;3
+10;1208;Geología;3
+11;1209;Geoquímica;3
+12;1210;Hidrología;3
+13;1211;Meteorología;3
+14;1212;Oceanografía;3
+15;1213;Oceanología;3
+16;1214;Otras especialidades de la tierra, espacio o entorno;3
+352;1318;Física médica;4
+398;1319;Otras especialidades físicas;4
+412;1320;Ingeniería física;4
+17;1301;Acústica;4
+18;1302;Electromagnetismo;4
+19;1303;Electrónica;4
+20;1304;Física atómica y nuclear;4
+21;1305;Física de altas energías;4
+22;1306;Física de fluídos;4
+23;1307;Física del estado sólido;4
+24;1308;Fisica estadística;4
+25;1309;Física molecular;4
+26;1310;Física teórica;4
+27;1311;Mecánica;4
+28;1312;Nucleónica;4
+29;1313;Óptica;4
+30;1314;Química física;4
+31;1315;Termodinámica;4
+32;1316;Unidades y constantes;4
+33;1317;Radiación;4
+34;1401;Aplicaciones de la lógica;5
+35;1402;Lógica deductiva;5
+36;1403;Lógica general;5
+37;1404;Lógica inductiva;5
+38;1405;Metodología;5
+39;1406;Otras especialidades relativas a la lógica;5
+40;1501;Álgebra;6
+41;1502;Análisis numérico;6
+42;1503;Análisis y análisis funcional;6
+43;1504;Ciencia de los ordenadores;6
+44;1505;Estadística;6
+45;1506;Geometría;6
+46;1507;Investigación operativa;6
+47;1508;Otras especialidades matemáticas;6
+48;1509;Probabilidad;6
+49;1510;Teoría de números;6
+50;1511;Topología;6
+493;1601;Desarrollo Sustentable ;74
+693;1701;Ciencias del mar;114
+694;1702;Manejo costero;114
+695;1703;Oceanografía costera;114
+696;1704;Oceanografía física;114
+697;1705;Oceanografía química;114
+114;4001;Antropología cultural;10
+115;4002;Antropología física;10
+116;4003;Antropología social;10
+117;4004;Arqueología;10
+118;4005;Etnografía y etnología;10
+119;4006;Otras especialidades antropológicas;10
+316;4107;Estudios de las artes escénicas;10
+672;4108;Museología;10
+120;4101;Arquitectura;11
+121;4101;Arquitectura (Planeación regional o urbana);11
+122;4102;Otras especialidades artísticas;11
+123;4103;Teoría, análisis y crítica de las bellas artes;11
+124;4104;Teoría, análisis y crítica literarias;11
+314;4107;Estudios de las artes escénicas;11
+312;4105;Artes;11
+313;4106;Diseño arquitectónico;11
+317;4108;Estudios del folklore ;11
+652;Diseño;Diseño;11
+125;4201;Ética clásica;12
+126;4202;Ética de grupo;12
+127;4203;Ética de individuos;12
+128;4204;La ética en perspectiva;12
+129;4205;Otras especialidades relacionadas con la ética;12
+311;4206;Estudios Religiosos ;12
+130;4301;Antropología filosófica;13
+131;4302;Doctrinas filosóficas;13
+132;4303;Filosofía de la ciencia;13
+133;4304;Filosofía de la naturaleza;13
+134;4305;Filosofía del conocimiento;13
+135;4306;Filosofía general;13
+136;4307;Filosofía social;13
+137;4308;Otras especialidades filosóficas;13
+138;4309;Sistemas filosóficos;13
+310;4310;Historia y filosofía de la ciencia y tecnología;13
+139;4401;Historia de la ciencia;14
+140;4402;Historia regional;14
+331;4404;Historia general;14
+335;4408;Historia por especialidades;14
+330;4403;Biografías;14
+332;4405;Historia de países ;14
+333;4406;Historia por épocas;14
+334;4407;Ciencias auxiliares de la historia ;14
+912;4408;Geografía Histórica;14
+913;4409;Geopolítica;14
+141;4501;Geografía lingüística;15
+142;4502;Lingüística aplicada;15
+143;4503;Lingüística diacrónica;15
+144;4504;Lingüística sincrónica;15
+145;4505;Otras especialidades lingüísticas;15
+146;4506;Teoría lingüística;15
+993;4510;Onomástica;15
+147;4601;Literatura española;16
+148;4701;Organización y planificación de la educación;17
+149;4702;Otras especialidades pedagógicas;17
+150;4703;Preparación y empleo de profesores;17
+151;4704;Teoría y métodos educativos;17
+152;4801;Asesoramiento y orientación;18
+153;4802;Desarrollo humano;18
+154;4803;Estudio psicológico de temas sociales;18
+155;4804;Evaluación y diagnóstico en psicología;18
+156;4805;Otras especialidades psicológicas;18
+157;4806;Parapsicología;18
+158;4807;Patología;18
+159;4808;Personalidad;18
+160;4809;Psicofarmacología;18
+161;4810;Psicología de la vejez;18
+162;4811;Psicología del niño y del adolescente;18
+163;4812;Psicología experimental;18
+164;4813;Psicología general;18
+165;4814;Psicología industrial;18
+166;4815;Psicología social;18
+167;4816;Psicopedagogía;18
+338;4904;Teoría de la literatura;37
+336;4901;Estudios generales del lenguaje;37
+337;4902;Lenguajes específicos;37
+339;4905;Literatura específica;37
+340;4903;Estudios generales de literatura;37
+503;40003;Otras especialidades en materia prospectiva ;76
+501;40001;Desarrollo sustentable ;76
+504;40005;Futuro de los conocimientos y las nuevas tecnologías ;76
+854;40101;Arquitectura, diseño y urbanismo;122
+855;40102;Ciencias del hábitat;122
+856;40103;Ciudad territorio  y sustentabilidad;122
+857;40104;Ciudad y espacio público sustentable;122
+858;40105;Conservación del patrimonio arquitectónico;122
+859;40106;Diseño urbano;122
+860;40107;Diseño, planificación y conservación  de paisajes y jardines;122
+861;40108;Proyectos y edificación sustentables;122
+862;40109;Valuación inmobiliaria;122
+863;40201;Artes escénicas;123
+864;40202;Artes para el diseño;123
+865;40203;Estética;123
+866;40204;Estudios culturales;123
+867;40205;Estudios y procesos creativos en arte y diseño;123
+868;40206;Gestión y desarrollo cultural;123
+869;40207;Música;123
+870;40208;Producción artística;123
+957;770;Políticas públicas y ciudadanía;134
+958;779;Cuerpo y sexualidades;134
+959;782;Feminismo, historia y cultura;134
+960;784;Salud y género;134
+245;7001;Computación;30
+246;7002;Ingeniería y tecnología aeronáuticas;30
+247;7003;Ingeniería y tecnología del medio ambiente;30
+248;7004;Ingeniería y tecnología eléctricas;30
+249;7005;Ingeniería y tecnología químicas;30
+250;7006;Otras especialidades tecnológicas;30
+251;7007;Planificación urbana;30
+252;7008;Procesos tecnológicos;30
+253;7009;Tecnología bioquímica;30
+254;7010;Tecnología de la construcción;30
+255;7011;Tecnología de la instrumentación;30
+452;7032;Tecnología de los productos metálicos;30
+256;7012;Tecnología de las telecomunicaciones;30
+257;7013;Tecnología de los alimentos;30
+258;7014;Tecnología de los ferrocarriles;30
+259;7015;Tecnología de los ordenadores;30
+260;7016;Tecnología de los sistemas de transporte;30
+261;7017;Tecnología de materiales;30
+262;7018;Tecnología de vehículos de motor;30
+263;7019;Tecnología del carbón y del petróleo;30
+264;7020;Tecnología del espacio;30
+265;7021;Tecnología e ingeniería mecánicas;30
+266;7022;Tecnología electrónica;30
+267;7023;Tecnología energética;30
+268;7024;Tecnología industrial;30
+269;7025;Tecnología médica;30
+270;7026;Tecnología metalúrgica;30
+271;7027;Tecnología minera;30
+272;7028;Tecnología naval;30
+273;7029;Tecnología nuclear;30
+274;7030;Tecnología textil;30
+291;7031;Instrumentación y mantenimiento;30
+472;7117;Ingeniería eléctrica ;32
+572;INGNEG;Ingeniería en negocios;32
+275;7101;Diseño industrial;32
+276;7102;Ingeniería civil;32
+277;7103;Ingeniería de sistemas;32
+278;7104;Ingeniería de telecomunicaciones;32
+279;7105;Ingeniería electrónica;32
+280;7106;Ingeniería energética;32
+281;7107;Ingeniería hidráulica;32
+282;7108;Ingeniería industrial;32
+283;7109;Ingeniería mecánica;32
+284;7110;Ingeniería metalúrgica y geológica;32
+285;7111;Ingeniería minera;32
+286;7112;Ingeniería naval;32
+287;7113;Ingeniería nuclear;32
+288;7114;Ingeniería petrolera y petroquímica;32
+289;7115;Ingeniería química;32
+290;7116;Ingeniería textil;32
+972;7120;Ingeniería mecatrónica;32
+1012;Ing;Ingeniería ambiental;32
+1052;7121;Otras;32
+505;7201;Construcción de escenarios ;77
+507;7203;Nuevas fuentes de energía ;77
+506;7202;Desarrollo sustentable ;77
+91;3001;Biología humana;8
+92;3002;Bioquímica;8
+93;3003;Ciencias clínicas;8
+94;3004;Ciencias de la nutrición;8
+95;3005;Cirugía;8
+96;3006;Epidemiología;8
+97;3007;Farmacodinámica;8
+98;3008;Farmacología;8
+99;3009;Fisiología humana;8
+100;3010;Medicina;8
+101;3011;Medicina del trabajo;8
+102;3012;Medicina forense;8
+103;3013;Medicina interna;8
+104;3014;Medicina preventiva;8
+105;3015;Odontología;8
+106;3016;Otras especialidades médicas;8
+107;3017;Patología;8
+108;3018;Psiquiatría;8
+109;3019;Salud pública;8
+110;3020;Toxicología;8
+309;3021;Medicina general;8
+892;Sex;Sexología;8
+952;1050;Salud y Género;8
+111;3101;Ciencias clínicas;9
+112;3102;Neurociencias;9
+113;3103;Planificación familiar;9
+320;3106;Salúd pública y ambiental;9
+321;3107;Medicina trópical ;9
+322;3108;Salud Ocupacional;9
+318;3104;Ciencias y servicios de la salud;9
+319;3105;Política y Servicios de salud;9
+323;3109;Ciencias del deporte y del fitness;9
+324;3110;Ciencias biomédicas sociales;9
+1072;EMEDICAS;Especialidad médica;9
+329;3202;Enfermería de especialidad;36
+328;3201;Enfermería general y obstetricia;36
+432;3301;Electrónica, instrumentación, biomecánica;53
+737;3401;Acupuntura humana;119
+738;3402;Alergia e inmunología clínica;119
+739;3403;Alergia e inmunología clínica pediátrica;119
+740;3404;Anatomía patológica;119
+741;3405;Anestesiología;119
+742;3406;Anestesiología pediátrica;119
+743;3407;Angiología y cirugía vascular;119
+744;3408;Audiología, otoneurología y foniatria;119
+745;3409;Biología de la reproducción humana;119
+746;3410;Biomedicina molecular;119
+747;3411;Calidad de la atención clínica;119
+748;3412;Cardiología;119
+749;3413;Cardiología pediátrica;119
+750;3414;Ciencias en salud de los trabajadores;119
+751;3415;Ciencias en salud pública;119
+752;3416;Ciencias estomatológicas;119
+753;3417;Cirugía cardiotorácica;119
+754;3418;Cirugía cardiotorácica pediátrica;119
+755;3419;Cirugía de columna;119
+756;3420;Cirugía general;119
+757;3421;Cirugía oncológica;119
+758;3422;Cirugía oral y maxilofacial;119
+759;3423;Cirugía pediátrica;119
+760;3424;Cirugía plástica y reconstructiva;119
+761;3425;Coloproctologia;119
+762;3426;Dermatología;119
+763;3427;Dermatología pediátrica;119
+764;3428;Endocrinología;119
+765;3429;Endocrinología pediátrica;119
+766;3430;Estomatología pediátrica;119
+767;3431;Gastroenterología;119
+768;3432;Gastroenterología pediátrica;119
+769;3433;Genética medica;119
+770;3434;Geriatría;119
+771;3435;Ginecología oncológica;119
+772;3436;Ginecología y obstetricia;119
+773;3437;Hematología;119
+774;3438;Hematología pediátrica;119
+775;3439;Imagenologia, diagnostica y terapéutica;119
+776;3440;Infectología;119
+777;3441;Infectología pediátrica;119
+778;3442;Infectómica y patogénesis molecular;119
+779;3443;Investigación médica, línea terminal biomedicina;119
+780;3444;Medicina de rehabilitación;119
+781;3445;Medicina del enfermo en estado crítico;119
+782;3446;Medicina del enfermo pediátrico en estado critico;119
+783;3447;Medicina familiar;119
+784;3448;Medicina materno fetal;119
+785;3449;Medicina nuclear;119
+786;3450;Medicina paliativa y del dolor;119
+787;3451;Nefrología;119
+788;3452;Nefrología pediátrica;119
+789;3453;Neonatología;119
+790;3454;Neumología;119
+791;3455;Neumología pediátrica;119
+792;3456;Neuroanestesiologia;119
+793;3457;Neurocirugía;119
+794;3458;Neurocirugía pediátrica;119
+795;3459;Neurofisiología clínica;119
+796;3460;Neurología;119
+797;3461;Neurología pediátrica;119
+798;3462;Neuroradiologia;119
+799;3463;Nutriología clínica;119
+800;3464;Obesidad y comorbilidades;119
+801;3465;Oftalmología;119
+802;3466;Oftalmología neurológica;119
+803;3467;Oncología;119
+804;3468;Oncología pediátrica;119
+805;3469;Otorrinolaringología pediátrica;119
+806;3470;Otorrinolaringología y cirugía de cabeza y cuello;119
+807;3471;Patología clínica;119
+808;3472;Patología pediátrica;119
+809;3473;Pediatría;119
+810;3474;Prótesis maxilofacial;119
+811;3475;Psiquiatría infantil y adolescencia;119
+812;3476;Radiología e imagen;119
+813;3477;Radiooncologia;119
+814;3478;Reumatología;119
+815;3479;Reumatología pediátrica;119
+816;3480;Seguridad alimentaria y nutricional;119
+817;3481;Terapia endovascular;119
+818;3482;Traumatología y ortopedia;119
+819;3483;Urgencias medicas;119
+820;3484;Urgencias pediátricas;119
+821;3485;Urología;119
+822;3486;Urología ginecológica;119
+823;3501;Endodoncia;120
+824;3502;Odontopediatría;120
+825;3503;Ortodoncia;120
+826;3504;Ortopedia dentomaxilofacial;120
+827;3505;Ortopedia y traumatología;120
+828;3506;Patología y medicina bucal;120
+829;3507;Periodoncia;120
+830;3508;Prostodoncia;120
+831;3509;Prótesis bucal;120
+832;3601;Anatomía normal y patológica;121
+833;3602;Cardiología, fisiología cardiovascular;121
+834;3603;Cirugía, traumatología, cirugía experimental;121
+835;3604;Dermatología y enfermedades de transmisión sexual;121
+836;3605;Enfermedades de la nutrición y endocrinología;121
+837;3606;Enfermedades infecciosas, bacteriología clínica, virología clínica;121
+838;3607;Enfermedades respiratorias, fisiología;121
+839;3608;Fisiopatología, fisiología clínica general;121
+840;3609;Gastroenterología, fisiología digestiva;121
+841;3610;Ginecología, obstetricia y reproducción;121
+842;3611;Hematología e inmunología clínica;121
+843;3612;Investigación clínica;121
+844;3613;Medicina física y rehabilitación, kinesiología;121
+845;3614;Medicina nuclear, radioterapia;121
+846;3615;Nefrología, fisiología renal;121
+847;3616;Neurología y neurocirugía;121
+848;3617;Oftalmología;121
+849;3618;Oncología, quimioterapia, cirugía oncología;121
+850;3619;Otorrinolaringología;121
+851;3620;Radiología y diagnóstico por imágenes;121
+852;3621;Reumatología, inflamación, enfermedades autoinmunes;121
+853;3622;Urología, transplante renal, fisiología urogenital;121

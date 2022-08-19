@@ -1,8 +1,8 @@
-idAreaConocimiento,cveAreaConocimiento,descAreaConocimiento
-2,2,Biología y química
-5,5,Ciencias Sociales
-6,6,Ciencias agropecuarias y biotecnología
-1,1,Ciencias físico matemáticas y ciencias de la tierra
-4,4,Humanidades y ciencias de la conducta
-7,7,Ingeniería y tecnología
-3,3,Medicina y ciencias de la salud
+idAreaConocimiento;cveAreaConocimiento;descAreaConocimiento
+2;2;Biología y química
+5;5;Ciencias Sociales
+6;6;Ciencias agropecuarias y biotecnología
+1;1;Ciencias físico matemáticas y ciencias de la tierra
+4;4;Humanidades y ciencias de la conducta
+7;7;Ingeniería y tecnología
+3;3;Medicina y ciencias de la salud

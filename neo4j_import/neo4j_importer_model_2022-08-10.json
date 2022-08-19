@@ -1,5 +1,5 @@
 {
-  "version": "0.4.1",
+  "version": "0.5.1",
   "graph": {
     "nodes": [
       {
@@ -185,7 +185,7 @@
             },
             {
               "property": "cve",
-              "type": "integer",
+              "type": "string",
               "identifier": "ncn1NqNzZjd-PqX5HvgLi"
             },
             {
@@ -213,7 +213,7 @@
             },
             {
               "property": "cve",
-              "type": "integer",
+              "type": "string",
               "identifier": "ch5QEe69AdJwnCcfID35F"
             },
             {
@@ -241,7 +241,7 @@
             },
             {
               "property": "cvd",
-              "type": "integer",
+              "type": "string",
               "identifier": "4qa2Ctod7Q11wu4WLa2Fl"
             },
             {
@@ -269,7 +269,7 @@
             },
             {
               "property": "cve",
-              "type": "integer",
+              "type": "string",
               "identifier": "rMWDXMj05LPppyeNXwt2A"
             },
             {

@@ -1557,3 +1557,2818 @@ idSubDisciplina,cveSubDisciplina,descSubDisciplina,idDisciplina
 4160,100203,Otras,372
 4111,100201,Antenas,372
 4159,100202,Radiotelescopios,372
+4116,100305,Geología planetaria,373
+4118,100307,Meteoritos,373
+4112,100301,Atmósfera planetaria,373
+4113,100302,Campos magnéticos planetarios,373
+4114,100303,Cometas,373
+4115,100304,Física planetaria,373
+4117,100306,La luna,373
+4119,100308,Planetas,373
+4120,100309,Satélites,373
+4121,100310,Tectitas,373
+4122,100311,Otras,373
+4154,100501,Campos interplanetarios,375
+4155,100502,Materia interplanetaria,375
+4156,100503,Partículas interplanetarias,375
+4157,100504,Otras,375
+4158,100601,Otras,376
+4138,100401,Composición estelar,374
+4139,100402,Enjambres o cúmulos,374
+4141,100404,Estrellas dobles,374
+4142,100405,Estrellas variables,374
+4145,100408,Galaxias,374
+4146,100409,Gravitación,374
+4150,100413,Pulsares,374
+4151,100414,Quasares,374
+4144,100407,Fuentes de rayos X,374
+4140,100403,Estrellas,374
+4143,100406,Evolución estelar y diagrama HR,374
+4147,100410,Nebulosas,374
+4148,100411,Novas,374
+4149,100412,Otras,374
+4152,100415,Rayos cósmicos,374
+4153,100416,Súper novas,374
+4161,100701,El sol,377
+4162,100702,Energía solar,377
+4163,100703,Física solar,377
+4164,100704,Viento solar,377
+4165,100705,Otras,377
+1,100101,Antenas,1
+2,100102,Astronomía de posición,1
+3,100103,Atmósfera planetaria,1
+4,100104,Campos interplanetarios,1
+5,100105,Campos magnéticos planetarios,1
+8,100108,Cometas,1
+9,100109,Composición estelar,1
+4123,100174,Espectroscopía,1
+11,100111,El sol,1
+12,100112,Energía solar,1
+13,100113,Enjambres o cúmulos,1
+14,100114,Espectroscopía de absorción,1
+15,100115,Espectroscopía de emisión,1
+16,100116,Estrellas,1
+17,100117,Estrellas dobles,1
+18,100118,Estrellas variables,1
+19,100119,Evolución estelar y diagrama HR,1
+4124,100175,Otras,1
+23,100123,Física planetaria,1
+24,100124,Física solar,1
+26,100126,Fotografía,1
+27,100127,Fotometría,1
+28,100128,Fuentes de rayos X,1
+29,100129,Galaxias,1
+30,100130,Geología planetaria,1
+31,100131,Gravitación,1
+36,100136,Instrumentos ópticos,1
+37,100137,La luna,1
+40,100140,Luz,1
+41,100141,Materia interplanetaria,1
+43,100143,Meteoritos,1
+47,100147,Nebulosas,1
+48,100148,Novas,1
+53,100153,Otras,1
+54,100154,Partículas interplanetarias,1
+55,100155,Planetas,1
+58,100158,Pulsares,1
+59,100159,Quasares,1
+60,100160,Radiación infrarroja,1
+62,100162,Radiación visible,1
+64,100164,Radiotelescopios,1
+65,100165,Rayos cósmicos,1
+66,100166,Satélites,1
+67,100167,Satélites artificiales,1
+69,100169,Súper-novas,1
+70,100170,Tectitas,1
+71,100171,Telescopios,1
+72,100172,Tratamiento digital. Imágenes,1
+73,100173,Viento solar,1
+4166,110201,Composición estelar,392
+4168,110203,Estrellas,392
+4169,110204,Estrellas dobles,392
+4171,110206,Evolución estelar y diagrama HR,392
+4173,110208,Galaxias,392
+4175,110210,Nebulosas,392
+4177,110212,Otras,392
+4179,1102114,Quasares,392
+4181,110216,Súper novas,392
+4170,110205,Estrellas variables,392
+4172,110207,Fuentes de rayos x,392
+4174,110209,Gravitación,392
+4176,110211,Novas,392
+4178,110213,Pulsares,392
+4180,110215,Rayos cósmicos,392
+4167,110202,Enjambres o cúmulos,392
+4187,110501,Atmósfera planetaria,395
+4188,110502,Campos magnéticos planetarios,395
+4189,110503,Cometas,395
+4192,110506,La luna,395
+4193,110507,Meteoritos,395
+4195,110509,Satélites,395
+4197,110511,Otras,395
+4190,110504,Física planetaria,395
+4191,110505,Geología planetaria,395
+4194,110508,Planetas,395
+4196,110510,Tectitas,395
+4199,110602,Radiotelescopios,396
+4198,110601,Antenas,396
+4200,110603,Otras,396
+4205,110705,Otras,397
+4201,110701,El sol,397
+4202,110702,Energía solar,397
+4203,110703,Física solar,397
+4204,110704,Viento solar,397
+4182,110301,Campos interplanetarios,393
+4184,110303,Partículas interplanetarias,393
+4185,110304,Otras,393
+4183,110302,Materia interplanetaria,393
+4186,110401,Otras,394
+74,110101,Atmósfera planetaria,2
+75,110102,Composición estelar,2
+76,110103,Enjambres o cúmulos,2
+77,110104,Estrellas,2
+78,110105,Estrellas dobles,2
+79,110106,Estrellas variables,2
+80,110107,Evolución estelar y diagrama hr,2
+81,110108,Fuentes de rayos x,2
+82,110109,Galaxias,2
+83,110110,Gravitación,2
+84,110111,Instrumentación,2
+85,110112,Nebulosas,2
+86,110113,Novas,2
+87,110114,Pulsares,2
+88,110115,Quasares,2
+89,110116,Rayos cósmicos,2
+90,110117,Súper-novas,2
+91,110118,Antenas,2
+92,110119,Astronomía de posición,2
+93,110120,Campos interplanetarios,2
+94,110121,Campos magnéticos planetarios,2
+97,110124,Cometas,2
+99,110126,El sol,2
+100,110127,Energía solar,2
+102,110129,Espectroscopía de emisión,2
+103,110130,Exobiología,2
+106,110133,Física planetaria,2
+107,110134,Física solar,2
+110,110137,Fotometría,2
+111,110138,Geología planetaria,2
+116,110143,Instrumentos ópticos,2
+117,110144,La luna,2
+120,110147,Luz,2
+121,110148,Materia interplanetaria,2
+123,110150,Meteoritos,2
+131,110158,Otras,2
+132,110159,Partículas interplanetarias,2
+133,110160,Planetas,2
+138,110165,Radiación visible,2
+140,110167,Radiotelescopios,2
+141,110168,Satélites,2
+144,110171,Tectitas,2
+145,110172,Telescopios,2
+147,110174,Viento solar,2
+4131,100175,Espectroscopía,2
+4132,100176,Otras,2
+4206,120152,Otras,3
+148,120101,Acústica atmosférica,3
+149,120102,Aeronomía,3
+150,120103,Análisis del tiempo,3
+151,120104,Auroras,3
+152,120105,Bioclimatología,3
+154,120107,Climatología aplicada,3
+155,120108,Climatología física,3
+156,120109,Climatología regional,3
+157,120110,Contaminación atmosférica,3
+158,120111,Difusión (atmosférica),3
+159,120112,Dinámica atmosférica,3
+160,120113,Electricidad atmosférica,3
+161,120114,Estructura atmosférica,3
+162,120115,Física de las nubes,3
+163,120116,Física de las precipitaciones,3
+164,120117,Hidrometeorología,3
+165,120118,Interacción mar-aire,3
+166,120119,Ionosfera,3
+167,120120,Mesometeorología,3
+168,120121,Meteorología agrícola,3
+171,120124,Meteorología marina,3
+174,120127,Meteorología por satélites,3
+175,120128,Meteorología sinóptica,3
+176,120129,Meteorología tropical,3
+178,120131,Micrometeorología,3
+180,120133,Observación meteorológica a corto plazo,3
+181,120134,Ondas magnetosféricas,3
+182,120135,Óptica atmosférica,3
+183,120136,Paleoclimatología,3
+184,120137,Partículas magnetosféricas,3
+185,120138,Predicción numérica meteorológica,3
+186,120139,Predicción operacional meteorológica,3
+187,120140,Previsión meteorológica a largo plazo,3
+188,120141,Pulsaciones geomagnéticas,3
+189,120142,Química atmosférica,3
+190,120143,Radiactividad atmosférica,3
+192,120145,Rayos cósmicos,3
+193,120146,Resplandor celeste,3
+194,120147,Simulación numérica,3
+195,120148,Termodinámica atmosférica,3
+196,120149,Transferencia radiactiva,3
+197,120150,Turbulencia atmosférica,3
+198,120151,Viento solar,3
+4207,120225,Otras,4
+199,120201,Atmósfera planetaria,4
+200,120202,Campos interplanetarios,4
+201,120203,Campos magnéticos planetarios,4
+205,120207,Exobiología,4
+206,120208,Física planetaria,4
+207,120209,Fisiología espacial,4
+208,120210,Geología planetaria,4
+212,120214,Materia interplanetaria,4
+213,120215,Medicina espacial,4
+215,120217,Motores de cohete,4
+217,120219,Partículas interplanetarias,4
+218,120220,Planetas,4
+219,120221,Satélites,4
+220,120222,Satélites artificiales,4
+221,120223,Seguimiento espacial,4
+222,120224,Tectitas,4
+223,120301,Biología de suelos,5
+224,120302,Bioquímica de suelos,5
+225,120303,Cartografía de suelos,5
+226,120304,Clasificación de suelos,5
+227,120305,Comportamiento del suelo en cultivos rotatorios,5
+228,120306,Conservación de suelos,5
+229,120307,Fertilidad del suelo,5
+230,120308,Física de suelos,5
+231,120309,Génesis y morfología de suelos,5
+232,120310,Ingeniería de suelos,5
+233,120311,Mecánica de suelos (agricultura),5
+234,120312,Microbiología de suelos,5
+235,120313,Mineralogía de suelos,5
+236,120314,Otras,5
+237,120315,Química de suelos,5
+240,120403,Análisis del tiempo,6
+242,120405,Bioclimatología,6
+243,120406,Climatología analítica,6
+244,120407,Climatología aplicada,6
+245,120408,Climatología física,6
+246,120409,Climatología regional,6
+247,120410,Contaminación atmosférica,6
+248,120411,Difusión (atmosférica),6
+249,120412,Dinámica atmosférica,6
+252,120415,Física de las nubes,6
+253,120416,Física de las precipitaciones,6
+254,120417,Hidrometeorología,6
+267,120430,Microclimatología,6
+269,120432,Modificación del tiempo,6
+273,120436,Paleoclimatología,6
+277,120440,Previsión meteorológica a largo plazo,6
+279,120442,Química atmosférica,6
+4208,120443,Otras,6
+289,120501,Astronomía geodésica,7
+290,120502,Cartografía geodésica,7
+291,120503,Fotogrametría (Procesos químicos),7
+292,120504,Fotogrametría geodésica,7
+293,120505,Geodesia física,7
+294,120506,Geodesia por satélites,7
+295,120507,Geodesia teórica,7
+296,120508,Levantamiento geodésico,7
+297,120509,Navegación geodésica,7
+298,120510,Otras,7
+299,120511,Procesos químicos,7
+300,120601,Flujo de calor (terrestre),8
+301,120602,Geofísica de la masa sólida terrestre,8
+302,120603,Geomagnetismo y prospección magnética,8
+303,120604,Gravedad (terrestre) y prospección gravimétrica,8
+304,120605,Otras,8
+305,120606,Paleomagnetismo,8
+306,120607,Sismología y prospección sísmica,8
+307,120608,Tectónica,8
+308,120609,Vulcanología,8
+309,120701,Biogeografía,9
+310,120702,Cartografía geográfica,9
+311,120703,Fotointerpretación cartográfica,9
+312,120704,Geografía de los recursos naturales,9
+313,120705,Geografía física,9
+314,120706,Geografía médica,9
+315,120707,Geografía topográfica,9
+316,120708,Otras,9
+317,120709,Teoría de la localización,9
+318,120710,Utilización del terreno,9
+319,120801,Análisis de diagrafías,10
+320,120802,Campañas geológicas,10
+321,120803,Energía y procesos geotérmicos,10
+322,120804,Estratigrafía,10
+323,120805,Fotogeología,10
+324,120806,Geofísica teórica,10
+325,120807,Geología ambiental,10
+326,120808,Geología aplicada a la ingeniería,10
+327,120809,Geología del carbón,10
+328,120810,Geología del petróleo,10
+329,120811,Geología estructural,10
+330,120812,Geología glacial,10
+331,120813,Geología marina,10
+332,120814,Geología regional,10
+333,120815,Geomorfología,10
+334,120816,Geoquímica,10
+335,120817,Geotermia,10
+336,120818,Hidrogeología,10
+337,120819,Mecánica de rocas,10
+338,120820,Mineralogía,10
+339,120821,Otras,10
+340,120822,Palinología,10
+341,120823,Petrología ígnea y metamórfica,10
+342,120824,Petrología sedimentaria,10
+343,120825,Sedimentología,10
+344,120826,Tectónica,10
+345,120827,Teledetección (geología),10
+346,120828,Vulcanología,10
+347,120829,Yacimientos minerales,10
+3957,120830,Mineralogía,10
+348,120901,Cosmoquímica,11
+349,120902,Distribución de elementos traza,11
+350,120903,Geocronología y radioisótopos,11
+351,120904,Geoquímica de las altas temperaturas,11
+352,120905,Geoquímica de las bajas temperaturas,11
+353,120906,Geoquímica exploratoria,11
+354,120907,Geoquímica orgánica,11
+355,120908,Isótopos estables,11
+356,120909,Otras,11
+357,120910,Petrología experimental,11
+358,121001,Aguas subterráneas,12
+359,121002,Aguas superficiales,12
+360,121003,Calidad de las aguas,12
+361,121004,Ciencias del agua,12
+362,121005,Erosión (agua),12
+363,121006,Evaporación,12
+364,121007,Glaciología,12
+365,121008,Hidrobiología,12
+366,121009,Hidrogeología,12
+367,121010,Hidrografía,12
+368,121011,Hielo,12
+369,121012,Humedad del suelo,12
+370,121013,Limnología,12
+371,121014,Nieve,12
+372,121015,Otras,12
+373,121016,Precipitación,12
+374,121017,Suelo helado ("permafrost"),12
+375,121018,Transpiración,12
+4209,12149,Otras,13
+378,121103,An¡lisis del tiempo,13
+380,121105,BioclimatologÃ­a,13
+382,121107,ClimatologÃ­a aplicada,13
+384,121109,ClimatologÃ­a regional,13
+385,121110,ContaminaciÃ³n atmosfÃ©rica,13
+387,121112,DinÃ¡mica atmosfÃ©rica,13
+388,121113,Electricidad atmosfÃ©rica,13
+392,121117,HidrometeorologÃ­a,13
+395,121120,MesometeorologÃ­a,13
+396,121121,MeteorologÃ­a agrÃ­cola,13
+397,121122,MeteorologÃ­a con cohetes,13
+398,121123,MeteorologÃ­a industrial,13
+399,121124,MeteorologÃ­a marina,13
+400,121125,MeteorologÃ­a polar,13
+401,121126,MeteorologÃ­a por radar,13
+402,121127,MeteorologÃ­a por satÃ©lites,13
+403,121128,MeteorologÃ­a sinÃ³ptica,13
+404,121129,MeteorologÃ­a tropical,13
+406,121131,MicrometeorologÃ­a,13
+407,121132,ModificaciÃ³n del tiempo,13
+408,121133,ObservaciÃ³n meteorolÃ³gica a corto plazo,13
+413,121138,PredicciÃ³n numÃ©rica meteorolÃ³gica,13
+414,121139,PredicciÃ³n operacional meteorolÃ³gica,13
+415,121140,PrevisiÃ³n meteorolÃ³gica a largo plazo,13
+419,121144,RadiometeorologÃ­a,13
+422,121147,SimulaciÃ³n numÃ©rica,13
+423,121148,TermodinÃ¡mica atmosfÃ©rica,13
+735,121216,Manejo de recursos marinos,14
+427,121201,Acústica submarina,14
+428,121202,Botánica marina,14
+429,121203,Hielo marino,14
+430,121204,Interacciones mar-aire,14
+431,121205,Oceanografía acuicultura marina,14
+432,121206,Oceanografía biológica,14
+433,121207,Oceanografía descriptiva,14
+434,121208,Oceanografía física,14
+435,121209,Oceanografía geología marina,14
+436,121210,Oceanografía química,14
+437,121211,Oceanografía recursos renovables,14
+438,121212,Otras,14
+439,121213,Procesos del fondo marino,14
+440,121214,Procesos litorales o sublitorales,14
+441,121215,Zoología marina,14
+736,121301,Oceanografía costera,15
+737,121401,Otras,16
+4092,131802,Física en imágenes de diagnóstico (rayos X y radionúclidos),352
+4094,131804,Dosimetría experimental y computacional,352
+4095,131805,Protección radiológica,352
+4091,131801,Física en radioterapia,352
+4093,131803,Física en aplicaciones médicas de radiación no ionizante,352
+4096,131806,Medidas fisiológicas y física biológica,352
+4097,131807,Otras,352
+4216,131901,Otras,398
+4238,132001,Otras,412
+442,130101,Acústica arquitectónica,17
+443,130102,Electroacústica,17
+444,130103,Física de la audición,17
+445,130104,Física de la dicción,17
+446,130105,Física de la música,17
+447,130106,Ondas de choque,17
+448,130107,Otras,17
+449,130108,Propiedades acústicas de los sólidos,17
+450,130109,Ruido,17
+451,130110,Sonar,17
+452,130111,Sonidos subacuáticos,17
+453,130112,Ultrasonidos,17
+454,130113,Vibraciones,17
+455,130201,Antenas,18
+456,130202,Conductividad,18
+457,130203,Diseño de circuitos,18
+460,130206,Dispositivos de microondas,18
+461,130207,Dispositivos de rayos x,18
+463,130209,Dispositivos fotoeléctricos,18
+465,130211,Dispositivos semiconductores,18
+470,130216,Electricidad,18
+471,130217,Electroacústica,18
+473,130219,Interacción de ondas electromagnéticas con la materia,18
+474,130220,Magnetismo,18
+475,130221,Magnitudes eléctricas y su medida,18
+476,130222,Microelectrónica,18
+477,130223,Microelectrónica. Diseño,18
+478,130224,Microelectrónica. Tecnología del silicio,18
+480,130226,Ondas electromagnéticas,18
+481,130227,Propagación de ondas electromagnéticas,18
+482,130228,Radar,18
+483,130229,Radiación infrarroja, visible y ultravioleta,18
+484,130230,Radioondas y microondas,18
+485,130231,Rayos gamma,18
+486,130232,Rayos x,18
+489,130235,Superconductividad,18
+490,130236,Transductores electroacústicos,18
+493,130239,Válvulas electrónicas,18
+4210,130335,Otras,19
+494,130301,Antenas,19
+495,130302,Circuitos,19
+496,130303,Circuitos integrados,19
+497,130304,Diseño de circuitos,19
+498,130305,Diseño de filtros,19
+500,130307,Dispositivos de microondas,19
+503,130310,Dispositivos fotoeléctricos,19
+504,130311,Dispositivos láser,19
+505,130312,Dispositivos semiconductores,19
+510,130317,Electroacústica,19
+511,130318,Elementos de circuitos,19
+513,130320,Estados electrónicos,19
+514,130321,Fotoelectricidad,19
+515,130322,Microelectrónica,19
+516,130323,Microelectrónica. Diseño,19
+517,130324,Microelectrónica. Tecnología del silicio,19
+518,130325,Microelectrónica. Tecnologías iii-v y alternativas,19
+519,130326,Microscopía electrónica,19
+520,130327,Piezoelectricidad,19
+525,130332,Transistores,19
+526,130333,Transmisores de radio,19
+527,130334,Transporte de electrones,19
+4211,130429,Otras,20
+537,130410,Física atómica,20
+538,130411,Física nuclear experimental bajas energías,20
+539,130412,Fisión (nuclear),20
+540,130413,Fusión termonuclear,20
+541,130414,Haces atómicos,20
+542,130415,Haces de electrones,20
+543,130416,Iones atómicos,20
+544,130417,Isótopos,20
+545,130418,Procesos de colisión,20
+547,130420,Radioisótopos,20
+548,130421,Reacción nuclear y dispersión,20
+549,130422,Reactores de fisión nuclear,20
+550,130423,Reactores de fusión nuclear,20
+551,130424,Reactores nucleares,20
+552,130425,Resonancia de spin electrónico,20
+553,130426,Resonancia magnética nuclear,20
+554,130427,Resonancia paramagnética electrónica,20
+555,130428,Separación de isótopos,20
+528,130401,Aplicaciones de isótopos,20
+529,130402,Átomo de helio,20
+530,130403,Átomo de hidrógeno,20
+531,130404,Átomos con z mayor que 2,20
+532,130405,Conversión de energía,20
+533,130406,Desintegración nuclear,20
+534,130407,Energía nuclear,20
+535,130408,Estructura nuclear,20
+556,130501,Física teórica altas energías,21
+557,130502,Otras,21
+558,130601,Coloides,22
+559,130602,Dinámica de fluidos magnéticos (magnetofluidodinámica),22
+560,130603,Dispersiones,22
+561,130604,Fenómenos de alta presión,22
+562,130605,Física de plasmas,22
+563,130606,Fluidos cuánticos,22
+564,130607,Flujo de fluidos,22
+565,130608,Gases,22
+566,130609,Ionización,22
+567,130610,Líquidos,22
+568,130611,Otras,22
+4212,130612,Mecánica de fluídos,22
+570,130701,Aleaciones,23
+571,130702,Conductores metálicos,23
+572,130703,Crecimiento de cristales,23
+573,130704,Cristalografía,23
+574,130705,Dendritas,23
+575,130706,Dieléctricos,23
+576,130707,Difusión en sólidos,23
+577,130708,Dispositivos de estado sólido,23
+578,130709,Estados electrónicos,23
+579,130710,Estados no cristalinos,23
+580,130711,Estructura cristalina,23
+581,130712,Física del estado sólido,23
+582,130713,Física del estado sólido. Espectroscopía de sólidos,23
+583,130714,Física del estado sólido. Lámina delgada,23
+584,130715,Imperfecciones,23
+585,130716,Interacción de la radiación con los sólidos,23
+586,130717,Interfases,23
+587,130718,Luminiscencia,23
+588,130719,Materiales compuestos,23
+589,130720,Mecánica de redes,23
+590,130721,Metalografía,23
+591,130722,Metalurgia,23
+592,130723,Otras,23
+593,130724,Propiedades de portadores electrónicos,23
+594,130725,Propiedades de transporte de electrones,23
+595,130726,Propiedades magnéticas,23
+596,130727,Propiedades mecánicas,23
+597,130728,Propiedades ópticas,23
+598,130729,Propiedades térmicas de los sólidos,23
+599,130730,Resonancia magnética,23
+600,130731,Semiconductores,23
+601,130732,Superconductores,23
+602,130733,Superficies,23
+603,130734,Tribología,23
+4451,NanoC,Nanociencias,23
+4452,NanoT,Nanotecnología,23
+604,130801,Otras,24
+605,130901,Espectroscopía molecular,25
+606,130902,Estructura molecular,25
+607,130903,Haces moleculares,25
+608,130904,Iones moleculares,25
+609,130905,Macromoléculas,25
+610,130906,Moléculas inorgánicas,25
+611,130907,Moléculas mesónicas y muónicas,25
+612,130908,Moléculas orgánicas,25
+613,130909,Otras,25
+614,130910,Polímeros,25
+615,130911,Radicales libres,25
+4213,131016,Gravitones,26
+616,131001,Campos,26
+617,131002,Campos electromagnéticos,26
+618,131003,Campos gravitacionales,26
+619,131004,Energía (física),26
+620,131005,Fotones,26
+621,131006,Gravitación,26
+622,131007,Gravitón,26
+623,131008,Hadrones,26
+624,131009,Leptones,26
+625,131010,Masa,26
+626,131011,Otras,26
+627,131012,Partículas elementales,26
+628,131013,Radiación (electromagnética),26
+629,131014,Teoría cuántica de campos,26
+630,131015,Teoría de la relatividad,26
+636,131106,Mecánica de sólidos,27
+637,131107,Mecánica estadística,27
+638,131108,Medida de propiedades mecánicas,27
+639,131109,Otras,27
+640,131110,Plasticidad,27
+641,131111,Teoría de muchos cuerpos,27
+631,131101,Elasticidad,27
+632,131102,Fricción,27
+633,131103,Mecánica analítica,27
+634,131104,Mecánica de fluidos,27
+635,131105,Mecánica de medios continuos,27
+642,131201,Aceleradores de partículas,28
+643,131202,Confinamiento de plasma,28
+644,131203,Detectores de partículas,28
+645,131204,Física de partículas,28
+646,131205,Fuentes de haces,28
+647,131206,Fuentes de partículas,28
+648,131207,Manipulación de haces,28
+649,131208,Núcleos,28
+650,131209,Otras,28
+651,131210,Reactores de fusión,28
+653,131302,Cinematografía,29
+654,131303,Colorimetría,29
+655,131304,Espectroscopía de absorción,29
+656,131305,Espectroscopía de emisión,29
+657,131306,Fibras ópticas,29
+658,131307,Física de la visión,29
+659,131308,Fotografía,29
+660,131309,Fotometría,29
+661,131310,Holografía,29
+662,131311,Iluminación,29
+663,131312,Instrumentos fotográficos,29
+664,131313,Instrumentos ópticos,29
+665,131314,Láseres,29
+666,131315,Luz,29
+667,131316,Microscopios,29
+668,131317,Óptica física,29
+669,131318,Óptica geométrica,29
+670,131319,Óptica no lineal,29
+671,131320,Optometría,29
+4215,131329,Otras,29
+672,131321,Propiedades ópticas de los sólidos,29
+673,131322,Radiación infrarroja,29
+674,131323,Radiación ultravioleta,29
+675,131324,Radiación visible,29
+676,131325,Radiometría,29
+677,131326,Telescopios,29
+678,131327,Tratamiento digital. Imágenes,29
+4214,131328,Espectroscopía,29
+679,131401,Catálisis,30
+680,131402,Cinética química,30
+681,131403,Cristales líquidos,30
+682,131404,Electrolitos,30
+683,131405,Electroquímica,30
+684,131406,Emulsiones,30
+685,131407,Equilibrio de fases,30
+686,131408,Equilibrio químico y de fase,30
+687,131409,Espectroscopía electrónica,30
+688,131410,Espectroscopía molecular,30
+689,131411,Estados de la materia,30
+690,131412,Fenómenos de dispersión,30
+691,131413,Fenómenos de membrana,30
+692,131414,Fenómenos de transporte,30
+693,131415,Física de la fase gaseosa,30
+694,131416,Física del estado líquido,30
+695,131417,Física del estado sólido,30
+696,131418,Fotoquímica,30
+697,131419,Intercambio iónico,30
+698,131420,Llamas,30
+699,131421,Otras,30
+700,131422,Procesos de relajación,30
+701,131423,Química de coloides,30
+702,131424,Química de interfases,30
+703,131425,Química de las altas temperaturas,30
+704,131426,Química del estado sólido,30
+705,131427,Química-física de polímeros,30
+706,131428,Química-física: química de la fase gaseosa,30
+707,131429,Radioquímica,30
+708,131430,Reacciones rápidas y explosivos,30
+709,131431,Sales fundidas,30
+710,131432,Soluciones,30
+711,131433,Teoría cuántica,30
+712,131434,Teoría de la valencia,30
+713,131435,Teoría de las células de combustible,30
+714,131436,Termodinámica,30
+715,131437,Termoquímica,30
+716,131438,Transferencia de energía,30
+717,131501,Altas presiones,31
+718,131502,Altas temperaturas,31
+719,131503,Bajas temperaturas,31
+720,131504,Cambio de fase,31
+721,131505,Cambios de estado,31
+722,131506,Equilibrios termodinámicos,31
+723,131507,Fenómenos de transporte,31
+724,131508,Física de la transmisión del calor,31
+725,131509,Otras,31
+726,131510,Relaciones termodinámicas,31
+727,131511,Técnicas de medida del calor,31
+728,131512,Teoría cinética,31
+729,131601,Calibración de unidades,32
+730,131602,Constantes físicas,32
+731,131603,Conversión de unidades,32
+732,131604,Metrología,32
+733,131605,Otras,32
+734,131606,Patrones,32
+569,131701,Física de las radiaciones y seguridad RA,33
+738,140101,Otras,34
+739,140201,Álgebra de boole,35
+740,140202,Analogía,35
+741,140203,Cálculo proposicional,35
+742,140204,Funciones recursivas,35
+743,140205,Fundamentos de matemáticas,35
+744,140206,Generalización,35
+745,140207,Lenguajes formalizados,35
+746,140208,Lógica formal,35
+747,140209,Lógica matemática,35
+748,140210,Lógica modal,35
+749,140211,Lógica simbólica,35
+750,140212,Otras,35
+751,140213,Sistemas formales,35
+752,140214,Teoría de lenguajes formales,35
+753,140215,Teoría de modelos,35
+754,140216,Teoría de pruebas,35
+755,140301,Otras,36
+756,140401,Inducción,37
+757,140402,Intuicionismo,37
+758,140403,Otras,37
+759,140404,Probabilidad,37
+760,140501,Método científico,38
+761,140502,Otras,38
+762,140601,Otras,39
+763,150101,Álgebras de Lie ,40
+764,150102,Álgebra diferencial,40
+765,150103,Álgebra homológica,40
+766,150104,Álgebra lineal,40
+767,150105,Álgebras no asociativas,40
+768,150106,Campos, anillos, álgebras,40
+769,150107,Geometría algebraica,40
+770,150108,Grupos, generalidades,40
+771,150109,Matemáticas aplicadas,40
+772,150110,Otras,40
+773,150111,Polinomios,40
+774,150112,Retículos,40
+775,150113,Teoría axiomática de conjuntos,40
+776,150114,Teoría de categorías,40
+777,150115,Teoría de la representación,40
+778,150116,Teoría de matrices,40
+779,150201,Análisis de errores,41
+780,150202,Construcción de algoritmos,41
+781,150203,Cuadratura,41
+782,150204,Diferenciación numérica,41
+783,150205,Ecuaciones diferenciales,41
+784,150206,Ecuaciones diferenciales en derivadas parciales,41
+785,150207,Ecuaciones diferenciales ordinarias,41
+786,150208,Ecuaciones funcionales,41
+787,150209,Ecuaciones integrales,41
+788,150210,Ecuaciones integro-diferenciales,41
+789,150211,Ecuaciones lineales,41
+790,150212,Interpolación, aproximación y ajuste de curvas,41
+791,150213,Matrices,41
+792,150214,Métodos iterativos,41
+793,150215,Otras,41
+794,150301,Álgebra de operadores,42
+795,150302,Álgebras y espacios de Banach,42
+796,150303,Análisis armónico,42
+797,150304,Análisis combinatorio,42
+798,150305,Análisis global,42
+799,150306,Cálculo de variaciones,42
+800,150307,Cálculo operacional,42
+801,150308,Convexidad, desigualdades,42
+802,150309,Ecuaciones diferenciales en derivadas parciales,42
+803,150310,Ecuaciones diferenciales ordinarias,42
+804,150311,Ecuaciones en diferencias,42
+805,150312,Ecuaciones funcionales,42
+806,150313,Ecuaciones integrales,42
+807,150314,Espacios de hilbert,42
+808,150315,Espacios lineales topológicos,42
+809,150316,Funciones de una variable compleja,42
+810,150317,Funciones de variables reales,42
+811,150318,Funciones de varias variables complejas,42
+812,150319,Funciones especiales,42
+813,150320,Funciones subarmónicas,42
+814,150321,Matemáticas aplicadas,42
+815,150322,Medida, integración, área,42
+816,150323,Otras,42
+817,150324,Series e integrales trigonométricas,42
+818,150325,Series, sumabilidad,42
+819,150326,Teoría de la aproximación,42
+820,150327,Teoría de potencial,42
+3909,150328,Transformadas integrales,42
+821,150401,Arquitectura de ordenadores,43
+822,150402,Bancos de datos,43
+823,150403,Cálculo analógico,43
+824,150404,Cálculo digital,43
+825,150405,Cálculo híbrido,43
+826,150406,Código y sistemas de codificación,43
+827,150407,Contabilidad,43
+828,150408,Control de inventarios,43
+830,150410,Diseño con ayuda de ordenador,43
+831,150411,Diseño de sistemas de cálculo,43
+832,150412,Diseño de sistemas sensores,43
+833,150413,Diseño lógico,43
+834,150414,Dispositivos de almacenamiento,43
+835,150415,Dispositivos de control,43
+836,150416,Dispositivos de transmisión de datos,43
+837,150417,Enseñanza con ayuda de ordenador,43
+838,150418,Fiabilidad de los ordenadores,43
+839,150419,Heurística,43
+840,150420,Informática,43
+842,150422,Inteligencia artificial,43
+843,150423,Lenguajes algorítmicos,43
+844,150424,Lenguajes de programación,43
+845,150425,Lógica de ordenadores,43
+847,150427,Modelos causales,43
+848,150428,Ordenadores analógicos,43
+849,150429,Ordenadores digitales,43
+852,150432,Simulación,43
+853,150433,Sistemas automatizados de control de calidad,43
+854,150434,Sistemas automatizados de producción,43
+855,150435,Sistemas de control de producción,43
+856,150436,Sistemas de control del entorno,43
+857,150437,Sistemas de control médico,43
+858,150438,Sistemas de información, diseño y componentes,43
+859,150439,Sistemas de navegación y telemetría del espacio,43
+860,150440,Sistemas de reconocimiento de caracteres,43
+861,150441,Sistemas en tiempo real,43
+862,150442,Teoría de la programación,43
+864,150444,Unidades centrales de proceso,43
+3952,150445,Otros,43
+865,150501,Análisis de datos,44
+866,150502,Análisis estadístico,44
+867,150503,Análisis multivariante,44
+868,150504,Análisis y diseño de experimentos,44
+869,150505,Análisis, realización de modelos y planificación estadística,44
+870,150506,Cálculo en estadística,44
+871,150507,Estadística,44
+872,150508,Estadística analítica,44
+873,150509,Estadística de poblaciones,44
+874,150510,Fundamentos de la inferencia estadística,44
+875,150511,Matemáticas aplicadas,44
+876,150512,Métodos de distribución libre y no paramétrica,44
+877,150513,Otras,44
+878,150514,Series temporales,44
+879,150515,Técnicas de asociación estadística,44
+880,150516,Técnicas de inferencia estadística,44
+881,150517,Técnicas de predicción estadística,44
+882,150518,Teoría de la distribución y probabilidad,44
+883,150519,Teoría estocástica y análisis de series temporales,44
+884,150520,Teoría y procesos de decisión,44
+3953,150522,Matemáticas puras,44
+3955,150524,Estadística y probabilidad ,44
+3954,150523,Estadística y actuaría,44
+3907,150521,Teoría y técnicas de muestreo,44
+885,150601,Análisis tensorial,45
+886,150602,Dominios convexos,45
+887,150603,Fundamentos,45
+888,150604,Geometría afín,45
+889,150605,Geometría de Riemann,45
+890,150606,Geometría diferencial,45
+891,150607,Geometría euclídiana ,45
+892,150608,Geometría proyectiva,45
+893,150609,Geometrías finitas,45
+894,150610,Geometrías no euclídianas ,45
+895,150611,Otras,45
+896,150612,Problemas de contorno,45
+897,150613,Variedades complejas,45
+898,150701,Análisis de actividades,46
+899,150702,Cibernética,46
+900,150703,Colas,46
+901,150704,Distribución y transporte,46
+902,150705,Fiabilidad de sistemas,46
+903,150706,Formulación de sistemas,46
+904,150707,Inventarios,46
+905,150708,Matemáticas aplicadas,46
+906,150709,Otras,46
+907,150710,Planificación,46
+908,150711,Programación dinámica,46
+909,150712,Programación entera,46
+910,150713,Programación lineal,46
+911,150714,Programación no lineal,46
+912,150715,Redes de flujo,46
+913,150716,Sistemas de control,46
+3908,150717,Teoría de juegos,46
+914,150801,Otras,47
+915,150901,Aplicación de la probabilidad,48
+916,150902,Fundamentos de la probabilidad,48
+917,150903,Matemáticas actuariales (mercantiles),48
+3874,150904,Matemáticas aplicadas,48
+3875,150905,Otras,48
+3876,150906,Plausibilidad,48
+3877,150907,Probabilidad,48
+3878,150908,Probabilidad subjetiva,48
+3879,150909,Procesos de Markov,48
+3880,150910,Procesos estocásticos,48
+3881,150911,Teoremas del límite,48
+3906,150912,Teoría analítica de la probabilidad,48
+3882,151001,Geometría de los números,49
+3883,151002,Otras,49
+3884,151003,Problemas diofánticos,49
+3885,151004,Teoría algebraica de los números,49
+3886,151005,Teoría analítica de los números,49
+3887,151006,Teoría elemental de los números,49
+3888,151101,Cohomología,50
+3889,151102,Dinámica topológica,50
+3890,151103,Espacios abstractos,50
+3891,151104,Espacios fibrados,50
+3892,151105,Grupos de lie,50
+3893,151106,Grupos de transformaciones ,50
+3894,151107,Grupos topológicos,50
+3895,151108,Homología,50
+3896,151109,Homotopía,50
+3897,151110,Otras,50
+3898,151111,Recubrimientos topológicos,50
+3899,151112,Topología cuasilineal,50
+3900,151113,Topología diferencial,50
+3901,151114,Topología general,50
+3902,151115,Topología lineal de entornos,50
+3903,151116,Topología tridimensional,50
+3904,151117,Variedades diferenciables ,50
+3905,151118,Variedades topológicas,50
+4329,160101,Otras ,493
+4712,170101,Ciencias del mar,693
+4713,170201,Manejo costero,694
+4714,170301,Oceanografía costera,695
+4715,170401,Oceanografía física,696
+4716,170501,Oceanografía química,697
+2052,400101,Adorno,114
+2053,400102,Danzas, fiestas,114
+2054,400103,Etnolingüística,114
+2055,400104,Etnomusicología,114
+2056,400105,Hechicería,114
+2057,400106,Magia,114
+2058,400107,Medicina tradicional,114
+2059,400108,Mitos,114
+2060,400109,Museología,114
+2061,400110,Otras,114
+2062,400111,Poemas, relatos,114
+2063,400112,Religión,114
+2064,400113,Simbolismo,114
+2065,400114,Tradición,114
+2066,400115,Vestido,114
+2050,400201,Otras,115
+2076,400301,Esclavitud y servidumbre,116
+2077,400302,Filiación, familia y parentesco,116
+2078,400303,Guerra,116
+2079,400304,Jefatura y realeza,116
+2080,400305,Nomadismo,116
+2081,400306,Otras,116
+2082,400401,Restauración,117
+4231,400402,Arqueometría y ciencias materiales,117
+4232,400403,Otros,117
+2051,400501,Agricultura,118
+2119,400502,Armas,118
+2120,400503,Caza,118
+2121,400504,Etnohistoria,118
+2122,400505,Forraje,118
+2123,400506,Ganadería,118
+2124,400507,Habilidades artesanales,118
+2125,400508,Hábitat,118
+2126,400509,Intercambio,118
+2127,400510,Metalurgia,118
+2128,400511,Otras,118
+2129,400512,Pesca,118
+2130,400513,Trueque,118
+2212,400601,Otras,119
+4672,0002,Museografía y exposiciones,672
+4673,0003,Museopedagogía y estudios de público,672
+4677,0007,Museología antropológica y etnográfica,672
+4678,0008,Estudios sobre el patrimonio,672
+4679,0009,Gestión cultural y de museos,672
+4675,0005,Museología y divulgación de la ciencia en el museo,672
+4676,0006,Museología del arte,672
+4680,0010,Otros,672
+4671,0001,Museología y teoría de museos,672
+4674,0004,Museología histórica,672
+2236,410107,Urbanismo,120
+2084,410102,Construcción,120
+2085,410103,Diseño arquitectónico,120
+2086,410104,Jardines y parques,120
+2087,410105,Otras,120
+2088,410106,Restauración de monumentos,120
+2237,410108,Vivienda,121
+2083,410101,Asentamientos urbanos,121
+2213,410201,Otras,122
+2324,410301,Artes decorativas,123
+2325,410302,Baile, coreografía,123
+2326,410303,Cinematografía,123
+2327,410304,Dibujo, grabado,123
+2328,410305,Escultura,123
+2329,410306,Estética de las bellas artes,123
+2330,410307,Fotografía,123
+2331,410308,Música, musicología,123
+2332,410309,Otras,123
+2333,410310,Pintura,123
+2334,410311,Teatro,123
+2335,410401,Análisis literario,124
+2336,410402,Crítica de textos,124
+2337,410403,Estilo y estética literarios,124
+2338,410404,Otras,124
+2339,410405,Retórica,124
+2340,410406,Vocabulario literario,124
+3984,410701,Musicología,314
+3985,410702,Ciencia del teatro ó Teatro,314
+3986,410703,Dramaturgía ,314
+3987,410801,Otros,314
+3982,410501,Historia del arte,312
+3983,410601,Otros,313
+4592,Otr,Otras,652
+2106,420101,Otras,125
+2107,420201,Declaraciones internacionales,126
+2108,420202,Ética de la ciencia,126
+2109,420203,Ética económica,126
+2110,420204,Ética nacional,126
+2111,420205,Ética transnacional,126
+2112,420206,Otras,126
+2113,420301,Códigos de conducta ética,127
+2114,420302,Códigos de valores,127
+2115,420303,Ética filosófica,127
+2116,420304,Ética religiosa,127
+2117,420305,Motivación,127
+2118,420306,Otras,127
+2172,420401,Otras,128
+2218,420501,Otras,129
+3981,420601,Otros,311
+2067,430101,Estética,130
+2068,430102,Filosofía de la acción,130
+2069,430103,Filosofía de la imaginación,130
+2070,430104,Filosofía de la intersubjetividad,130
+2071,430105,Filosofía de la voluntad,130
+2072,430106,Filosofía del lenguaje,130
+2073,430107,Hermeneútica,130
+2074,430108,Otras,130
+2075,430109,Problema alma-cuerpo,130
+2101,430201,Otras,131
+2141,430301,Filosofía de la biología,132
+2142,430302,Filosofía de la física,132
+2143,430303,Filosofía de la lógica,132
+2144,430304,Filosofía de las ciencias sociales,132
+2145,430305,Filosofía de las matemáticas,132
+2146,430306,Otras,132
+2147,430401,Filosofía de la materia,133
+2148,430402,Filosofía de la vida,133
+2149,430403,Filosofía del espacio y del tiempo,133
+2150,430404,Otras,133
+2151,430501,Aporética,134
+2152,430502,Epistemología,134
+2153,430503,Otras,134
+2154,430504,Teoría de la percepción,134
+2155,430505,Teoría de la razón,134
+2156,430506,Teoría del concepto,134
+2157,430507,Teoría del juicio,134
+2158,430601,Lógica dialéctica,135
+2159,430602,Materialismo dialéctico,135
+2160,430603,Metafísica, ontología,135
+2161,430604,Otras,135
+2162,430605,Teología natural,135
+2163,430701,Filosofia de la cultura,136
+2164,430702,Filosofía de la historia,136
+2165,430703,Filosofía de la técnica,136
+2166,430704,Filosofía política,136
+2167,430705,Otras,136
+2168,430706,Teoría de las ideologías,136
+2214,430801,Otras,137
+2309,430901,Filosofía actual,138
+2310,430902,Filosofía antigua,138
+2311,430903,Filosofía moderna,138
+2312,430904,Otras,138
+2313,430905,Sistemas teológico-filosóficos,138
+3980,431001,Otros,310
+2170,440101,Otras,139
+2171,440201,Otras,140
+4014,440401,Historia comparada,331
+4015,440402,Historiografía,331
+4016,440403,Monografías históricas,331
+4017,440404,Teorías y métodos,331
+4018,440405,Otras,331
+4431,Hsocial,Historia Social,335
+4434,HistCult,Historia Cultural,335
+4041,440801,Historia de la arquitectura,335
+4047,440807,Historia de la educación,335
+4048,440808,Historia de la geografía,335
+4049,440809,Historia de la geología,335
+4051,440811,Historia del periodismo,335
+4052,440812,Historia del derecho de las instituciones jurídicas,335
+4054,440814,Historia de la linguística,335
+4057,440817,Historia de la medicina,335
+4060,440820,Historia de las ideas políticas,335
+4061,440821,Historia de las religiones,335
+4063,440823,Historia de la sociología,335
+4066,440826,Historia de la botánica,335
+4067,440827,Otras,335
+4062,440822,Historia de la ciencia,335
+4064,440824,Historia de la tecnología,335
+4065,440825,Historia de la guerra,335
+4233,440828,Historia de la Iglesia,335
+4235,440830,Historia del libro,335
+4432,Etnohist,Etnohistoria,335
+4433,HistUrb,Historia Urbana,335
+4042,440802,Historia del arte,335
+4043,440803,Historia de la astronomía,335
+4044,440804,Historia del la biología,335
+4045,440805,Historia de la química,335
+4046,440806,Historia de la economía,335
+4050,440810,Historia de las relaciones internacionales,335
+4053,440813,Historia de la literatura,335
+4055,440815,Historia de la lógica,335
+4056,440816,Historia de la magistratura,335
+4058,440818,Historia de la filosofía,335
+4059,440819,Historia de la física,335
+4236,440831,Historia institucional,335
+4237,440832,Historia universitaria,335
+4072,440301,Otras,330
+4019,440501,Historia local,332
+4021,440503,Otras,332
+4020,440502,Historia regional,332
+4023,440602,Historia contemporánea,333
+4025,440604,Historia moderna,333
+4027,440606,Otras ,333
+4022,440601,Historia antigua,333
+4024,440603,Historia medieval,333
+4026,440605,Prehistoria,333
+4036,440709,Papirología,334
+4037,440710,Filología,334
+4038,440711,Sigilografía,334
+4030,440703,Epografía,334
+4032,440705,Iconografía,334
+4034,440707,Onomástica,334
+4039,440712,Estratigrafía,334
+4040,440713,Otras,334
+4028,440701,Arqueología,334
+4029,440702,Ciencia de la cerámica,334
+4031,440704,Heráldica,334
+4033,440706,Numismática,334
+4035,440708,Peleografía,334
+4931,01,Otras,912
+4932,02,Cartografía Histórica,912
+4933,01,Otras,913
+4934,02,Geopolítica por Regiones,913
+4935,03,Geopolítica por Épocas,913
+2169,450101,Geografía lingüística,141
+2173,450201,Bilingüismo,142
+2174,450202,Documentación,142
+2175,450203,Documentación automatizada,142
+2176,450204,Enseñanza de lenguas,142
+2177,450205,Lengua y literatura,142
+2178,450206,Lenguaje infantil,142
+2179,450207,Lenguajes documentales,142
+2180,450208,Lingüística informatizada,142
+2181,450209,Otras,142
+2182,450210,Patología y corrección del lenguaje,142
+2183,450211,Resúmenes,142
+2184,450212,Traducción,142
+2185,450213,Traducción automática,142
+4591,LCOM,Linguística computacional,142
+2186,450301,Etimología,143
+2187,450302,Lingüística histórica,143
+2188,450303,Otras,143
+2189,450401,Estilística (estilo y retórica),144
+2190,450402,Etnolingüística,144
+2191,450403,Fonética,144
+2192,450404,Fonología,144
+2193,450405,Lexicografía,144
+2194,450406,Lexicología,144
+2195,450407,Lingüística comparada,144
+2196,450408,Ortografía,144
+2197,450409,Otras,144
+2198,450410,Psicolingüística,144
+2199,450411,Semántica,144
+2200,450412,Semiología,144
+2201,450413,Sintaxis, análisis sintáctico,144
+2202,450414,Sociolingüística,144
+2215,450501,Otras,145
+2314,450601,Otras,146
+5089,003,Odonimia,993
+5090,0004,Toponimia,993
+5087,001,Antroponimia,993
+5088,002,Bionimia,993
+2203,460101,Otras,147
+2204,470101,Análisis, realización de modelos y planificación estadística,148
+2205,470102,Desarrollo de asignaturas,148
+2206,470103,Educación de adultos,148
+2207,470104,Educación especial: minusválidos y deficientes mentales,148
+2208,470105,Formación profesional,148
+2209,470106,Niveles y temas de educación,148
+2210,470107,Organización y dirección de las instituciones educativas,148
+2211,470108,Otras,148
+2216,470201,Otras,149
+2238,470301,Carreras y categoría del profesorado,150
+2239,470302,Otras,150
+2240,470303,Preparación de profesores,150
+2315,470401,Desarrollo del programa de estudios,151
+2316,470402,Enseñanza programada,151
+2317,470403,Evaluación de alumnos,151
+2318,470404,Medios audiovisuales,151
+2319,470405,Métodos pedagógicos,151
+2320,470406,Otras,151
+2321,470407,Pedagogía comparada,151
+2322,470408,Pedagogía experimental,151
+2323,470409,Teorías educativas,151
+2089,480101,Asesoramiento y orientación educacional,152
+2090,480102,Comportamiento desviado,152
+2091,480103,Desórdenes del comportamiento,152
+2092,480104,Orientación profesional,152
+2093,480105,Psicoanálisis,152
+2094,480106,Psicología clínica,152
+2095,480107,Psicología de la orientación,152
+2096,480108,Psicopatología,152
+2097,480109,Psicoterapia,152
+2098,480110,Rehabilitación,152
+2099,480111,Terapia de grupo,152
+2100,480112,Terapia del comportamiento,152
+2248,480201,Otras,153
+2102,480301,Discriminación,154
+2103,480302,Fenómenos de grupos minoritarios,154
+2104,480303,Otras,154
+2105,480304,Política gubernamental,154
+2131,480401,Análisis a escala,155
+2132,480402,Diseño experimental,155
+2133,480403,Elaboración de tests,155
+2134,480404,Estadística,155
+2135,480405,Otras,155
+2136,480406,Psicología diferencial,155
+2137,480407,Psicometría,155
+2138,480408,Teoría de la medición,155
+2139,480409,Teoría de tests,155
+2140,480410,Validez de tests,155
+2217,480501,Otras,156
+2219,480601,Hipnosis,157
+2220,480602,Otras,157
+2222,480701,Comportamiento desviado,158
+2223,480702,Deficiencia mental,158
+2224,480703,Desórdenes del comportamiento,158
+2225,480704,Psicoanálisis,158
+2226,480705,Psicología clínica,158
+2227,480706,Psicopatología,158
+2228,480707,Psicoterapia,158
+2229,480801,Creatividad,159
+2230,480802,Cultura y personalidad,159
+2231,480803,Desarrollo de la personalidad,159
+2232,480804,Estructura y dinámica de la personalidad,159
+2233,480805,Medida de la personalidad,159
+2234,480806,Otras,159
+2235,480807,Teoría de la personalidad,159
+2241,480901,Abuso de drogas,160
+2242,480902,Alcoholismo,160
+2243,480903,Efecto de las drogas,160
+2244,480904,Otras,160
+2245,480905,Psicofarmacología,160
+2246,480906,Reacciones del comportamiento,160
+2247,480907,Tratamiento de la drogadicción,160
+2249,481001,Geriatría,161
+2250,481002,Madurez,161
+2251,481003,Muerte,161
+2252,481004,Otras,161
+2253,481005,Senectud,161
+2254,481101,Deficiencia mental,162
+2255,481102,Otras,162
+2256,481103,Patología del lenguaje,162
+2257,481104,Problemas de aprendizaje,162
+2258,481105,Psicología escolar,162
+2259,481106,Psicología evolutiva,162
+2268,481209,Procesos mentales,163
+2269,481210,Procesos sensoriales,163
+2270,481211,Psicología comparada,163
+2271,481212,Psicología fisiológica,163
+2272,481213,Reacción, reflejos,163
+2260,481201,Actividad cerebral,163
+2261,481202,Análisis experimental de la conducta,163
+2262,481203,Emoción,163
+2263,481204,Motivación,163
+2264,481205,Niveles de actividad,163
+2265,481206,Otras,163
+2266,481207,Procesos de la memoria,163
+2267,481208,Procesos de percepción,163
+2273,481301,Metodología,164
+2274,481302,Otras,164
+2275,481303,Teoría y sistemas,164
+2276,481401,Comportamiento en la organización,165
+2277,481402,Evaluación del rendimiento,165
+2278,481403,Motivación y actitudes,165
+2279,481404,Otras,165
+2280,481405,Planificación y evaluación de puestos de trabajo,165
+2281,481406,Prevención de accidentes,165
+2282,481407,Relaciones trabajadores-directivos,165
+2283,481408,Selección de personal,165
+2284,481501,Actitudes,166
+2285,481502,Comportamiento colectivo,166
+2286,481503,Comportamiento del consumidor,166
+2287,481504,Comportamiento político,166
+2288,481505,Comunicación simbólica,166
+2289,481506,Cultura y personalidad,166
+2290,481507,Interacción de grupos,166
+2291,481508,Liderazgo,166
+2292,481509,Marketing,166
+2293,481510,Opinión pública,166
+2294,481511,Otras,166
+2295,481512,Percepciones y movimientos sociales,166
+2296,481513,Procesos de grupos,166
+2297,481514,Procesos y teoría de la decisión,166
+2298,481515,Psicología comunitaria,166
+2299,481516,Psicología forense,166
+2300,481517,Psicología social,166
+2301,481518,Publicidad,166
+2302,481519,Resolución de conflictos,166
+2303,481520,Teoría de los roles,166
+2304,481601,Leyes del aprendizaje,167
+2305,481602,Métodos educativos,167
+2306,481603,Otras,167
+2307,481604,Procesos cognitivos,167
+2308,481605,Psicolingüística,167
+4070,490401,Otros,338
+4068,490101,Otros,336
+4069,490201,Otros,337
+4071,490501,Otros,339
+4073,490301,Otros,340
+4339,4000301,Otras,503
+4337,4000101,Otras,501
+4338,4000201,Otras,504
+4873,4010101,Arquitectura, diseño y urbanismo,854
+4874,4010201,Ciencias del hábitat,855
+4875,4010301,Ciudad territorio  y sustentabilidad,856
+4876,4010401,Ciudad y espacio público sustentable,857
+4877,4010501,Conservación del patrimonio arquitectónico,858
+4878,4010601,Diseño urbano,859
+4879,4010701,DiseÃ±o, planificaciÃ³n y conservaciÃ³n  de paisajes y jardines,860
+4880,4010801,Proyectos y edificación sustentables,861
+4881,4010901,Valuación inmobiliaria,862
+4882,4020101,Artes escénicas,863
+4883,4020201,Artes para el diseño,864
+4884,4020301,Estética,865
+4885,4020401,Estudios culturales,866
+4886,4020501,Estudios y procesos creativos en arte y diseño,867
+4887,4020601,Gestión y desarrollo cultural,868
+4888,4020701,Música,869
+4889,4020801,Producción artística,870
+4990,771,Migración ,957
+4991,772,Violencias,957
+4992,772,Trabajo,957
+4993,772,Participación política de las mujeres,957
+4994,773,Otras,957
+4995,780,sexualidades e identidades,958
+4996,781,Otras,958
+4997,783,Historia del feminismo,959
+4998,783,Representaciones culturales y prácticas sociales,959
+4999,783,Construcción de la subjetividad,959
+5000,784,Otras,959
+5001,785,Salud mental,960
+5002,786,Salud reproductiva,960
+5004,787,Desigualdad,960
+5005,789,Otras,960
+2939,700101,Computación para ingeniería,245
+2940,700102,Sistemas computacionales,245
+3134,700201,Aerodinámica,246
+3135,700202,Aeronaves,246
+3136,700203,Aeropuertos y transportes aéreos,246
+3137,700204,Aleteo y vibraciones,246
+3138,700205,Amortiguadores de aire,246
+3139,700206,Cargas aerodinámicas,246
+3140,700207,Cargas de aterrizaje,246
+3141,700208,Combustibles de aviación, combustión,246
+3142,700209,Compresores y turbinas,246
+3143,700210,Estabilidad y control,246
+3144,700211,Estructuras de aeronaves,246
+3145,700212,Hélices rotatorias,246
+3146,700213,Hidrodinámica,246
+3147,700214,Instrumentación (aviación),246
+3148,700215,Investigación y pruebas de vuelo,246
+3149,700216,Materiales de los sistemas de propulsión,246
+3150,700217,Otras,246
+3151,700218,Sistemas de propulsión,246
+3152,700219,Teoría aerodinámica,246
+3153,700301,Contaminación,247
+3154,700302,Control de la contaminación atmosférica,247
+3155,700303,Control de la contaminación del agua,247
+3156,700304,Eliminación de residuos,247
+3157,700305,Eliminación de residuos radiactivos,247
+3158,700306,Ingeniería de la contaminación,247
+3159,700307,Ingeniería sanitaria,247
+3160,700308,Otras,247
+3161,700309,Regeneración del agua,247
+3162,700310,Residuos industriales,247
+3163,700311,Tecnología de aguas residuales,247
+3164,700312,Tecnología del control de insectos,247
+3292,700313,Tecnología del control de roedores,247
+5119,700314,Impacto y riesgo ambiental,247
+5120,700315,Sistemas de Gestión ambiental,247
+5121,700316,Auditoría ambiental,247
+5122,700317,Energías no convencionales,247
+5123,700318,Restauración ambiental,247
+5124,700319,Manejo de recursos naturales,247
+5125,700320,Ordenamiento Ecológico,247
+2959,700401,Administración,248
+2960,700402,Alta energía,248
+2961,700403,Aplicaciones eléctricas,248
+2962,700404,Aplicaciones industriales,248
+2963,700405,Automatización,248
+2964,700406,Computación,248
+2965,700407,Comunicaciones,248
+2966,700408,Conductores aislados,248
+2967,700409,Conductores eléctricos,248
+2968,700410,Control automático,248
+2969,700411,Electrónica,248
+2970,700412,Energía eléctrica,248
+2971,700413,Fabricación de equipo eléctrico,248
+2972,700414,Iluminación eléctrica,248
+2973,700415,Industria eléctrica y electrónica,248
+2974,700416,Ingeniería biomédica,248
+2975,700417,Ingeniería industrial,248
+2976,700418,Instalaciones eléctricas,248
+2977,700419,Instrumentación electrónica,248
+2978,700420,Interruptores,248
+2979,700421,Lenguajes,248
+2980,700422,Mantenimiento eléctrico,248
+2981,700423,Maquinaria rotatoria,248
+2982,700424,Materiales y dispositivos optoelectrónica,248
+2983,700425,Motores eléctricos,248
+3165,700426,Otras,248
+3166,700427,Potencia,248
+3167,700428,Procesamiento digital de señales,248
+3168,700429,Producción,248
+3169,700430,Robótica,248
+3170,700431,Semiconductores,248
+3171,700432,Sistemas electrónicos,248
+3172,700433,Telecomunicaciones,248
+3173,700434,Transmisión y distribución,248
+3174,700435,Utilización de la corriente continua,248
+4258,7005100,Otras,249
+3175,700501,Aceite y grasa lubricantes,249
+3176,700502,Almacenamiento (petróleo y gas),249
+3177,700503,Alquilos metálicos,249
+3178,700504,Análisis de polímeros,249
+3179,700505,Caracterización de carbones,249
+3180,700506,Carbono,249
+3181,700507,Celulosa,249
+3185,700511,Compuestos de coordinación,249
+3187,700513,Compuestos de fósforo,249
+3191,700517,Compuestos del nitrógeno,249
+3192,700518,Compuestos heterocíclicos,249
+3194,700520,Desionización,249
+3195,700521,Diseño de refinerías,249
+3196,700522,Economía química,249
+3197,700523,Elastómeros,249
+3198,700524,Elementos alcalinos,249
+3201,700527,Elementos electropositivos,249
+3204,700530,Equipo de campos petrolíferos,249
+3205,700531,Estabilidad de las macromoléculas,249
+3207,700533,Estructura de las moléculas orgánicas,249
+3208,700534,Estructura de los compuestos inorgánicos,249
+3209,700535,Fibras naturales,249
+3210,700536,Fibras sintéticas,249
+3212,700538,Gas natural,249
+3213,700539,Gaseoductos,249
+3218,700544,Hidrocarburos alifáticos,249
+3219,700545,Hidrocarburos aromáticos,249
+3220,700546,Hidrógeno,249
+3222,700548,Infraestructura de campos petrolíferos,249
+3223,700549,Macromoléculas,249
+3225,700551,Mecanismos de las reacciones inorgánicas,249
+3226,700552,Mecanismos de reacción,249
+3227,700553,Metales,249
+3228,700554,Modificación de macromoléculas,249
+3230,700556,Operaciones electroquímicas,249
+3231,700557,Petróleo crudo,249
+3235,700561,Poliestireno,249
+3236,700562,Polietilenos,249
+3237,700563,Polímeros compuestos,249
+3238,700564,Polímeros de alto peso molecular,249
+3239,700565,Polímeros en forma dispersa,249
+3241,700567,Polímeros reticulados,249
+3243,700569,Polisacáridos,249
+3244,700570,Poliuretanos,249
+3245,700571,Procesos de química nuclear,249
+3246,700572,Procesos químicos,249
+3247,700573,Productos del petróleo: gasolina, aceites y ceras,249
+3248,700574,Productos derivados del petróleo,249
+3249,700575,Productos químicos derivados del carbón,249
+3252,700578,Química de los colorantes,249
+3255,700581,Química de los hidratos de carbono,249
+3259,700585,Química de los pigmentos,249
+3260,700586,Química de monómeros,249
+3261,700587,Química de productos naturales orgánicos,249
+3262,700588,Química del agua,249
+3263,700589,Química del carbonio,249
+3264,700590,Química industrial,249
+3265,700591,Química orgánica. Análisis instrumental,249
+3267,700593,Recubrimiento por electrólisis,249
+3268,700594,Revestimientos hidrófobos,249
+3269,700595,Revestimientos protectores,249
+3270,700596,Revestimientos refractarios,249
+3271,700597,Separación química,249
+3272,700598,Síntesis de macromoléculas,249
+3273,700599,Síntesis química,249
+3274,7005100,Tecnología de la catálisis,249
+3275,7005101,Tecnología de la combustión,249
+3276,7005102,Tecnología de la conservación,249
+3277,7005103,Tecnología de la corrosión,249
+3278,7005104,Tecnología química: tensioactivos,249
+3279,7005105,Tierras raras,249
+3281,700601,Otras,250
+3282,700701,Códigos de edificación,251
+3283,700702,Comunicaciones,251
+3284,700703,Desarrollo regional,251
+3285,700704,Medio urbano,251
+3286,700705,Organización comunitaria,251
+3287,700706,Otras,251
+3288,700707,Relaciones urbano-rurales,251
+3289,700708,Servicios sanitarios,251
+3290,700709,Transporte,251
+3291,700710,Uso del suelo,251
+3296,700801,Absorción,252
+3297,700802,Agitación,252
+3298,700803,Bombeo,252
+3299,700804,Centrifugación,252
+3300,700805,Circulación a través de medios porosos,252
+3301,700806,Compresión,252
+3302,700807,Cristalización,252
+3303,700808,Desecación,252
+3304,700809,Desionización,252
+3305,700810,Destilación y condensación,252
+3306,700811,Evaporación,252
+3307,700812,Extracción de líquido-líquido,252
+3308,700813,Extracción sólido-líquido,252
+3309,700814,Filtración,252
+3310,700815,Flotación,252
+3311,700816,Fluidización de sólidos,252
+3312,700817,Liofilización,252
+3313,700818,Manejo de sólidos,252
+3314,700819,Mezclado,252
+3315,700820,Otras,252
+3316,700821,Refrigeración,252
+3317,700822,Sedimentación,252
+3318,700823,Tamizado,252
+3319,700824,Transferencia de calor,252
+3320,700825,Transferencia de masa,252
+3321,700826,Transferencia vapor-líquido,252
+3322,700827,Trituración,252
+3323,700828,Tubos, válvulas y accesorios de montaje,252
+4271,700952,Otras,253
+3327,700904,Alimentos proteínicos,253
+3329,700906,Almidón,253
+3330,700907,Antioxidantes en los alimentos,253
+3332,700909,Bebidas alcohólicas,253
+3333,700910,Bebidas no alcohólicas,253
+3334,700911,Bioquímica y microbiología de los procesos fermentativos,253
+3335,700912,Colorantes,253
+3336,700913,Conservación de alimentos,253
+3341,700918,Digestión,253
+3342,700919,Elaboración de alimentos,253
+3346,700923,Estabilizadores,253
+3350,700927,Ingeniería bioquímica,253
+3351,700928,Liofilización,253
+3352,700929,Maquinaria para la industria de la alimentación,253
+3353,700930,Metabolismo energético,253
+3354,700931,Microbiología de alimentos,253
+3355,700932,Microbiología industrial,253
+3356,700933,Necesidades alimentarias,253
+3357,700934,Nutrientes,253
+3363,700940,Productos lácteos,253
+3364,700941,Propiedades de los alimentos,253
+3367,700944,Sustancias tóxicas naturales,253
+3368,700945,Tecnología de alimentos. Transmisión de calor,253
+3369,700946,Tecnología de la fermentación,253
+3370,700947,Tecnología de los antibióticos,253
+3372,700949,Valor nutritivo,253
+3374,700951,Vitaminas,253
+3324,700901,Aceites y grasas vegetales,253
+3325,700902,Aditivos alimentarios,253
+3326,700903,Agentes patógenos de los alimentos,253
+4272,701056,Otras,254
+3375,701001,Abastecimiento de agua,254
+3376,701002,Abrasivos,254
+3377,701003,Aglomerantes,254
+3378,701004,Alcantarillado y depuración de aguas,254
+3379,701005,Autopistas,254
+3380,701006,Caliza,254
+3381,701007,Canales interiores,254
+3382,701008,Cimientos,254
+3383,701009,Construcción,254
+3384,701010,Construcción de aeropuertos,254
+3385,701011,Construcción de carreteras,254
+3386,701012,Construcciones de madera,254
+3387,701013,Construcciones ligeras,254
+3388,701014,Construcciones metálicas,254
+3389,701015,Construcciones pesadas,254
+3390,701016,Construcciones prefabricadas,254
+3391,701017,Diseño arquitectónico,254
+3392,701018,Drenajes,254
+3393,701019,Edificios industriales y comerciales,254
+3394,701020,Edificios públicos,254
+3395,701021,Ensayos de materiales,254
+3396,701022,Excavaciones,254
+3397,701023,Grandes edificios y rascacielos,254
+3398,701024,Hormigón pretensado,254
+3399,701025,Ingeniería civil,254
+3400,701026,Ingeniería de estructuras,254
+3401,701027,Ingeniería hidráulica,254
+3402,701028,Irrigación,254
+3403,701029,Material de construcción,254
+3404,701030,Materiales cerámicos,254
+3405,701031,Materiales metalocerámicos (cermets),254
+3406,701032,Mecánica del suelo (construcción),254
+3407,701033,Metrología de la edificación,254
+3408,701034,Obras subterráneas,254
+3409,701035,Organización de obras,254
+3410,701036,Planificación urbana,254
+3411,701037,Plásticos,254
+3412,701038,Presas,254
+3413,701039,Productos de arcilla,254
+3414,701040,Propiedades de los materiales,254
+3415,701041,Puentes,254
+3416,701042,Puertos,254
+3417,701043,Refractarios,254
+3418,701044,Regulaciones, códigos y especificaciones,254
+3419,701045,Resistencia de estructuras,254
+3420,701046,Resistencia de materiales,254
+3421,701047,Sistemas hiperestáticos,254
+3422,701048,Tecnología de la madera,254
+3423,701049,Tecnología del hormigón,254
+3424,701050,Tendido de vías férreas,254
+3425,701051,Topografía de la edificación,254
+3426,701052,Transmisión de calor en la edificación,254
+3427,701053,Túneles,254
+3428,701054,Vidrio,254
+3429,701055,Viviendas,254
+3430,701101,Aparatos científicos,255
+3431,701102,Dispositivos de cronometraje,255
+3432,701103,Dispositivos electroópticos,255
+3433,701104,Equipo de fotografía y cinematografía,255
+3434,701105,Equipo de laboratorio,255
+3435,701106,Equipos de verificación,255
+3436,701107,Equipos eléctricos de control,255
+3437,701108,Ingeniería de control,255
+3438,701109,Instrumentos de medida de la temperatura,255
+3439,701110,Instrumentos eléctricos,255
+3440,701111,Instrumentos electrónicos,255
+3441,701112,Instrumentos médicos,255
+3442,701113,Instrumentos ópticos,255
+3443,701114,Instrumentos para odontología,255
+3444,701115,Instrumentos termoestáticos,255
+3445,701116,Lentes,255
+3446,701117,Otras,255
+3447,701118,Servomecanismos,255
+3448,701119,Técnicas de manipulación a distancia,255
+3449,701120,Tecnología de la automatización,255
+4284,703204,Productos electrochapados y recubiertos,452
+4281,703201,Autoclaves y calderas ,452
+4282,703202,Envases y recipientes,452
+4285,703205,Altos hornos, hornos, hornos cerámicos,452
+4286,703206,Ferretería,452
+4289,703209,Tuberías, guarniciones y válvulas,452
+4290,703210,Recipientes de presión,452
+4291,703211,Productos de chapa metálica,452
+4292,703212,Estampados,452
+4296,703216,Otras,452
+4283,703203,Equipo de destilación ,452
+4287,703207,Productos elaborados a máquina y torneados,452
+4288,703208,Servicios de fabricación de metales,452
+4293,703213,Productos de acero para construcciones,452
+4294,703214,Estructuras fabricadas por soldeo,452
+4295,703215,Artículos de alambre,452
+4273,701258,Otra,256
+3450,701201,Antenas,256
+3451,701202,Cinematografía,256
+3452,701203,Circuitos,256
+3453,701204,Circuitos integrados,256
+3454,701205,Comunicaciones por satélite,256
+3455,701206,Conductividad,256
+3456,701207,Diseño de circuitos,256
+3457,701208,Diseño de filtros,256
+3458,701209,Dispositivos de grabación,256
+3459,701210,Dispositivos de microondas,256
+3460,701211,Dispositivos de rayos x,256
+3461,701212,Dispositivos de sonar,256
+3462,701213,Dispositivos fotoeléctricos,256
+3463,701214,Dispositivos láser,256
+3464,701215,Dispositivos semiconductores,256
+3465,701216,Dispositivos sónicos,256
+3466,701217,Dispositivos termoeléctricos,256
+3467,701218,Dispositivos termoiónicos,256
+3468,701219,Dispositivos ultrasónicos,256
+3469,701220,Electricidad,256
+3470,701221,Electroacústica,256
+3471,701222,Elementos de circuitos,256
+3472,701223,Emisores de tv (transmisores),256
+3473,701224,Enlaces de microondas,256
+3474,701225,Estados electrónicos,256
+3475,701226,Fotoelectricidad,256
+3476,701227,Instrumentos electrónicos,256
+3477,701228,Interacción de ondas electromagnéticas con la materia,256
+3478,701229,Magnetismo,256
+3479,701230,Magnitudes eléctricas y su medida,256
+3480,701231,Microelectrónica,256
+3481,701232,Microelectrónica. Diseño,256
+3482,701233,Microelectrónica. Tecnología del silicio,256
+3483,701234,Microelectrónica. Teconologías iii-v y alternativas,256
+3484,701235,Microscopía electrónica,256
+3485,701236,Ondas electromagnéticas,256
+3486,701237,Piezoelectricidad,256
+3487,701238,Propagación de ondas electromagnéticas,256
+3488,701239,Radar,256
+3489,701240,Radiación infrarroja, visible y ultravioleta,256
+3490,701241,Radiocomunicaciones,256
+3491,701242,Radiodifusión, sonido y televisión,256
+3492,701243,Radioondas y microondas,256
+3493,701244,Rayos gamma,256
+3494,701245,Rayos x,256
+3495,701246,Receptores de radio,256
+3496,701247,Receptores de tv.,256
+3497,701248,Superconductividad,256
+3498,701249,Teléfono,256
+3499,701250,Telégrafo,256
+3500,701251,Televisión,256
+3501,701252,Televisión por cable,256
+3502,701253,Transductores electroacústicos,256
+3503,701254,Transistores,256
+3504,701255,Transmisores de radio,256
+3505,701256,Transporte de electrones,256
+3506,701257,Transportes y comunicaciones,256
+4274,701352,Otras,257
+4275,701353,Aromatizantes,257
+3507,701301,Aceites y grasas vegetales,257
+3508,701302,Aditivos alimentarios,257
+3509,701303,Agentes patógenos de los alimentos,257
+3510,701304,Alimentos proteínicos,257
+3511,701305,Alimentos sintéticos,257
+3512,701306,Almidón,257
+3513,701307,Antioxidantes en los alimentos,257
+3514,701308,Azúcar,257
+3515,701309,Bebidas alcohólicas,257
+3516,701310,Bebidas no alcohólicas,257
+3517,701311,Bioquímica y microbiología de los procesos fermentativos,257
+3518,701312,Colorantes,257
+3519,701313,Conservación de alimentos,257
+3520,701314,Conservación postrecolección,257
+3521,701315,Conservas,257
+3522,701316,Conservas vegetales,257
+3523,701317,Deficiencias alimentarias,257
+3524,701318,Digestión,257
+3525,701319,Elaboración de alimentos,257
+3526,701320,Elaboración de cerveza,257
+3527,701321,Elementos minerales en la alimentación,257
+3528,701322,Enfermedades de la nutrición,257
+3529,701323,Estabilizadores,257
+3530,701324,Esterilización de alimentos,257
+3531,701325,Fabricación de harina,257
+3532,701326,Higiene de los alimentos,257
+3533,701327,Ingeniería bioquímica,257
+3534,701328,Liofilización,257
+3535,701329,Maquinaria para la industria de la alimentación,257
+3536,701330,Metabolismo energético,257
+3537,701331,Microbiología de alimentos,257
+3538,701332,Microbiología industrial,257
+3539,701333,Necesidades alimentarias,257
+3540,701334,Nutrientes,257
+3541,701335,Oligoelementos en la alimentación,257
+3542,701336,Panadería,257
+3543,701337,Pasterización,257
+3544,701338,Piensos,257
+3545,701339,Productos de cereales,257
+3546,701340,Productos lácteos,257
+3547,701341,Propiedades de los alimentos,257
+3548,701342,Refrigeración,257
+3549,701343,Secado por congelación,257
+3550,701344,Sustancias tóxicas naturales,257
+3551,701345,Tecnología de alimentos. Transmisión de calor,257
+3552,701346,Tecnología de la fermentación,257
+3553,701347,Tecnología de los antibióticos,257
+3554,701348,Toxicidad de los alimentos,257
+3555,701349,Valor nutritivo,257
+3556,701350,Vino,257
+3557,701351,Vitaminas,257
+3558,701401,Equipo ferroviario,258
+3559,701402,Locomotoras,258
+3560,701403,Material rodante,258
+3561,701404,Otras,258
+3562,701405,Servicios de ferrocarril,258
+3563,701406,Tendido de vías férreas,258
+3564,701407,Transito rápido,258
+4276,701548,Otras,259
+3565,701501,Arquitectura de ordenadores,259
+3566,701502,Bancos de datos,259
+3567,701503,Cálculo analógico,259
+3568,701504,Cálculo digital,259
+3569,701505,Cálculo híbrido,259
+3570,701506,Código y sistemas de codificación,259
+3571,701507,Contabilidad,259
+3572,701508,Control de inventarios,259
+3573,701509,Convertidores analógico-digitales,259
+3574,701510,Diseño con ayuda de ordenador,259
+3575,701511,Diseño de sistemas de cálculo,259
+3576,701512,Diseño de sistemas sensores,259
+3577,701513,Diseño lógico,259
+3578,701514,Dispositivos de almacenamiento,259
+3579,701515,Dispositivos de control,259
+3580,701516,Dispositivos de transmisión de datos,259
+3581,701517,Enseñanza con ayuda de ordenador,259
+3582,701518,Fiabilidad de los ordenadores,259
+3583,701519,Heurística,259
+3584,701520,Informática,259
+3585,701521,Ingeniería del transporte,259
+3586,701522,Instrucciones aritméticas y de máquina,259
+3587,701523,Inteligencia artificial,259
+3588,701524,Lenguajes algorítmicos,259
+3589,701525,Lenguajes de programación,259
+3590,701526,Lógica de ordenadores,259
+3591,701527,Mantenimiento de los ordenadores,259
+3592,701528,Modelos causales,259
+3593,701529,Ordenadores analógicos,259
+3594,701530,Ordenadores digitales,259
+3595,701531,Ordenadores híbridos,259
+3596,701532,Periféricos de ordenadores,259
+3597,701533,Simulación,259
+3598,701534,Sistemas automatizados de control de calidad,259
+3599,701535,Sistemas automatizados de producción,259
+3600,701536,Sistemas de control de producción,259
+3601,701537,Sistemas de control del entorno,259
+3602,701538,Sistemas de control médico,259
+3603,701539,Sistemas de información, diseño y componentes,259
+3604,701540,Sistemas de navegación y telemetría del espacio,259
+3605,701541,Sistemas de reconocimiento de caracteres,259
+3606,701542,Sistemas en tiempo real,259
+3607,701543,Teoría de la programación,259
+3608,701544,Terminales, dispositivos gráficos y trazadores,259
+3871,701545,Transporte terrestre,259
+3872,701546,Unidades centrales de proceso,259
+3873,701547,Vías terrestres,259
+3609,701601,Análisis del tráfico,260
+3610,701602,Combinación de sistemas,260
+3611,701603,Líneas aéreas y control del tráfico aéreo,260
+3612,701604,Otras,260
+3613,701605,Sistemas de tránsito urbano,260
+3614,701606,Transporte,260
+3615,701607,Transportes y comunicaciones,260
+3293,701701,Abrasivos,261
+3294,701702,Aglomerantes,261
+3295,701703,Caliza,261
+3616,701704,Ensayos de materiales,261
+3617,701705,Materiales cerámicos,261
+3618,701706,Materiales metalocerámicos (cermets),261
+3619,701707,Otras,261
+3620,701708,Plásticos,261
+3621,701709,Plásticos,261
+3622,701710,Polímeros,261
+3623,701711,Productos de arcilla,261
+3624,701712,Propiedades de los materiales,261
+3625,701713,Refractarios,261
+3626,701714,Resinas y adhesivos,261
+3627,701715,Resistencia de materiales,261
+3628,701716,Tecnología de la madera,261
+3629,701717,Vidrio,261
+3630,701801,Accesorios y recambios,262
+3631,701802,Autobuses, camiones y remolques,262
+3632,701803,Automóviles,262
+3633,701804,Ingeniería del tráfico,262
+3634,701805,Motocicletas,262
+3635,701806,Motores de pistón,262
+3636,701807,Motores diesel,262
+3637,701808,Motores rotativos,262
+3638,701809,Otras,262
+3639,701810,Servicio de mantenimiento de transportes a motor,262
+3640,701811,Vehículos todo terreno,262
+3641,701901,Aceite y grasa lubricantes,263
+3642,701902,Almacenamiento (petróleo y gas),263
+3643,701903,Caracterización de carbones,263
+3644,701904,Diseño de refinerías,263
+3645,701905,Equipo de campos petrolíferos,263
+3646,701906,Gas licuado,263
+3647,701907,Gas natural,263
+3648,701908,Gaseoductos,263
+3650,701910,Geología del petróleo,263
+3651,701911,Infraestructura de campos petrolíferos,263
+3652,701912,Maquinaria de extracción de petróleo,263
+3653,701913,Materiales asfálticos,263
+3654,701914,Oleoductos,263
+3655,701915,Otras,263
+3656,701916,Petróleo crudo,263
+3657,701917,Productos del petróleo: gasolina, aceites y ceras,263
+3658,701918,Productos derivados del petróleo,263
+3659,701919,Productos químicos derivados del carbón,263
+4277,702012,Otras,264
+3660,702001,Control de vehículos,264
+3661,702002,Derecho sobre el espacio ultraterrestre,264
+3662,702003,Exobiología,264
+3663,702004,Fisiología espacial,264
+3664,702005,Instalaciones de misiles,264
+3665,702006,Lanzamiento y recuperación de misiles,264
+3666,702007,Medicina espacial,264
+3667,702008,Motores de cohete,264
+3668,702009,Naves espaciales,264
+3669,702010,Satélites artificiales,264
+3670,702011,Seguimiento espacial,264
+3671,702101,Bombas y equipos para manipulación de líquidos,265
+3672,702102,Cojinetes,265
+3673,702103,Compresores de aire,265
+3674,702104,Diseño de máquinas,265
+3675,702105,Engranajes,265
+3676,702106,Equipo de refrigeración,265
+3677,702107,Equipo mecánico de transmisión de potencia,265
+3678,702108,Equipo neumático,265
+3679,702109,Equipo y maquinaria industrial,265
+3680,702110,Maquinaria agropecuaria,265
+3681,702111,Maquinaria de extracción de petróleo,265
+3682,702112,Maquinaria de impresión y reproducción,265
+3683,702113,Maquinaria de minería,265
+3684,702114,Maquinaria hidráulica,265
+3685,702115,Maquinaria industrial especializada,265
+3686,702116,Maquinaria nuclear,265
+3687,702117,Maquinaria para fabricar papel,265
+3688,702118,Maquinaria para la industria de la alimentación,265
+3689,702119,Maquinaria para manejo de materiales,265
+3690,702120,Maquinaria textil,265
+3691,702121,Máquinas de vapor,265
+3692,702122,Máquinas expendedoras y distribuidoras,265
+3693,702123,Máquinas-herramienta y accesorios,265
+3694,702124,Material de calefacción,265
+3695,702125,Material de construcción,265
+3696,702126,Matrices, plantillas y calibres,265
+3697,702127,Motores de combustión interna (general),265
+3698,702128,Motores de gas,265
+3699,702129,Operaciones mecanizadas,265
+3700,702130,Otras,265
+3701,702131,Turbinas,265
+3702,702132,Ventiladores,265
+4278,702257,Válvulas electrónicas,266
+4279,702258,Otras,266
+3703,702201,Antenas,266
+3704,702202,Cinematografía,266
+3705,702203,Circuitos,266
+3706,702204,Circuitos integrados,266
+3707,702205,Comunicaciones por satélite,266
+3708,702206,Conductividad,266
+3709,702207,Diseño de circuitos,266
+3710,702208,Diseño de filtros,266
+3711,702209,Dispositivos de grabación,266
+3712,702210,Dispositivos de microondas,266
+3713,702211,Dispositivos de rayos x,266
+3714,702212,Dispositivos de sonar,266
+3715,702213,Dispositivos fotoeléctricos,266
+3716,702214,Dispositivos láser,266
+3717,702215,Dispositivos semiconductores,266
+3718,702216,Dispositivos sónicos,266
+3719,702217,Dispositivos termoeléctricos,266
+3720,702218,Dispositivos termoiónicos,266
+3721,702219,Dispositivos ultrasónicos,266
+3722,702220,Electricidad,266
+3723,702221,Electroacústica,266
+3724,702222,Elementos de circuitos,266
+3725,702223,Emisores de tv (transmisores),266
+3726,702224,Enlaces de microondas,266
+3727,702225,Estados electrónicos,266
+3728,702226,Fotoelectricidad,266
+3729,702227,Instrumentos electrónicos,266
+3730,702228,Interacción de ondas electromagnéticas con la materia,266
+3731,702229,Magnetismo,266
+3732,702230,Magnitudes eléctricas y su medida,266
+3733,702231,Microelectrónica,266
+3734,702232,Microelectrónica. Diseño,266
+3735,702233,Microelectrónica. Tecnología del silicio,266
+3736,702234,Microelectrónica. Tecnologías iii-v y alternativas,266
+3737,702235,Microscopía electrónica,266
+3738,702236,Ondas electromagnéticas,266
+3739,702237,Piezoelectricidad,266
+3740,702238,Propagación de ondas electromagnéticas,266
+3741,702239,Radar,266
+3742,702240,Radiación infrarroja, visible y ultravioleta,266
+3743,702241,Radiocomunicaciones,266
+3744,702242,Radiodifusión, sonido y televisión,266
+3745,702243,Radioondas y microondas,266
+3746,702244,Rayos gamma,266
+3747,702245,Rayos x,266
+3748,702246,Receptores de radio,266
+3749,702247,Receptores de tv.,266
+3750,702248,Superconductividad,266
+3751,702249,Teléfono,266
+3752,702250,Telégrafo,266
+3753,702251,Televisión,266
+3754,702252,Televisión por cable,266
+3755,702253,Transductores electroacústicos,266
+3756,702254,Transistores,266
+3757,702255,Transmisores de radio,266
+3758,702256,Transporte de electrones,266
+3759,702301,Distribución de energía,267
+3760,702302,Energía,267
+3761,702303,Energía (física),267
+3762,702304,Fuentes no convencionales de energía,267
+3763,702305,Generación de energía,267
+3764,702306,Generadores de energía,267
+3765,702307,Otras,267
+3766,702308,Transmisión de energía,267
+4280,702418,Otras,268
+3767,702401,Dirección de ventas,268
+3768,702402,Equipo industrial,268
+3769,702403,Especificaciones de procesos,268
+3770,702404,Estudio de mercados,268
+3771,702405,Estudio de tiempos y movimientos,268
+3772,702406,Estudios industriales,268
+3773,702407,Gestión financiera,268
+3774,702408,Ingeniería de mantenimiento,268
+3775,702409,Ingeniería de procesos,268
+3776,702410,Investigación operativa,268
+3777,702411,Maquinaria industrial,268
+3778,702412,Marketing (comercialización),268
+3779,702413,Niveles óptimos de producción,268
+3780,702414,Organización de la producción,268
+3781,702415,Organización de recursos humanos,268
+3782,702416,Procesos industriales,268
+3783,702417,Publicidad,268
+3784,702501,Instrumentos médicos,269
+3785,702502,Órganos artificiales,269
+3786,702503,Otras,269
+3787,702504,Prótesis,269
+3804,702617,Pulvimetalurgia,270
+3805,702618,Servicios metalúrgicos,270
+3806,702619,Talleres de forja, laminación y fundición de hierro y acero,270
+3788,702601,Afino incluyendo el afino por zonas,270
+3789,702602,Aluminio,270
+3790,702603,Cobre,270
+3791,702604,Fundición de precisión,270
+3792,702605,Fundición, afino y transformación de materiales no férreos,270
+3793,702606,Fundiciones (general),270
+3794,702607,Fundiciones no férreas,270
+3795,702608,Metales preciosos,270
+3796,702609,Metales radiactivos,270
+3797,702610,Metales raros,270
+3798,702611,Metales refractarios,270
+3799,702612,Metalurgia extractiva no férrea,270
+3800,702613,Otras,270
+3801,702614,Plomo y zinc,270
+3802,702615,Productos electrometalúrgicos,270
+3803,702616,Productos metalúrgicos (especiales),270
+3807,702701,Azufre,271
+3808,702702,Concentración de menas,271
+3809,702703,Maquinaria de minería,271
+3810,702704,Menas de hierro,271
+3811,702705,Menas metálicas no férreas,271
+3812,702706,Minerales no metálicos,271
+3813,702707,Minería,271
+3814,702708,Minería del carbón,271
+3815,702709,Otras,271
+3816,702710,Productos de las canteras,271
+3817,702711,Servicios mineros,271
+3818,702712,Uranio y menas radiactivas,271
+3819,702801,Arquitectura naval,272
+3820,702802,Barcos,272
+3821,702803,Barcos de navegación interior,272
+3822,702804,Buques mercantes,272
+3823,702805,Construcción naval,272
+3824,702806,Dispositivos de sustentación neumática,272
+3825,702807,Hélices,272
+3826,702808,Línea de ejes,272
+3827,702809,Maquinas auxiliares,272
+3828,702810,Motores marinos,272
+3829,702811,Otras,272
+3830,702812,Transporte oceánico,272
+3831,702813,Transportes marítimos,272
+3832,702814,Vehículos submarinos,272
+4259,702930,Otras,273
+3833,702901,Aplicaciones de isótopos,273
+3836,702904,Átomos con z mayor que 2,273
+3839,702907,Energía nuclear,273
+3840,702908,Estructura nuclear,273
+3841,702909,Explosiones nucleares,273
+3842,702910,Física atómica,273
+3843,702911,Física nuclear experimental bajas energías,273
+3844,702912,Fisión (nuclear),273
+3849,702917,Isótopos,273
+3850,702918,Maquinaria nuclear,273
+3852,702920,Pruebas nucleares,273
+3853,702921,Radioisótopos,273
+3854,702922,Reacción nuclear y dispersión,273
+3855,702923,Reactores de fisión nuclear,273
+3856,702924,Reactores de fusión nuclear,273
+3857,702925,Reactores nucleares,273
+3859,702927,Resonancia magnética nuclear,273
+3861,702929,Separación de isótopos,273
+3862,703001,Algodón,274
+3863,703002,Fibras sintéticas,274
+3864,703003,Hilado,274
+3865,703004,Hilaturas,274
+3866,703005,Lana,274
+3867,703006,Lino,274
+3868,703007,Maquinaria textil,274
+3869,703008,Otras,274
+3870,703009,Yute,274
+3280,703101,Ingeniería biomédica,291
+4326,711701,Ahorro y uso eficiente de la energía ,472
+4327,711702,Ingeniería eléctrica ,472
+4471,IngNegOt,Otros,572
+2941,710101,Maquinarias y procesos de joyería,275
+2942,710201,Ingeniería marítima,276
+2943,710202,Transporte,276
+2944,710203,Vías terrestres,276
+4311,700207,Estructuras,276
+4321,700209,Construcción ,276
+4324,700212,Ingeniería sanitaria ,276
+4325,700213,Vías terrestres ,276
+4312,700208,Ingeniería Civil ,276
+4322,700210,Geotecnia ,276
+4323,700211,Hidráulico ,276
+4254,700205,Ingeniería municipal y estructural,276
+4253,700204,Ingeniería arquitectónica,276
+4255,700206,Ingeniería en construcción,276
+2945,710301,Administración,277
+2946,710302,Análisis de sistemas,277
+2947,710303,Automatización,277
+2948,710304,Ciencias computacionales,277
+2949,710305,Computación,277
+2950,710306,Control,277
+2951,710307,Electrónica,277
+2952,710308,Estadística,277
+2953,710309,Hidrología,277
+2954,710310,Investigación de operaciones,277
+2955,710311,Producción,277
+2956,710312,Sistemas de información,277
+2957,710313,Sistemas y calidad,277
+2958,710401,Telefonía,278
+2984,710501,Acústica,279
+2985,710502,Automática,279
+2986,710503,Automatización y control,279
+2987,710504,Bioelectrónica,279
+2988,710505,Computación,279
+2989,710506,Comunicaciones,279
+2990,710507,Control,279
+2991,710508,Diseños y sistemas,279
+2992,710509,Dispositivos electrónicos,279
+2993,710510,Dispositivos semiconductores,279
+2994,710511,Electrónica de computadoras,279
+2995,710512,Electrónica industrial,279
+2996,710513,Electrónica y telecomunicaciones,279
+2997,710514,Electroquímica,279
+2998,710515,Fibras ópticas,279
+2999,710516,Industria eléctrica y electrónica,279
+3000,710517,Informática,279
+3001,710518,Ingeniería de control,279
+3002,710519,Ingeniería de materiales,279
+3003,710520,Instrumentación,279
+3004,710521,Interfrecuencias,279
+3005,710522,Microelectrónica,279
+3006,710523,Microondas,279
+3007,710524,Procesamiento de datos,279
+3008,710525,Redes digitales,279
+3009,710526,Robótica,279
+3010,710527,Sistemas digitales,279
+3011,710528,Sistemas electrónicos,279
+3012,710529,Telecomunicaciones,279
+3013,710530,Telegrafía y transmisión de datos.,279
+3014,710601,Energía solar,280
+5011,780,Planeación Energética,280
+5012,781,Otras,280
+4691,710602,Energía eólica,280
+4313,710702,Hidráulica técnica ,281
+4319,710708,Canales y navegación interior ,281
+4320,710709,Ingeniería de irrigación,281
+3015,710701,Ingeniería hidráulica,281
+4316,710705,Ingeniería de los ríos, lagos y suministro de agua ,281
+4318,710707,Represas ,281
+4314,710703,Operaciones preliminares generales ,281
+4315,710704,Puertos y obras de protección de la costa ,281
+4317,710706,Trabajos de protección a ríos,281
+3016,710801,Administración industrial,282
+3017,710802,Control de calidad,282
+3018,710803,Control y medición de procesos productiva,282
+3019,710804,Curtiduría,282
+3020,710805,Diseño,282
+3021,710806,Diseño mecánico,282
+3022,710807,Eléctrica,282
+3023,710808,Ingeniería económica,282
+3024,710809,Innovación tecnológica,282
+3025,710810,Investigación de operaciones,282
+3026,710811,Manejo de desperdicios sólidos y tratamientos,282
+3027,710812,Manufactura,282
+3028,710813,Planeación,282
+3029,710814,Planificación industrial,282
+3030,710815,Producción,282
+3031,710816,Producción de calzado,282
+3032,710817,Programación y manufactura,282
+3033,710818,Seguridad industrial,282
+3034,710819,Sistemas,282
+3035,710820,Sistemas de manufactura,282
+3036,710821,Tratamiento aguas residuales,282
+4256,710934,Ingeniería de audio,283
+4257,710935,Ingeniería aeroespacial,283
+3037,710901,Automatización,283
+3038,710902,Contaminación,283
+3039,710903,Control,283
+3040,710904,Control de calidad,283
+3041,710905,Diseño,283
+3042,710906,Diseño mecánico,283
+3043,710907,Energética,283
+3044,710908,Estructuras,283
+3045,710909,Fluidos,283
+3046,710910,Flujo térmico,283
+3047,710911,Hidráulica,283
+3048,710912,Industrias automotrices,283
+3049,710913,Ingeniería de materiales,283
+3050,710914,Ingeniería térmica,283
+3051,710915,Manufactura de bombas,283
+3052,710916,Manufacturas metálicas,283
+3053,710917,Máquinas de combustión interna,283
+3054,710918,Mecánica aplicada,283
+3055,710919,Mecánica de materiales,283
+3056,710920,Mecánica eléctrica,283
+3057,710921,Metalurgia,283
+3058,710922,Metrología,283
+3059,710923,Planeación,283
+3060,710924,Plantas térmicas.,283
+3061,710925,Procesos de fabricación,283
+3062,710926,Robótica,283
+3063,710927,Sistemas de manufactura,283
+3064,710928,Soldadura,283
+3065,710929,Tecnología de manufactura avanzada,283
+3066,710930,Térmica,283
+3067,710931,Termodinámica,283
+3068,710932,Transferencia de calor,283
+3069,710933,Vibración y acústica,283
+4653,710934,Otras,283
+3070,711001,Ciencia de materiales,284
+3071,711002,Corrosión,284
+3072,711003,Diseño de equipo,284
+3073,711004,Fundición,284
+3074,711005,Ingeniería de materiales,284
+3075,711006,Metalurgia,284
+3076,711007,Metalurgia extractiva,284
+3077,711008,Metalurgia no ferrosa,284
+3078,711009,Metalúrgica industrial,284
+3079,711010,Procesamiento de metales,284
+3080,711011,Siderurgia,284
+3081,711012,Tecnología de materiales,284
+3082,711101,Metalurgia,285
+3083,711102,Mineralogía,285
+3084,711103,Proceso de minerales,285
+3085,711201,Ingeniería portuaria,286
+3086,711202,Planeación portuaria,286
+3087,711203,Transportes marítimos,286
+3088,711301,Física de reactores nucleares,287
+3089,711302,Plantas termonucleares,287
+3090,711303,Radioquímica,287
+3091,711304,Seguridad nuclear,287
+3092,711401,Ingeniería de procesos,288
+3093,711402,Petrología,288
+3094,711403,Petroquímica,288
+3095,711404,Sistemas de hidrocarburos,288
+4654,711405,Otras,288
+3096,711501,Administración industrial,289
+3097,711502,Bioingeniería,289
+3098,711503,Catálisis,289
+3099,711504,Celulosa y papel,289
+3100,711505,Cerámicas industriales,289
+3101,711506,Ciencia de materiales,289
+3102,711507,Contaminación ambiental,289
+3103,711508,Contaminación del agua,289
+3104,711509,Control de contaminación,289
+3105,711510,Corrosión,289
+3106,711511,Electroquímica fluid izada,289
+3107,711512,Fenómeno de transporte,289
+3108,711513,Fisicoquímica,289
+3109,711514,Formulación de proyectos,289
+3110,711515,Ingeniería biomédica,289
+3111,711516,Ingeniería química,289
+3112,711517,Materiales cerámicos,289
+3113,711518,Metalurgia,289
+3114,711519,Metalurgia no ferrosa,289
+3115,711520,Petroquímica.,289
+3116,711521,Plásticos,289
+3117,711522,Polímeros,289
+3118,711523,Polución atmosférica,289
+3119,711524,Procesado de polímeros,289
+3120,711525,Procesos,289
+3121,711526,Pulpa y papel,289
+3122,711527,Química analítica,289
+3123,711528,Química industrial,289
+3124,711529,Química orgánica,289
+3125,711530,Reología,289
+3126,711531,Sistemas económicos,289
+3127,711532,Tecnología ambiental,289
+3128,711533,Tecnología de alimentos,289
+3129,711534,Tecnología de polímeros,289
+3130,711535,Termo fluidos,289
+3131,711536,Termodinámica,289
+3132,711537,Tratamientos vegetales,289
+4651,711538,Combustión,289
+4652,711539,Otras,289
+3133,711601,Diseño,290
+5054,04,Automatización Industrial,972
+5051,01,Otras,972
+5052,02,Robótica,972
+5053,03,Control inteligente,972
+5091,001,Agua,1012
+5092,002,Aire, suelo y aguas subterráneas,1012
+5093,003,Residuos sólidos. sustancias y residuos peligrosos,1012
+5094,004,Otras,1012
+5111,005,Impacto y riesgo ambiental,1012
+5112,006,Sistemas de gestión ambiental,1012
+5113,007,Auditoría ambiental,1012
+5114,008,Prevención y control de la contaminación,1012
+5115,009,Energías no convencionales,1012
+5116,010,Restauración ambiental,1012
+5117,011,Manejo de recursos naturales,1012
+5118,012,Ordenamiento Ecológico,1012
+5191,01,Otras,1052
+4340,7201,Otras,505
+4342,7203,Otras ,507
+4341,7202,Otras ,506
+1688,300101,Aceites esenciales,91
+1689,300102,Ácidos grasos,91
+1690,300103,Ácidos nucleicos,91
+1691,300104,Alcaloides,91
+1692,300105,Almidón,91
+1693,300106,Aminoácidos,91
+1694,300107,Anatomía humana,91
+1695,300108,Anatomía sistemática,91
+1696,300109,Anatomía topográfica,91
+1697,300110,Anestesiología,91
+1698,300111,Antimetabolitos,91
+1699,300112,Biología molecular,91
+1700,300113,Bioquímica de alimentos,91
+1701,300114,Bioquímica física,91
+1702,300115,Biosíntesis,91
+1703,300116,Ceras,91
+1704,300117,Citología humana,91
+1705,300118,Coenzimas,91
+1706,300119,Desarrollo humano,91
+1707,300120,Ecología humana,91
+1708,300121,Embriología humana,91
+1709,300122,Enzimología,91
+1710,300123,Esteroides,91
+1711,300124,Farmacología molecular,91
+1712,300125,Fermentación,91
+1713,300126,Fisiología cardiovascular,91
+1714,300127,Fisiología de la audición,91
+1715,300128,Fisiología de la digestión,91
+1716,300129,Fisiología de la reproducción,91
+1717,300130,Fisiología de la respiración,91
+1718,300131,Fisiología de la visión,91
+1719,300132,Fisiología del ejercicio,91
+1720,300133,Fisiología del equilibrio,91
+1721,300134,Fisiología del lenguaje,91
+1722,300135,Fisiología del medio interno,91
+1723,300136,Fisiología del movimiento,91
+1724,300137,Fisiología del músculo,91
+1725,300138,Fisiología del sistema nervioso central,91
+1742,300155,Oligoelementos,91
+1743,300156,Órganos sensoriales,91
+1744,300157,Péptidos,91
+1745,300158,Procesos metabólicos,91
+1746,300159,Proteínas,91
+1747,300160,Química clínica,91
+1748,300161,Química de macromoléculas biológicas,91
+1749,300162,Química microbiológica,91
+1750,300163,Quimioterapia,91
+1751,300164,Regulación de la temperatura humana,91
+1752,300165,Regulación por retroalimentación,91
+1753,300166,Terpenos,91
+1754,300167,Vitaminas,91
+1726,300139,Fisiología endocrina,91
+1727,300140,Fisiología humana,91
+1728,300141,Fotosíntesis,91
+1729,300142,Genética bioquímica,91
+1730,300143,Genética humana,91
+1731,300144,Glúcidos,91
+1732,300145,Grupo sanguíneo,91
+1733,300146,Histología humana,91
+1734,300147,Hormonas,91
+1735,300148,Inmunoquímica,91
+1736,300149,Lípidos,91
+1737,300150,Medicina tradicional,91
+1738,300151,Metabolismo humano,91
+1739,300152,Metabolismo intermediario,91
+1740,300153,Neuroanatomía humana,91
+1741,300154,Neurofisiología,91
+1755,300201,Aceite y grasa lubricantes,92
+1756,300202,Aceites esenciales,92
+1757,300203,Ácidos grasos,92
+1758,300204,Ácidos nucleicos,92
+1759,300205,Alcaloides,92
+1760,300206,Almacenamiento (petróleo y gas),92
+1761,300207,Almidón,92
+1762,300208,Aminoácidos,92
+1763,300209,Antimetabolitos,92
+1764,300210,Biología molecular,92
+1765,300211,Bioquímica de alimentos,92
+1766,300212,Bioquímica física,92
+1767,300213,Biosíntesis,92
+1768,300214,Caracterización de carbones,92
+1769,300215,Ceras,92
+1770,300216,Coenzimas,92
+1771,300217,Compuestos heterocíclicos,92
+1772,300218,Compuestos organometálicos,92
+1773,300219,Derivados del benceno,92
+1774,300220,Desionización,92
+1775,300221,Diseño de refinerías,92
+1776,300222,Economía química,92
+1777,300223,Enzimología,92
+1778,300224,Equipo de campos petrolíferos,92
+1779,300225,Estereoquímica y análisis conformacional,92
+1780,300226,Esteroides,92
+1781,300227,Estructura de las moléculas orgánicas,92
+1782,300228,Farmacología molecular,92
+1783,300229,Fermentación,92
+1784,300230,Fotosíntesis,92
+1785,300231,Gas licuado,92
+1786,300232,Gas natural,92
+1787,300233,Gaseoductos,92
+1788,300234,Genética bioquímica,92
+1789,300235,Glúcidos,92
+1790,300236,Hidrocarburos alifáticos,92
+1791,300237,Hidrocarburos aromáticos,92
+1792,300238,Hormonas,92
+1793,300239,Infraestructura de campos petrolíferos,92
+1794,300240,Inmunoquímica,92
+1795,300241,Lípidos,92
+1796,300242,Materiales asfálticos,92
+1797,300243,Mecanismos de reacción,92
+1798,300244,Metabolismo intermediario,92
+1799,300245,Oleoductos,92
+1800,300246,Oligoelementos,92
+1801,300247,Operaciones electroquímicas,92
+1802,300248,Péptidos,92
+1803,300249,Petróleo crudo,92
+1804,300250,Procesos de química nuclear,92
+1805,300251,Procesos metabólicos,92
+1806,300252,Procesos químicos,92
+1807,300253,Productos del petróleo: gasolina, aceites y ceras,92
+1808,300254,Productos derivados del petróleo,92
+1809,300255,Productos químicos derivados del carbón,92
+1810,300256,Proteínas,92
+1811,300257,Química clínica,92
+1812,300258,Química de carbaniones,92
+1813,300259,Química de los colorantes,92
+1814,300260,Química de los compuestos bicíclicos,92
+1815,300261,Química de los esteroides,92
+1816,300262,Química de los hidratos de carbono,92
+1817,300263,Química de los organofosforados,92
+1818,300264,Química de los organosilícicos,92
+1819,300265,Química de los organosulfurados,92
+1820,300266,Química de macromoléculas biológicas,92
+1821,300267,Química de productos naturales orgánicos,92
+1822,300268,Química del carbonio,92
+1823,300269,Química industrial,92
+1824,300270,Química microbiológica,92
+1825,300271,Química orgánica. Análisis instrumental,92
+1826,300272,Quimioterapia,92
+1827,300273,Radicales libres,92
+1828,300274,Recubrimiento por electrólisis,92
+1829,300275,Regulación por retroalimentación,92
+1830,300276,Revestimientos hidrófobos,92
+1831,300277,Revestimientos protectores,92
+1832,300278,Revestimientos refractarios,92
+1833,300279,Separación química,92
+1834,300280,Síntesis química,92
+1835,300281,Tecnología de la catálisis,92
+1836,300282,Tecnología de la combustión,92
+1837,300283,Tecnología de la conservación,92
+1838,300284,Tecnología de la corrosión,92
+1839,300285,Tecnología química: tensioactivos,92
+1840,300286,Terpenos,92
+1841,300287,Vitaminas,92
+1842,300301,Dermatología,93
+1843,300302,Genética clínica,93
+1844,300303,Geriatría,93
+1846,300304,Ginecología,93
+1847,300305,Microbiología clínica,93
+1848,300306,Oftalmología,93
+1849,300307,Oncología,93
+1850,300308,Otras,93
+1851,300309,Patología clínica,93
+1852,300310,Pediatría,93
+1853,300311,Psicología clínica,93
+1854,300312,Radiología,93
+1855,300313,Radioterapia,93
+1998,300315,Sifilografía,93
+3962,300318,Andrología,93
+3965,300321,Medicina de cuidados intensivos y medicina de emergencia,93
+3963,300319,Enfermedades vasculares periféricas,93
+3964,300320,Sistemas respiratorios,93
+3960,300316,Anatomía y morfología ,93
+3961,300317,Inmunología ,93
+3966,300322,Otorrinolaringología,93
+3967,300323,Radiología, medicina nuclear e imagen,93
+3968,300324,Transplante,93
+1856,300401,Aceites y grasas vegetales,94
+1857,300402,Aditivos alimentarios,94
+1858,300403,Agentes patógenos de los alimentos,94
+1859,300404,Alimentos proteínicos,94
+1860,300405,Alimentos sintéticos,94
+1861,300406,Almidón,94
+1862,300407,Antioxidantes en los alimentos,94
+1863,300408,Azúcar,94
+1864,300409,Bebidas alcohólicas,94
+1865,300410,Bebidas no alcohólicas,94
+1866,300411,Bioquímica y microbiología de los procesos fermentativos,94
+1867,300412,Colorantes,94
+1868,300413,Conservación de alimentos,94
+1869,300414,Conservación postrecolección,94
+1870,300415,Conservas,94
+1871,300416,Conservas vegetales,94
+1872,300417,Deficiencias alimentarias,94
+1873,300418,Digestión,94
+1874,300419,Elaboración de alimentos,94
+1875,300420,Elaboración de cerveza,94
+1876,300421,Elementos minerales en la alimentación,94
+1877,300422,Enfermedades de la nutrición,94
+1878,300423,Estabilizadores,94
+1879,300424,Esterilización de alimentos,94
+1880,300425,Fabricación de harina,94
+1881,300426,Higiene de los alimentos,94
+1882,300427,Ingeniería bioquímica,94
+1883,300428,Liofilización,94
+1884,300429,Maquinaria para la industria de la alimentación,94
+1885,300430,Metabolismo energético,94
+1886,300431,Microbiología de alimentos,94
+1887,300432,Microbiología industrial,94
+1888,300433,Necesidades alimentarias,94
+1889,300434,Nutrientes,94
+1890,300435,Oligoelementos en la alimentación,94
+1891,300436,Panadería,94
+1892,300437,Pasterización,94
+1893,300438,Piensos,94
+1894,300439,Productos de cereales,94
+1895,300440,Productos lácteos,94
+1896,300441,Propiedades de los alimentos,94
+1897,300442,Refrigeración,94
+1898,300443,Secado por congelación,94
+1899,300444,Sustancias tóxicas naturales,94
+1900,300445,Tecnología de alimentos. Transmisión de calor,94
+1901,300446,Tecnología de la fermentación,94
+1902,300447,Tecnología de los antibióticos,94
+1903,300448,Toxicidad de los alimentos,94
+1904,300449,Valor nutritivo,94
+1905,300450,Vino,94
+1906,300451,Vitaminas,94
+5151,300404,Otras,94
+1907,300501,Anestesiología,95
+1908,300502,Cirugía abdominal,95
+1909,300503,Cirugía de garganta, nariz y oídos,95
+1910,300504,Cirugía de huesos,95
+1911,300505,Cirugía de los trasplantes,95
+1912,300506,Cirugía del corazón,95
+1913,300507,Cirugía estética,95
+1914,300508,Cirugía experimental,95
+1915,300509,Cirugía ocular,95
+1916,300510,Cirugía ortopédica,95
+1917,300511,Cirugía pediátrica,95
+1918,300512,Cirugía vascular,95
+1919,300513,Fisioterapia,95
+1920,300514,Instrumentos médicos,95
+1921,300515,Neurocirugía,95
+1922,300516,Ortodoncia-estomatología,95
+1923,300517,Otras,95
+1924,300518,Proctología,95
+1925,300519,Traumatología,95
+1997,300520,Urología,95
+1926,300601,Antibióticos,96
+1927,300602,Arbovirus,96
+1928,300603,Bacteriofagos,96
+1929,300604,Bacteriófagos,96
+1930,300605,Bacteriología,96
+1931,300606,Enterovirus,96
+1932,300607,Fisiología bacteriana,96
+1933,300608,Hongos,96
+1934,300609,Metabolismo bacteriano,96
+1935,300610,Metabolismo microbiano,96
+1936,300611,Micología (levaduras),96
+1937,300612,Microbiología,96
+1938,300613,Microbiología clínica,96
+1939,300614,Microbiología industrial,96
+1940,300615,Microbiología: degradación de residuos vegetales,96
+1941,300616,Mohos,96
+1942,300617,Poxvirus,96
+1943,300618,Procesos microbianos,96
+1944,300619,Virología,96
+1945,300620,Virología animal,96
+1946,300621,Virus,96
+1947,300622,Virus dermatrópicos,96
+1948,300623,Virus neurotrópicos,96
+1949,300624,Virus pantrópicos,96
+1950,300625,Virus respiratorios,96
+1951,300626,Virus viscerotrópicos,96
+1952,300701,Absorción de medicamentos,97
+1953,300702,Acción de los medicamentos,97
+1954,300703,Activación, procesos múltiples,97
+1955,300704,Catálisis, autocatálisis, inmunocátalisis,97
+1956,300705,Interacción de antígenos,97
+1957,300706,Lugar de acción activa, receptores,97
+1958,300707,Mecanismos de acción de los medicamentos,97
+1959,300708,Otras,97
+1960,300709,Procesos metabólicos de los medicamentos,97
+1961,300710,Quimioterapia,97
+1962,300801,Análisis de medicamentos,98
+1963,300802,Composición de medicamentos,98
+1964,300803,Evaluación de medicamentos,98
+1965,300804,Farmacognosia,98
+1966,300805,Farmacología molecular,98
+1967,300806,Farmacopeas,98
+1968,300807,Fitofármacos,98
+1969,300808,Medicamentos naturales,98
+1970,300809,Medicamentos sintéticos,98
+1971,300810,Normalización de los medicamentos,98
+1972,300811,Otras,98
+1973,300812,Preparación de medicamentos,98
+1974,300813,Psicofarmacología,98
+1975,300814,Radiofármacos,98
+1976,300901,Anestesiología,99
+1977,300902,Fisiología cardiovascular,99
+1978,300903,Fisiología de la audición,99
+1979,300904,Fisiología de la digestión,99
+1980,300905,Fisiología de la reproducción,99
+1981,300906,Fisiología de la respiración,99
+1982,300907,Fisiología de la visión,99
+1983,300908,Fisiología del ejercicio,99
+1984,300909,Fisiología del equilibrio,99
+1985,300910,Fisiología del lenguaje,99
+1986,300911,Fisiología del medio interno,99
+1987,300912,Fisiología del movimiento,99
+1988,300913,Fisiología del músculo,99
+1989,300914,Fisiología del sistema nervioso central,99
+1990,300915,Fisiología endocrina,99
+1991,300916,Fisiología humana,99
+1992,300917,Metabolismo humano,99
+1993,300918,Neurofisiología,99
+1994,300919,Otras,99
+1995,300920,Regulación de la temperatura humana,99
+1996,301001,Acupuntura y moxibustión,100
+2001,301101,Enfermedades profesionales,101
+2002,301102,Medicina nuclear,101
+2003,301103,Otras,101
+2004,301104,Rehabilitación (médica),101
+2005,301105,Salud profesional,101
+2006,301201,Antropometría y antropología forense,102
+2007,301301,Cardiología,103
+2008,301302,Endocrinología,103
+2009,301303,Enfermedades infecciosas,103
+2010,301304,Enfermedades pulmonares,103
+2011,301305,Gastroenterología,103
+2012,301306,Hematología,103
+2013,301307,Nefrología,103
+2014,301308,Neurología,103
+2015,301309,Otras,103
+2016,301310,Reumatología,103
+2017,301401,Otras,104
+4513,301506,Prótesis maxilofacial,105
+2018,301501,Ortodoncia,105
+2019,301502,Periodoncia,105
+2020,301503,Prostodoncia,105
+4512,301505,Odontopediatría,105
+4511,301504,Endodoncia,105
+4571,301507,Otras,105
+2021,301601,Otras,106
+2022,301701,Alergias,107
+2023,301702,Arteriosclerosis,107
+2024,301703,Carcinogénesis,107
+2025,301704,Endotoxinas,107
+2026,301705,Estrés,107
+2027,301706,Hematología,107
+2028,301707,Histopatología,107
+2029,301708,Inmunopatología,107
+2030,301709,Neuropatología,107
+2031,301710,Oncología,107
+2032,301711,Osteopatología,107
+2033,301712,Otras,107
+2034,301713,Parasitología,107
+2035,301714,Patología cardiovascular,107
+2036,301715,Patología comparativa,107
+2037,301716,Patología de la radiación,107
+2038,301717,Patología experimental,107
+2039,301718,Teratología (estudios de los monstruos),107
+2040,301719,Trombosis,107
+2041,301801,Comportamiento desviado,108
+2042,301802,Deficiencia mental,108
+2043,301803,Desórdenes del comportamiento,108
+2044,301804,Psicoanálisis,108
+2045,301805,Psicología clínica,108
+2046,301806,Psicopatología,108
+2047,301807,Psicoterapia,108
+2048,301901,Otras,109
+2049,302001,Otras,110
+3978,302102,Medicina humana,309
+3979,302103,Medico cirujano,309
+3977,302101,Medicina general,309
+4911,Educ,Sexología Educativa,892
+4912,Clinic,Sexología Clínica,892
+4971,1051,Salud mental,952
+4972,1052,Salud reproductiva ,952
+4973,1053,Desigualdad,952
+4974,1054,Otras,952
+1845,310101,Gerontología,111
+1999,310201,Otras,112
+2000,310301,Otras,113
+3990,310601,Otros,320
+3992,310701,Otros,321
+3993,310801,Otros,322
+3988,310401,Adminsitración hospitalaria,318
+3989,310402,Financiamiento de salud,318
+3991,310501,Otros,319
+3994,310901,Otros,323
+3995,311001,Educación sexual ,324
+3996,311002,Psicooncología ,324
+3997,311003,Efectos políticos y sociales de la investigación biomédica,324
+5231,EM1,Anatomía Patológica,1072
+5232,EM2,Geriatría,1072
+5233,EM3,Medicina de Rehabilitación,1072
+5234,EM4,Psiquiatría,1072
+5235,EM5,Epidemiología,1072
+5236,EM6,Medicina de Urgencias,1072
+5237,EM7,Medicina Preventiva,1072
+14437,EM14,Medicina Interna,1072
+14417,EM8,Cirugía General,1072
+14418,EM9,Neumología,1072
+14419,EM10,Oftalmología,1072
+14420,EM11,Genética Médica,1072
+14421,EM12,Patología Clínica,1072
+14422,EM13,Ortopedia,1072
+4011,320206,Enfermería perinatal y pediátrica,329
+4006,320201,Enfermería cardiovascular,329
+4007,320202,Enfermería crítica y cuidados intensivos,329
+4008,320203,Enfermería en geriatría y en gerontología ,329
+4010,320205,Enfermería oncológica,329
+4012,320207,Enfermería quirúrgica,329
+4013,320208,Otras,329
+4009,320204,Enfermería en salud pública,329
+4005,320101,Otros,328
+4251,330101,Ingeniería biomolecular e Ingeniería del tejido celular,432
+4252,330102,Otras,432
+4756,340101,Acupuntura humana,737
+4757,340201,Alergia e inmunología clínica,738
+4758,340301,Alergia e inmunología clínica pediátrica,739
+4759,340401,Anatomía patológica,740
+4760,340501,Anestesiología,741
+4761,340601,Anestesiología pediátrica,742
+4762,340701,Angiología y cirugía vascular,743
+4763,340801,Audiología, otoneurología y foniatria,744
+4764,340901,Biología de la reproducción humana,745
+4765,341001,Biomedicina molecular,746
+4766,341101,Calidad de la atención clínica,747
+4767,341201,Cardiología,748
+4768,341301,Cardiología pediátrica,749
+4769,341401,Ciencias en salud de los trabajadores,750
+4770,341501,Ciencias en salud pública,751
+4771,341601,Ciencias estomatológicas,752
+4772,341701,Cirugía cardiotorácica,753
+4773,341801,Cirugía cardiotorácica pediátrica,754
+4774,341901,Cirugía de columna,755
+4775,342001,Cirugía general,756
+4776,342101,Cirugía oncológica,757
+4777,342201,Cirugía oral y maxilofacial,758
+4778,342301,Cirugía pediátrica,759
+4779,342401,Cirugía plástica y reconstructiva,760
+4780,342501,Coloproctologia,761
+4781,342601,Dermatología,762
+4782,342701,Dermatología pediátrica,763
+4783,342801,Endocrinología,764
+4784,342901,Endocrinología pediátrica,765
+4785,343001,Estomatología pediátrica,766
+4786,343101,Gastroenterología,767
+4787,343201,Gastroenterología pediátrica,768
+4788,343301,Genética medica,769
+4789,343401,Geriatría,770
+4790,343501,Ginecología oncológica,771
+4791,343601,Ginecología y obstetricia,772
+4792,343701,Hematología,773
+4793,343801,Hematología pediátrica,774
+4794,343901,Imagenologia, diagnostica y terapéutica,775
+4795,344001,Infectología,776
+4796,344101,Infectología pediátrica,777
+4797,344201,Infectómica y patogénesis molecular,778
+4798,344301,Investigación médica, línea terminal biomedicina,779
+4799,344401,Medicina de rehabilitación,780
+4800,344501,Medicina del enfermo en estado crítico,781
+4801,344601,Medicina del enfermo pediátrico en estado critico,782
+4802,344701,Medicina familiar,783
+4803,344801,Medicina materno fetal,784
+4804,344901,Medicina nuclear,785
+4805,345001,Medicina paliativa y del dolor,786
+4806,345101,Nefrología,787
+4807,345201,Nefrología pediátrica,788
+4808,345301,Neonatología,789
+4809,345401,Neumología,790
+4810,345501,Neumología pediátrica,791
+4811,345601,Neuroanestesiologia,792
+4812,345701,Neurocirugía,793
+4813,345801,Neurocirugía pediátrica,794
+4814,345901,Neurofisiología clínica,795
+4815,346001,Neurología,796
+4816,346101,Neurología pediátrica,797
+4817,346201,Neuroradiologia,798
+4818,346301,Nutriología clínica,799
+4819,346401,Obesidad y comorbilidades,800
+4820,346501,Oftalmología,801
+4821,346601,Oftalmología neurológica,802
+4822,346701,Oncología,803
+4823,346801,Oncología pediátrica,804
+4824,346901,Otorrinolaringología pediátrica,805
+4825,347001,Otorrinolaringología y cirugía de cabeza y cuello,806
+4826,347101,Patología clínica,807
+4827,347201,Patología pediátrica,808
+4828,347301,Pediatría,809
+4829,347401,Prótesis maxilofacial,810
+4830,347501,Psiquiatría infantil y adolescencia,811
+4831,347601,Radiología e imagen,812
+4832,347701,Radiooncologia,813
+4833,347801,Reumatología,814
+4834,347901,Reumatología pediátrica,815
+4835,348001,Seguridad alimentaria y nutricional,816
+4836,348101,Terapia endovascular,817
+4837,348201,Traumatología y ortopedia,818
+4838,348301,Urgencias medicas,819
+4839,348401,Urgencias pediátricas,820
+4840,348501,Urología,821
+4841,348601,Urología ginecológica,822
+4842,350101,Endodoncia,823
+4843,350201,Odontopediatría,824
+4844,350301,Ortodoncia,825
+4845,350401,Ortopedia dentomaxilofacial,826
+4846,350501,Ortopedia y traumatología,827
+4847,350601,Patología y medicina bucal,828
+4848,350701,Periodoncia,829
+4849,350801,Prostodoncia,830
+4850,350901,Prótesis bucal,831
+4851,360101,Anatomía normal y patológica,832
+4852,360201,Cardiología, fisiología cardiovascular,833
+4853,360301,Cirugía, traumatología, cirugía experimental,834
+4854,360401,Dermatología y enfermedades de transmisión sexual,835
+4855,360501,Enfermedades de la nutrición y endocrinología,836
+4856,360601,Enfermedades infecciosas, bacteriología clínica, virología clínica,837
+4857,360701,Enfermedades respiratorias, fisiología,838
+4858,360801,Fisiopatología, fisiología clínica general,839
+4859,360901,Gastroenterología, fisiología digestiva,840
+4860,361001,Ginecología, obstetricia y reproducción,841
+4861,361101,Hematología e inmunología clínica,842
+4862,361201,Investigación clínica,843
+4863,361301,Medicina física y rehabilitación, kinesiología,844
+4864,361401,Medicina nuclear, radioterapia,845
+4865,361501,Nefrología, fisiología renal,846
+4866,361601,Neurología y neurocirugía,847
+4867,361701,Oftalmología,848
+4868,361801,Oncología, quimioterapia, cirugía oncología,849
+4869,361901,Otorrinolaringología,850
+4870,362001,Radiología y diagnóstico por imágenes,851
+4871,362101,Reumatología, inflamación, enfermedades autoinmunes,852
+4872,362201,Urología, transplante renal, fisiología urogenital,853

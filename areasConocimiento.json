@@ -24787,57 +24787,214 @@
             {
               "idDisciplina":111,
               "cveDisciplina":"3101",
-              "descDisciplina":"Ciencias clínicas"
+              "descDisciplina":"Ciencias clínicas",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":1845,
+                  "cveSubDisciplina":"310101",
+                  "descSubDisciplina":"Gerontología"
+                }
+              ]
             },
             {
               "idDisciplina":112,
               "cveDisciplina":"3102",
-              "descDisciplina":"Neurociencias"
+              "descDisciplina":"Neurociencias",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":1999,
+                  "cveSubDisciplina":"310201",
+                  "descSubDisciplina":"Otras"
+                }
+              ]
             },
             {
               "idDisciplina":113,
               "cveDisciplina":"3103",
-              "descDisciplina":"Planificación familiar"
+              "descDisciplina":"Planificación familiar",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":2000,
+                  "cveSubDisciplina":"310301",
+                  "descSubDisciplina":"Otras"
+                }
+              ]
             },
             {
               "idDisciplina":320,
               "cveDisciplina":"3106",
-              "descDisciplina":"Salúd pública y ambiental"
+              "descDisciplina":"Salúd pública y ambiental",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":3990,
+                  "cveSubDisciplina":"310601",
+                  "descSubDisciplina":"Otros"
+                }
+              ]
             },
             {
               "idDisciplina":321,
               "cveDisciplina":"3107",
-              "descDisciplina":"Medicina trópical "
+              "descDisciplina":"Medicina trópical ",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":3992,
+                  "cveSubDisciplina":"310701",
+                  "descSubDisciplina":"Otros"
+                }
+              ]
             },
             {
               "idDisciplina":322,
               "cveDisciplina":"3108",
-              "descDisciplina":"Salud Ocupacional"
+              "descDisciplina":"Salud Ocupacional",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":3993,
+                  "cveSubDisciplina":"310801",
+                  "descSubDisciplina":"Otros"
+                }
+              ]
             },
             {
               "idDisciplina":318,
               "cveDisciplina":"3104",
-              "descDisciplina":"Ciencias y servicios de la salud"
+              "descDisciplina":"Ciencias y servicios de la salud",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":3988,
+                  "cveSubDisciplina":"310401",
+                  "descSubDisciplina":"Adminsitración hospitalaria"
+                },
+                {
+                  "idSubDisciplina":3989,
+                  "cveSubDisciplina":"310402",
+                  "descSubDisciplina":"Financiamiento de salud"
+                }
+              ]
             },
             {
               "idDisciplina":319,
               "cveDisciplina":"3105",
-              "descDisciplina":"Política y Servicios de salud"
+              "descDisciplina":"Política y Servicios de salud",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":3991,
+                  "cveSubDisciplina":"310501",
+                  "descSubDisciplina":"Otros"
+                }
+              ]
             },
             {
               "idDisciplina":323,
               "cveDisciplina":"3109",
-              "descDisciplina":"Ciencias del deporte y del fitness"
+              "descDisciplina":"Ciencias del deporte y del fitness",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":3994,
+                  "cveSubDisciplina":"310901",
+                  "descSubDisciplina":"Otros"
+                }
+              ]
             },
             {
               "idDisciplina":324,
               "cveDisciplina":"3110",
-              "descDisciplina":"Ciencias biomédicas sociales"
+              "descDisciplina":"Ciencias biomédicas sociales",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":3995,
+                  "cveSubDisciplina":"311001",
+                  "descSubDisciplina":"Educación sexual "
+                },
+                {
+                  "idSubDisciplina":3996,
+                  "cveSubDisciplina":"311002",
+                  "descSubDisciplina":"Psicooncología "
+                },
+                {
+                  "idSubDisciplina":3997,
+                  "cveSubDisciplina":"311003",
+                  "descSubDisciplina":"Efectos políticos y sociales de la investigación biomédica"
+                }
+              ]
             },
             {
               "idDisciplina":1072,
               "cveDisciplina":"EMEDICAS",
-              "descDisciplina":"Especialidad médica"
+              "descDisciplina":"Especialidad médica",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":5231,
+                  "cveSubDisciplina":"EM1",
+                  "descSubDisciplina":"Anatomía Patológica"
+                },
+                {
+                  "idSubDisciplina":5232,
+                  "cveSubDisciplina":"EM2",
+                  "descSubDisciplina":"Geriatría"
+                },
+                {
+                  "idSubDisciplina":5233,
+                  "cveSubDisciplina":"EM3",
+                  "descSubDisciplina":"Medicina de Rehabilitación"
+                },
+                {
+                  "idSubDisciplina":5234,
+                  "cveSubDisciplina":"EM4",
+                  "descSubDisciplina":"Psiquiatría"
+                },
+                {
+                  "idSubDisciplina":5235,
+                  "cveSubDisciplina":"EM5",
+                  "descSubDisciplina":"Epidemiología"
+                },
+                {
+                  "idSubDisciplina":5236,
+                  "cveSubDisciplina":"EM6",
+                  "descSubDisciplina":"Medicina de Urgencias"
+                },
+                {
+                  "idSubDisciplina":5237,
+                  "cveSubDisciplina":"EM7",
+                  "descSubDisciplina":"Medicina Preventiva"
+                },
+                {
+                  "idSubDisciplina":14437,
+                  "cveSubDisciplina":"EM14",
+                  "descSubDisciplina":"Medicina Interna"
+                },
+                {
+                  "idSubDisciplina":14417,
+                  "cveSubDisciplina":"EM8",
+                  "descSubDisciplina":"Cirugía General"
+                },
+                {
+                  "idSubDisciplina":14418,
+                  "cveSubDisciplina":"EM9",
+                  "descSubDisciplina":"Neumología"
+                },
+                {
+                  "idSubDisciplina":14419,
+                  "cveSubDisciplina":"EM10",
+                  "descSubDisciplina":"Oftalmología"
+                },
+                {
+                  "idSubDisciplina":14420,
+                  "cveSubDisciplina":"EM11",
+                  "descSubDisciplina":"Genética Médica"
+                },
+                {
+                  "idSubDisciplina":14421,
+                  "cveSubDisciplina":"EM12",
+                  "descSubDisciplina":"Patología Clínica"
+                },
+                {
+                  "idSubDisciplina":14422,
+                  "cveSubDisciplina":"EM13",
+                  "descSubDisciplina":"Ortopedia"
+                }
+              ]
             }
           ]
         },
@@ -24849,12 +25006,61 @@
             {
               "idDisciplina":329,
               "cveDisciplina":"3202",
-              "descDisciplina":"Enfermería de especialidad"
+              "descDisciplina":"Enfermería de especialidad",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":4011,
+                  "cveSubDisciplina":"320206",
+                  "descSubDisciplina":"Enfermería perinatal y pediátrica"
+                },
+                {
+                  "idSubDisciplina":4006,
+                  "cveSubDisciplina":"320201",
+                  "descSubDisciplina":"Enfermería cardiovascular"
+                },
+                {
+                  "idSubDisciplina":4007,
+                  "cveSubDisciplina":"320202",
+                  "descSubDisciplina":"Enfermería crítica y cuidados intensivos"
+                },
+                {
+                  "idSubDisciplina":4008,
+                  "cveSubDisciplina":"320203",
+                  "descSubDisciplina":"Enfermería en geriatría y en gerontología "
+                },
+                {
+                  "idSubDisciplina":4010,
+                  "cveSubDisciplina":"320205",
+                  "descSubDisciplina":"Enfermería oncológica"
+                },
+                {
+                  "idSubDisciplina":4012,
+                  "cveSubDisciplina":"320207",
+                  "descSubDisciplina":"Enfermería quirúrgica"
+                },
+                {
+                  "idSubDisciplina":4013,
+                  "cveSubDisciplina":"320208",
+                  "descSubDisciplina":"Otras"
+                },
+                {
+                  "idSubDisciplina":4009,
+                  "cveSubDisciplina":"320204",
+                  "descSubDisciplina":"Enfermería en salud pública"
+                }
+              ]
             },
             {
               "idDisciplina":328,
               "cveDisciplina":"3201",
-              "descDisciplina":"Enfermería general y obstetricia"
+              "descDisciplina":"Enfermería general y obstetricia",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":4005,
+                  "cveSubDisciplina":"320101",
+                  "descSubDisciplina":"Otros"
+                }
+              ]
             }
           ]
         },
@@ -24866,7 +25072,19 @@
             {
               "idDisciplina":432,
               "cveDisciplina":"3301",
-              "descDisciplina":"Electrónica, instrumentación, biomecánica"
+              "descDisciplina":"Electrónica, instrumentación, biomecánica",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":4251,
+                  "cveSubDisciplina":"330101",
+                  "descSubDisciplina":"Ingeniería biomolecular e Ingeniería del tejido celular"
+                },
+                {
+                  "idSubDisciplina":4252,
+                  "cveSubDisciplina":"330102",
+                  "descSubDisciplina":"Otras"
+                }
+              ]
             }
           ]
         },
@@ -24878,432 +25096,1034 @@
             {
               "idDisciplina":737,
               "cveDisciplina":"3401",
-              "descDisciplina":"Acupuntura humana"
+              "descDisciplina":"Acupuntura humana",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":4756,
+                  "cveSubDisciplina":"340101",
+                  "descSubDisciplina":"Acupuntura humana"
+                }
+              ]
             },
             {
               "idDisciplina":738,
               "cveDisciplina":"3402",
-              "descDisciplina":"Alergia e inmunología clínica"
+              "descDisciplina":"Alergia e inmunología clínica",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":4757,
+                  "cveSubDisciplina":"340201",
+                  "descSubDisciplina":"Alergia e inmunología clínica"
+                }
+              ]
             },
             {
               "idDisciplina":739,
               "cveDisciplina":"3403",
-              "descDisciplina":"Alergia e inmunología clínica pediátrica"
+              "descDisciplina":"Alergia e inmunología clínica pediátrica",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":4758,
+                  "cveSubDisciplina":"340301",
+                  "descSubDisciplina":"Alergia e inmunología clínica pediátrica"
+                }
+              ]
             },
             {
               "idDisciplina":740,
               "cveDisciplina":"3404",
-              "descDisciplina":"Anatomía patológica"
+              "descDisciplina":"Anatomía patológica",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":4759,
+                  "cveSubDisciplina":"340401",
+                  "descSubDisciplina":"Anatomía patológica"
+                }
+              ]
             },
             {
               "idDisciplina":741,
               "cveDisciplina":"3405",
-              "descDisciplina":"Anestesiología"
+              "descDisciplina":"Anestesiología",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":4760,
+                  "cveSubDisciplina":"340501",
+                  "descSubDisciplina":"Anestesiología"
+                }
+              ]
             },
             {
               "idDisciplina":742,
               "cveDisciplina":"3406",
-              "descDisciplina":"Anestesiología pediátrica"
+              "descDisciplina":"Anestesiología pediátrica",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":4761,
+                  "cveSubDisciplina":"340601",
+                  "descSubDisciplina":"Anestesiología pediátrica"
+                }
+              ]
             },
             {
               "idDisciplina":743,
               "cveDisciplina":"3407",
-              "descDisciplina":"Angiología y cirugía vascular"
+              "descDisciplina":"Angiología y cirugía vascular",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":4762,
+                  "cveSubDisciplina":"340701",
+                  "descSubDisciplina":"Angiología y cirugía vascular"
+                }
+              ]
             },
             {
               "idDisciplina":744,
               "cveDisciplina":"3408",
-              "descDisciplina":"Audiología, otoneurología y foniatria"
+              "descDisciplina":"Audiología, otoneurología y foniatria",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":4763,
+                  "cveSubDisciplina":"340801",
+                  "descSubDisciplina":"Audiología, otoneurología y foniatria"
+                }
+              ]
             },
             {
               "idDisciplina":745,
               "cveDisciplina":"3409",
-              "descDisciplina":"Biología de la reproducción humana"
+              "descDisciplina":"Biología de la reproducción humana",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":4764,
+                  "cveSubDisciplina":"340901",
+                  "descSubDisciplina":"Biología de la reproducción humana"
+                }
+              ]
             },
             {
               "idDisciplina":746,
               "cveDisciplina":"3410",
-              "descDisciplina":"Biomedicina molecular"
+              "descDisciplina":"Biomedicina molecular",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":4765,
+                  "cveSubDisciplina":"341001",
+                  "descSubDisciplina":"Biomedicina molecular"
+                }
+              ]
             },
             {
               "idDisciplina":747,
               "cveDisciplina":"3411",
-              "descDisciplina":"Calidad de la atención clínica"
+              "descDisciplina":"Calidad de la atención clínica",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":4766,
+                  "cveSubDisciplina":"341101",
+                  "descSubDisciplina":"Calidad de la atención clínica"
+                }
+              ]
             },
             {
               "idDisciplina":748,
               "cveDisciplina":"3412",
-              "descDisciplina":"Cardiología"
+              "descDisciplina":"Cardiología",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":4767,
+                  "cveSubDisciplina":"341201",
+                  "descSubDisciplina":"Cardiología"
+                }
+              ]
             },
             {
               "idDisciplina":749,
               "cveDisciplina":"3413",
-              "descDisciplina":"Cardiología pediátrica"
+              "descDisciplina":"Cardiología pediátrica",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":4768,
+                  "cveSubDisciplina":"341301",
+                  "descSubDisciplina":"Cardiología pediátrica"
+                }
+              ]
             },
             {
               "idDisciplina":750,
               "cveDisciplina":"3414",
-              "descDisciplina":"Ciencias en salud de los trabajadores"
+              "descDisciplina":"Ciencias en salud de los trabajadores",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":4769,
+                  "cveSubDisciplina":"341401",
+                  "descSubDisciplina":"Ciencias en salud de los trabajadores"
+                }
+              ]
             },
             {
               "idDisciplina":751,
               "cveDisciplina":"3415",
-              "descDisciplina":"Ciencias en salud pública"
+              "descDisciplina":"Ciencias en salud pública",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":4770,
+                  "cveSubDisciplina":"341501",
+                  "descSubDisciplina":"Ciencias en salud pública"
+                }
+              ]
             },
             {
               "idDisciplina":752,
               "cveDisciplina":"3416",
-              "descDisciplina":"Ciencias estomatológicas"
+              "descDisciplina":"Ciencias estomatológicas",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":4771,
+                  "cveSubDisciplina":"341601",
+                  "descSubDisciplina":"Ciencias estomatológicas"
+                }
+              ]
             },
             {
               "idDisciplina":753,
               "cveDisciplina":"3417",
-              "descDisciplina":"Cirugía cardiotorácica"
+              "descDisciplina":"Cirugía cardiotorácica",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":4772,
+                  "cveSubDisciplina":"341701",
+                  "descSubDisciplina":"Cirugía cardiotorácica"
+                }
+              ]
             },
             {
               "idDisciplina":754,
               "cveDisciplina":"3418",
-              "descDisciplina":"Cirugía cardiotorácica pediátrica"
+              "descDisciplina":"Cirugía cardiotorácica pediátrica",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":4773,
+                  "cveSubDisciplina":"341801",
+                  "descSubDisciplina":"Cirugía cardiotorácica pediátrica"
+                }
+              ]
             },
             {
               "idDisciplina":755,
               "cveDisciplina":"3419",
-              "descDisciplina":"Cirugía de columna"
+              "descDisciplina":"Cirugía de columna",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":4774,
+                  "cveSubDisciplina":"341901",
+                  "descSubDisciplina":"Cirugía de columna"
+                }
+              ]
             },
             {
               "idDisciplina":756,
               "cveDisciplina":"3420",
-              "descDisciplina":"Cirugía general"
+              "descDisciplina":"Cirugía general",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":4775,
+                  "cveSubDisciplina":"342001",
+                  "descSubDisciplina":"Cirugía general"
+                }
+              ]
             },
             {
               "idDisciplina":757,
               "cveDisciplina":"3421",
-              "descDisciplina":"Cirugía oncológica"
+              "descDisciplina":"Cirugía oncológica",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":4776,
+                  "cveSubDisciplina":"342101",
+                  "descSubDisciplina":"Cirugía oncológica"
+                }
+              ]
             },
             {
               "idDisciplina":758,
               "cveDisciplina":"3422",
-              "descDisciplina":"Cirugía oral y maxilofacial"
+              "descDisciplina":"Cirugía oral y maxilofacial",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":4777,
+                  "cveSubDisciplina":"342201",
+                  "descSubDisciplina":"Cirugía oral y maxilofacial"
+                }
+              ]
             },
             {
               "idDisciplina":759,
               "cveDisciplina":"3423",
-              "descDisciplina":"Cirugía pediátrica"
+              "descDisciplina":"Cirugía pediátrica",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":4778,
+                  "cveSubDisciplina":"342301",
+                  "descSubDisciplina":"Cirugía pediátrica"
+                }
+              ]
             },
             {
               "idDisciplina":760,
               "cveDisciplina":"3424",
-              "descDisciplina":"Cirugía plástica y reconstructiva"
+              "descDisciplina":"Cirugía plástica y reconstructiva",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":4779,
+                  "cveSubDisciplina":"342401",
+                  "descSubDisciplina":"Cirugía plástica y reconstructiva"
+                }
+              ]
             },
             {
               "idDisciplina":761,
               "cveDisciplina":"3425",
-              "descDisciplina":"Coloproctologia"
+              "descDisciplina":"Coloproctologia",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":4780,
+                  "cveSubDisciplina":"342501",
+                  "descSubDisciplina":"Coloproctologia"
+                }
+              ]
             },
             {
               "idDisciplina":762,
               "cveDisciplina":"3426",
-              "descDisciplina":"Dermatología"
+              "descDisciplina":"Dermatología",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":4781,
+                  "cveSubDisciplina":"342601",
+                  "descSubDisciplina":"Dermatología"
+                }
+              ]
             },
             {
               "idDisciplina":763,
               "cveDisciplina":"3427",
-              "descDisciplina":"Dermatología pediátrica"
+              "descDisciplina":"Dermatología pediátrica",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":4782,
+                  "cveSubDisciplina":"342701",
+                  "descSubDisciplina":"Dermatología pediátrica"
+                }
+              ]
             },
             {
               "idDisciplina":764,
               "cveDisciplina":"3428",
-              "descDisciplina":"Endocrinología"
+              "descDisciplina":"Endocrinología",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":4783,
+                  "cveSubDisciplina":"342801",
+                  "descSubDisciplina":"Endocrinología"
+                }
+              ]
             },
             {
               "idDisciplina":765,
               "cveDisciplina":"3429",
-              "descDisciplina":"Endocrinología pediátrica"
+              "descDisciplina":"Endocrinología pediátrica",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":4784,
+                  "cveSubDisciplina":"342901",
+                  "descSubDisciplina":"Endocrinología pediátrica"
+                }
+              ]
             },
             {
               "idDisciplina":766,
               "cveDisciplina":"3430",
-              "descDisciplina":"Estomatología pediátrica"
+              "descDisciplina":"Estomatología pediátrica",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":4785,
+                  "cveSubDisciplina":"343001",
+                  "descSubDisciplina":"Estomatología pediátrica"
+                }
+              ]
             },
             {
               "idDisciplina":767,
               "cveDisciplina":"3431",
-              "descDisciplina":"Gastroenterología"
+              "descDisciplina":"Gastroenterología",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":4786,
+                  "cveSubDisciplina":"343101",
+                  "descSubDisciplina":"Gastroenterología"
+                }
+              ]
             },
             {
               "idDisciplina":768,
               "cveDisciplina":"3432",
-              "descDisciplina":"Gastroenterología pediátrica"
+              "descDisciplina":"Gastroenterología pediátrica",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":4787,
+                  "cveSubDisciplina":"343201",
+                  "descSubDisciplina":"Gastroenterología pediátrica"
+                }
+              ]
             },
             {
               "idDisciplina":769,
               "cveDisciplina":"3433",
-              "descDisciplina":"Genética medica"
+              "descDisciplina":"Genética medica",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":4788,
+                  "cveSubDisciplina":"343301",
+                  "descSubDisciplina":"Genética medica"
+                }
+              ]
             },
             {
               "idDisciplina":770,
               "cveDisciplina":"3434",
-              "descDisciplina":"Geriatría"
+              "descDisciplina":"Geriatría",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":4789,
+                  "cveSubDisciplina":"343401",
+                  "descSubDisciplina":"Geriatría"
+                }
+              ]
             },
             {
               "idDisciplina":771,
               "cveDisciplina":"3435",
-              "descDisciplina":"Ginecología oncológica"
+              "descDisciplina":"Ginecología oncológica",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":4790,
+                  "cveSubDisciplina":"343501",
+                  "descSubDisciplina":"Ginecología oncológica"
+                }
+              ]
             },
             {
               "idDisciplina":772,
               "cveDisciplina":"3436",
-              "descDisciplina":"Ginecología y obstetricia"
+              "descDisciplina":"Ginecología y obstetricia",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":4791,
+                  "cveSubDisciplina":"343601",
+                  "descSubDisciplina":"Ginecología y obstetricia"
+                }
+              ]
             },
             {
               "idDisciplina":773,
               "cveDisciplina":"3437",
-              "descDisciplina":"Hematología"
+              "descDisciplina":"Hematología",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":4792,
+                  "cveSubDisciplina":"343701",
+                  "descSubDisciplina":"Hematología"
+                }
+              ]
             },
             {
               "idDisciplina":774,
               "cveDisciplina":"3438",
-              "descDisciplina":"Hematología pediátrica"
+              "descDisciplina":"Hematología pediátrica",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":4793,
+                  "cveSubDisciplina":"343801",
+                  "descSubDisciplina":"Hematología pediátrica"
+                }
+              ]
             },
             {
               "idDisciplina":775,
               "cveDisciplina":"3439",
-              "descDisciplina":"Imagenologia, diagnostica y terapéutica"
+              "descDisciplina":"Imagenologia, diagnostica y terapéutica",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":4794,
+                  "cveSubDisciplina":"343901",
+                  "descSubDisciplina":"Imagenologia, diagnostica y terapéutica"
+                }
+              ]
             },
             {
               "idDisciplina":776,
               "cveDisciplina":"3440",
-              "descDisciplina":"Infectología"
+              "descDisciplina":"Infectología",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":4795,
+                  "cveSubDisciplina":"344001",
+                  "descSubDisciplina":"Infectología"
+                }
+              ]
             },
             {
               "idDisciplina":777,
               "cveDisciplina":"3441",
-              "descDisciplina":"Infectología pediátrica"
+              "descDisciplina":"Infectología pediátrica",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":4796,
+                  "cveSubDisciplina":"344101",
+                  "descSubDisciplina":"Infectología pediátrica"
+                }
+              ]
             },
             {
               "idDisciplina":778,
               "cveDisciplina":"3442",
-              "descDisciplina":"Infectómica y patogénesis molecular"
+              "descDisciplina":"Infectómica y patogénesis molecular",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":4797,
+                  "cveSubDisciplina":"344201",
+                  "descSubDisciplina":"Infectómica y patogénesis molecular"
+                }
+              ]
             },
             {
               "idDisciplina":779,
               "cveDisciplina":"3443",
-              "descDisciplina":"Investigación médica, línea terminal biomedicina"
+              "descDisciplina":"Investigación médica, línea terminal biomedicina",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":4798,
+                  "cveSubDisciplina":"344301",
+                  "descSubDisciplina":"Investigación médica, línea terminal biomedicina"
+                }
+              ]
             },
             {
               "idDisciplina":780,
               "cveDisciplina":"3444",
-              "descDisciplina":"Medicina de rehabilitación"
+              "descDisciplina":"Medicina de rehabilitación",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":4799,
+                  "cveSubDisciplina":"344401",
+                  "descSubDisciplina":"Medicina de rehabilitación"
+                }
+              ]
             },
             {
               "idDisciplina":781,
               "cveDisciplina":"3445",
-              "descDisciplina":"Medicina del enfermo en estado crítico"
+              "descDisciplina":"Medicina del enfermo en estado crítico",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":4800,
+                  "cveSubDisciplina":"344501",
+                  "descSubDisciplina":"Medicina del enfermo en estado crítico"
+                }
+              ]
             },
             {
               "idDisciplina":782,
               "cveDisciplina":"3446",
-              "descDisciplina":"Medicina del enfermo pediátrico en estado critico"
+              "descDisciplina":"Medicina del enfermo pediátrico en estado critico",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":4801,
+                  "cveSubDisciplina":"344601",
+                  "descSubDisciplina":"Medicina del enfermo pediátrico en estado critico"
+                }
+              ]
             },
             {
               "idDisciplina":783,
               "cveDisciplina":"3447",
-              "descDisciplina":"Medicina familiar"
+              "descDisciplina":"Medicina familiar",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":4802,
+                  "cveSubDisciplina":"344701",
+                  "descSubDisciplina":"Medicina familiar"
+                }
+              ]
             },
             {
               "idDisciplina":784,
               "cveDisciplina":"3448",
-              "descDisciplina":"Medicina materno fetal"
+              "descDisciplina":"Medicina materno fetal",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":4803,
+                  "cveSubDisciplina":"344801",
+                  "descSubDisciplina":"Medicina materno fetal"
+                }
+              ]
             },
             {
               "idDisciplina":785,
               "cveDisciplina":"3449",
-              "descDisciplina":"Medicina nuclear"
+              "descDisciplina":"Medicina nuclear",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":4804,
+                  "cveSubDisciplina":"344901",
+                  "descSubDisciplina":"Medicina nuclear"
+                }
+              ]
             },
             {
               "idDisciplina":786,
               "cveDisciplina":"3450",
-              "descDisciplina":"Medicina paliativa y del dolor"
+              "descDisciplina":"Medicina paliativa y del dolor",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":4805,
+                  "cveSubDisciplina":"345001",
+                  "descSubDisciplina":"Medicina paliativa y del dolor"
+                }
+              ]
             },
             {
               "idDisciplina":787,
               "cveDisciplina":"3451",
-              "descDisciplina":"Nefrología"
+              "descDisciplina":"Nefrología",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":4806,
+                  "cveSubDisciplina":"345101",
+                  "descSubDisciplina":"Nefrología"
+                }
+              ]
             },
             {
               "idDisciplina":788,
               "cveDisciplina":"3452",
-              "descDisciplina":"Nefrología pediátrica"
+              "descDisciplina":"Nefrología pediátrica",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":4807,
+                  "cveSubDisciplina":"345201",
+                  "descSubDisciplina":"Nefrología pediátrica"
+                }
+              ]
             },
             {
               "idDisciplina":789,
               "cveDisciplina":"3453",
-              "descDisciplina":"Neonatología"
+              "descDisciplina":"Neonatología",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":4808,
+                  "cveSubDisciplina":"345301",
+                  "descSubDisciplina":"Neonatología"
+                }
+              ]
             },
             {
               "idDisciplina":790,
               "cveDisciplina":"3454",
-              "descDisciplina":"Neumología"
+              "descDisciplina":"Neumología",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":4809,
+                  "cveSubDisciplina":"345401",
+                  "descSubDisciplina":"Neumología"
+                }
+              ]
             },
             {
               "idDisciplina":791,
               "cveDisciplina":"3455",
-              "descDisciplina":"Neumología pediátrica"
+              "descDisciplina":"Neumología pediátrica",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":4810,
+                  "cveSubDisciplina":"345501",
+                  "descSubDisciplina":"Neumología pediátrica"
+                }
+              ]
             },
             {
               "idDisciplina":792,
               "cveDisciplina":"3456",
-              "descDisciplina":"Neuroanestesiologia"
+              "descDisciplina":"Neuroanestesiologia",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":4811,
+                  "cveSubDisciplina":"345601",
+                  "descSubDisciplina":"Neuroanestesiologia"
+                }
+              ]
             },
             {
               "idDisciplina":793,
               "cveDisciplina":"3457",
-              "descDisciplina":"Neurocirugía"
+              "descDisciplina":"Neurocirugía",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":4812,
+                  "cveSubDisciplina":"345701",
+                  "descSubDisciplina":"Neurocirugía"
+                }
+              ]
             },
             {
               "idDisciplina":794,
               "cveDisciplina":"3458",
-              "descDisciplina":"Neurocirugía pediátrica"
+              "descDisciplina":"Neurocirugía pediátrica",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":4813,
+                  "cveSubDisciplina":"345801",
+                  "descSubDisciplina":"Neurocirugía pediátrica"
+                }
+              ]
             },
             {
               "idDisciplina":795,
               "cveDisciplina":"3459",
-              "descDisciplina":"Neurofisiología clínica"
+              "descDisciplina":"Neurofisiología clínica",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":4814,
+                  "cveSubDisciplina":"345901",
+                  "descSubDisciplina":"Neurofisiología clínica"
+                }
+              ]
             },
             {
               "idDisciplina":796,
               "cveDisciplina":"3460",
-              "descDisciplina":"Neurología"
+              "descDisciplina":"Neurología",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":4815,
+                  "cveSubDisciplina":"346001",
+                  "descSubDisciplina":"Neurología"
+                }
+              ]
             },
             {
               "idDisciplina":797,
               "cveDisciplina":"3461",
-              "descDisciplina":"Neurología pediátrica"
+              "descDisciplina":"Neurología pediátrica",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":4816,
+                  "cveSubDisciplina":"346101",
+                  "descSubDisciplina":"Neurología pediátrica"
+                }
+              ]
             },
             {
               "idDisciplina":798,
               "cveDisciplina":"3462",
-              "descDisciplina":"Neuroradiologia"
+              "descDisciplina":"Neuroradiologia",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":4817,
+                  "cveSubDisciplina":"346201",
+                  "descSubDisciplina":"Neuroradiologia"
+                }
+              ]
             },
             {
               "idDisciplina":799,
               "cveDisciplina":"3463",
-              "descDisciplina":"Nutriología clínica"
+              "descDisciplina":"Nutriología clínica",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":4818,
+                  "cveSubDisciplina":"346301",
+                  "descSubDisciplina":"Nutriología clínica"
+                }
+              ]
             },
             {
               "idDisciplina":800,
               "cveDisciplina":"3464",
-              "descDisciplina":"Obesidad y comorbilidades"
+              "descDisciplina":"Obesidad y comorbilidades",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":4819,
+                  "cveSubDisciplina":"346401",
+                  "descSubDisciplina":"Obesidad y comorbilidades"
+                }
+              ]
             },
             {
               "idDisciplina":801,
               "cveDisciplina":"3465",
-              "descDisciplina":"Oftalmología"
+              "descDisciplina":"Oftalmología",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":4820,
+                  "cveSubDisciplina":"346501",
+                  "descSubDisciplina":"Oftalmología"
+                }
+              ]
             },
             {
               "idDisciplina":802,
               "cveDisciplina":"3466",
-              "descDisciplina":"Oftalmología neurológica"
+              "descDisciplina":"Oftalmología neurológica",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":4821,
+                  "cveSubDisciplina":"346601",
+                  "descSubDisciplina":"Oftalmología neurológica"
+                }
+              ]
             },
             {
               "idDisciplina":803,
               "cveDisciplina":"3467",
-              "descDisciplina":"Oncología"
+              "descDisciplina":"Oncología",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":4822,
+                  "cveSubDisciplina":"346701",
+                  "descSubDisciplina":"Oncología"
+                }
+              ]
             },
             {
               "idDisciplina":804,
               "cveDisciplina":"3468",
-              "descDisciplina":"Oncología pediátrica"
+              "descDisciplina":"Oncología pediátrica",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":4823,
+                  "cveSubDisciplina":"346801",
+                  "descSubDisciplina":"Oncología pediátrica"
+                }
+              ]
             },
             {
               "idDisciplina":805,
               "cveDisciplina":"3469",
-              "descDisciplina":"Otorrinolaringología pediátrica"
+              "descDisciplina":"Otorrinolaringología pediátrica",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":4824,
+                  "cveSubDisciplina":"346901",
+                  "descSubDisciplina":"Otorrinolaringología pediátrica"
+                }
+              ]
             },
             {
               "idDisciplina":806,
               "cveDisciplina":"3470",
-              "descDisciplina":"Otorrinolaringología y cirugía de cabeza y cuello"
+              "descDisciplina":"Otorrinolaringología y cirugía de cabeza y cuello",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":4825,
+                  "cveSubDisciplina":"347001",
+                  "descSubDisciplina":"Otorrinolaringología y cirugía de cabeza y cuello"
+                }
+              ]
             },
             {
               "idDisciplina":807,
               "cveDisciplina":"3471",
-              "descDisciplina":"Patología clínica"
+              "descDisciplina":"Patología clínica",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":4826,
+                  "cveSubDisciplina":"347101",
+                  "descSubDisciplina":"Patología clínica"
+                }
+              ]
             },
             {
               "idDisciplina":808,
               "cveDisciplina":"3472",
-              "descDisciplina":"Patología pediátrica"
+              "descDisciplina":"Patología pediátrica",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":4827,
+                  "cveSubDisciplina":"347201",
+                  "descSubDisciplina":"Patología pediátrica"
+                }
+              ]
             },
             {
               "idDisciplina":809,
               "cveDisciplina":"3473",
-              "descDisciplina":"Pediatría"
+              "descDisciplina":"Pediatría",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":4828,
+                  "cveSubDisciplina":"347301",
+                  "descSubDisciplina":"Pediatría"
+                }
+              ]
             },
             {
               "idDisciplina":810,
               "cveDisciplina":"3474",
-              "descDisciplina":"Prótesis maxilofacial"
+              "descDisciplina":"Prótesis maxilofacial",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":4829,
+                  "cveSubDisciplina":"347401",
+                  "descSubDisciplina":"Prótesis maxilofacial"
+                }
+              ]
             },
             {
               "idDisciplina":811,
               "cveDisciplina":"3475",
-              "descDisciplina":"Psiquiatría infantil y adolescencia"
+              "descDisciplina":"Psiquiatría infantil y adolescencia",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":4830,
+                  "cveSubDisciplina":"347501",
+                  "descSubDisciplina":"Psiquiatría infantil y adolescencia"
+                }
+              ]
             },
             {
               "idDisciplina":812,
               "cveDisciplina":"3476",
-              "descDisciplina":"Radiología e imagen"
+              "descDisciplina":"Radiología e imagen",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":4831,
+                  "cveSubDisciplina":"347601",
+                  "descSubDisciplina":"Radiología e imagen"
+                }
+              ]
             },
             {
               "idDisciplina":813,
               "cveDisciplina":"3477",
-              "descDisciplina":"Radiooncologia"
+              "descDisciplina":"Radiooncologia",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":4832,
+                  "cveSubDisciplina":"347701",
+                  "descSubDisciplina":"Radiooncologia"
+                }
+              ]
             },
             {
               "idDisciplina":814,
               "cveDisciplina":"3478",
-              "descDisciplina":"Reumatología"
+              "descDisciplina":"Reumatología",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":4833,
+                  "cveSubDisciplina":"347801",
+                  "descSubDisciplina":"Reumatología"
+                }
+              ]
             },
             {
               "idDisciplina":815,
               "cveDisciplina":"3479",
-              "descDisciplina":"Reumatología pediátrica"
+              "descDisciplina":"Reumatología pediátrica",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":4834,
+                  "cveSubDisciplina":"347901",
+                  "descSubDisciplina":"Reumatología pediátrica"
+                }
+              ]
             },
             {
               "idDisciplina":816,
               "cveDisciplina":"3480",
-              "descDisciplina":"Seguridad alimentaria y nutricional"
+              "descDisciplina":"Seguridad alimentaria y nutricional",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":4835,
+                  "cveSubDisciplina":"348001",
+                  "descSubDisciplina":"Seguridad alimentaria y nutricional"
+                }
+              ]
             },
             {
               "idDisciplina":817,
               "cveDisciplina":"3481",
-              "descDisciplina":"Terapia endovascular"
+              "descDisciplina":"Terapia endovascular",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":4836,
+                  "cveSubDisciplina":"348101",
+                  "descSubDisciplina":"Terapia endovascular"
+                }
+              ]
             },
             {
               "idDisciplina":818,
               "cveDisciplina":"3482",
-              "descDisciplina":"Traumatología y ortopedia"
+              "descDisciplina":"Traumatología y ortopedia",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":4837,
+                  "cveSubDisciplina":"348201",
+                  "descSubDisciplina":"Traumatología y ortopedia"
+                }
+              ]
             },
             {
               "idDisciplina":819,
               "cveDisciplina":"3483",
-              "descDisciplina":"Urgencias medicas"
+              "descDisciplina":"Urgencias medicas",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":4838,
+                  "cveSubDisciplina":"348301",
+                  "descSubDisciplina":"Urgencias medicas"
+                }
+              ]
             },
             {
               "idDisciplina":820,
               "cveDisciplina":"3484",
-              "descDisciplina":"Urgencias pediátricas"
+              "descDisciplina":"Urgencias pediátricas",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":4839,
+                  "cveSubDisciplina":"348401",
+                  "descSubDisciplina":"Urgencias pediátricas"
+                }
+              ]
             },
             {
               "idDisciplina":821,
               "cveDisciplina":"3485",
-              "descDisciplina":"Urología"
+              "descDisciplina":"Urología",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":4840,
+                  "cveSubDisciplina":"348501",
+                  "descSubDisciplina":"Urología"
+                }
+              ]
             },
             {
               "idDisciplina":822,
               "cveDisciplina":"3486",
-              "descDisciplina":"Urología ginecológica"
+              "descDisciplina":"Urología ginecológica",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":4841,
+                  "cveSubDisciplina":"348601",
+                  "descSubDisciplina":"Urología ginecológica"
+                }
+              ]
             }
           ]
         },
@@ -25315,47 +26135,110 @@
             {
               "idDisciplina":823,
               "cveDisciplina":"3501",
-              "descDisciplina":"Endodoncia"
+              "descDisciplina":"Endodoncia",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":4842,
+                  "cveSubDisciplina":"350101",
+                  "descSubDisciplina":"Endodoncia"
+                }
+              ]
             },
             {
               "idDisciplina":824,
               "cveDisciplina":"3502",
-              "descDisciplina":"Odontopediatría"
+              "descDisciplina":"Odontopediatría",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":4843,
+                  "cveSubDisciplina":"350201",
+                  "descSubDisciplina":"Odontopediatría"
+                }
+              ]
             },
             {
               "idDisciplina":825,
               "cveDisciplina":"3503",
-              "descDisciplina":"Ortodoncia"
+              "descDisciplina":"Ortodoncia",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":4844,
+                  "cveSubDisciplina":"350301",
+                  "descSubDisciplina":"Ortodoncia"
+                }
+              ]
             },
             {
               "idDisciplina":826,
               "cveDisciplina":"3504",
-              "descDisciplina":"Ortopedia dentomaxilofacial"
+              "descDisciplina":"Ortopedia dentomaxilofacial",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":4845,
+                  "cveSubDisciplina":"350401",
+                  "descSubDisciplina":"Ortopedia dentomaxilofacial"
+                }
+              ]
             },
             {
               "idDisciplina":827,
               "cveDisciplina":"3505",
-              "descDisciplina":"Ortopedia y traumatología"
+              "descDisciplina":"Ortopedia y traumatología",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":4846,
+                  "cveSubDisciplina":"350501",
+                  "descSubDisciplina":"Ortopedia y traumatología"
+                }
+              ]
             },
             {
               "idDisciplina":828,
               "cveDisciplina":"3506",
-              "descDisciplina":"Patología y medicina bucal"
+              "descDisciplina":"Patología y medicina bucal",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":4847,
+                  "cveSubDisciplina":"350601",
+                  "descSubDisciplina":"Patología y medicina bucal"
+                }
+              ]
             },
             {
               "idDisciplina":829,
               "cveDisciplina":"3507",
-              "descDisciplina":"Periodoncia"
+              "descDisciplina":"Periodoncia",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":4848,
+                  "cveSubDisciplina":"350701",
+                  "descSubDisciplina":"Periodoncia"
+                }
+              ]
             },
             {
               "idDisciplina":830,
               "cveDisciplina":"3508",
-              "descDisciplina":"Prostodoncia"
+              "descDisciplina":"Prostodoncia",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":4849,
+                  "cveSubDisciplina":"350801",
+                  "descSubDisciplina":"Prostodoncia"
+                }
+              ]
             },
             {
               "idDisciplina":831,
               "cveDisciplina":"3509",
-              "descDisciplina":"Prótesis bucal"
+              "descDisciplina":"Prótesis bucal",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":4850,
+                  "cveSubDisciplina":"350901",
+                  "descSubDisciplina":"Prótesis bucal"
+                }
+              ]
             }
           ]
         },
@@ -25367,112 +26250,266 @@
             {
               "idDisciplina":832,
               "cveDisciplina":"3601",
-              "descDisciplina":"Anatomía normal y patológica"
+              "descDisciplina":"Anatomía normal y patológica",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":4851,
+                  "cveSubDisciplina":"360101",
+                  "descSubDisciplina":"Anatomía normal y patológica"
+                }
+              ]
             },
             {
               "idDisciplina":833,
               "cveDisciplina":"3602",
-              "descDisciplina":"Cardiología, fisiología cardiovascular"
+              "descDisciplina":"Cardiología, fisiología cardiovascular",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":4852,
+                  "cveSubDisciplina":"360201",
+                  "descSubDisciplina":"Cardiología, fisiología cardiovascular"
+                }
+              ]
             },
             {
               "idDisciplina":834,
               "cveDisciplina":"3603",
-              "descDisciplina":"Cirugía, traumatología, cirugía experimental"
+              "descDisciplina":"Cirugía, traumatología, cirugía experimental",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":4853,
+                  "cveSubDisciplina":"360301",
+                  "descSubDisciplina":"Cirugía, traumatología, cirugía experimental"
+                }
+              ]
             },
             {
               "idDisciplina":835,
               "cveDisciplina":"3604",
-              "descDisciplina":"Dermatología y enfermedades de transmisión sexual"
+              "descDisciplina":"Dermatología y enfermedades de transmisión sexual",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":4854,
+                  "cveSubDisciplina":"360401",
+                  "descSubDisciplina":"Dermatología y enfermedades de transmisión sexual"
+                }
+              ]
             },
             {
               "idDisciplina":836,
               "cveDisciplina":"3605",
-              "descDisciplina":"Enfermedades de la nutrición y endocrinología"
+              "descDisciplina":"Enfermedades de la nutrición y endocrinología",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":4855,
+                  "cveSubDisciplina":"360501",
+                  "descSubDisciplina":"Enfermedades de la nutrición y endocrinología"
+                }
+              ]
             },
             {
               "idDisciplina":837,
               "cveDisciplina":"3606",
-              "descDisciplina":"Enfermedades infecciosas, bacteriología clínica, virología clínica"
+              "descDisciplina":"Enfermedades infecciosas, bacteriología clínica, virología clínica",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":4856,
+                  "cveSubDisciplina":"360601",
+                  "descSubDisciplina":"Enfermedades infecciosas, bacteriología clínica, virología clínica"
+                }
+              ]
             },
             {
               "idDisciplina":838,
               "cveDisciplina":"3607",
-              "descDisciplina":"Enfermedades respiratorias, fisiología"
+              "descDisciplina":"Enfermedades respiratorias, fisiología",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":4857,
+                  "cveSubDisciplina":"360701",
+                  "descSubDisciplina":"Enfermedades respiratorias, fisiología"
+                }
+              ]
             },
             {
               "idDisciplina":839,
               "cveDisciplina":"3608",
-              "descDisciplina":"Fisiopatología, fisiología clínica general"
+              "descDisciplina":"Fisiopatología, fisiología clínica general",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":4858,
+                  "cveSubDisciplina":"360801",
+                  "descSubDisciplina":"Fisiopatología, fisiología clínica general"
+                }
+              ]
             },
             {
               "idDisciplina":840,
               "cveDisciplina":"3609",
-              "descDisciplina":"Gastroenterología, fisiología digestiva"
+              "descDisciplina":"Gastroenterología, fisiología digestiva",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":4859,
+                  "cveSubDisciplina":"360901",
+                  "descSubDisciplina":"Gastroenterología, fisiología digestiva"
+                }
+              ]
             },
             {
               "idDisciplina":841,
               "cveDisciplina":"3610",
-              "descDisciplina":"Ginecología, obstetricia y reproducción"
+              "descDisciplina":"Ginecología, obstetricia y reproducción",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":4860,
+                  "cveSubDisciplina":"361001",
+                  "descSubDisciplina":"Ginecología, obstetricia y reproducción"
+                }
+              ]
             },
             {
               "idDisciplina":842,
               "cveDisciplina":"3611",
-              "descDisciplina":"Hematología e inmunología clínica"
+              "descDisciplina":"Hematología e inmunología clínica",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":4861,
+                  "cveSubDisciplina":"361101",
+                  "descSubDisciplina":"Hematología e inmunología clínica"
+                }
+              ]
             },
             {
               "idDisciplina":843,
               "cveDisciplina":"3612",
-              "descDisciplina":"Investigación clínica"
+              "descDisciplina":"Investigación clínica",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":4862,
+                  "cveSubDisciplina":"361201",
+                  "descSubDisciplina":"Investigación clínica"
+                }
+              ]
             },
             {
               "idDisciplina":844,
               "cveDisciplina":"3613",
-              "descDisciplina":"Medicina física y rehabilitación, kinesiología"
+              "descDisciplina":"Medicina física y rehabilitación, kinesiología",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":4863,
+                  "cveSubDisciplina":"361301",
+                  "descSubDisciplina":"Medicina física y rehabilitación, kinesiología"
+                }
+              ]
             },
             {
               "idDisciplina":845,
               "cveDisciplina":"3614",
-              "descDisciplina":"Medicina nuclear, radioterapia"
+              "descDisciplina":"Medicina nuclear, radioterapia",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":4864,
+                  "cveSubDisciplina":"361401",
+                  "descSubDisciplina":"Medicina nuclear, radioterapia"
+                }
+              ]
             },
             {
               "idDisciplina":846,
               "cveDisciplina":"3615",
-              "descDisciplina":"Nefrología, fisiología renal"
+              "descDisciplina":"Nefrología, fisiología renal",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":4865,
+                  "cveSubDisciplina":"361501",
+                  "descSubDisciplina":"Nefrología, fisiología renal"
+                }
+              ]
             },
             {
               "idDisciplina":847,
               "cveDisciplina":"3616",
-              "descDisciplina":"Neurología y neurocirugía"
+              "descDisciplina":"Neurología y neurocirugía",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":4866,
+                  "cveSubDisciplina":"361601",
+                  "descSubDisciplina":"Neurología y neurocirugía"
+                }
+              ]
             },
             {
               "idDisciplina":848,
               "cveDisciplina":"3617",
-              "descDisciplina":"Oftalmología"
+              "descDisciplina":"Oftalmología",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":4867,
+                  "cveSubDisciplina":"361701",
+                  "descSubDisciplina":"Oftalmología"
+                }
+              ]
             },
             {
               "idDisciplina":849,
               "cveDisciplina":"3618",
-              "descDisciplina":"Oncología, quimioterapia, cirugía oncología"
+              "descDisciplina":"Oncología, quimioterapia, cirugía oncología",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":4868,
+                  "cveSubDisciplina":"361801",
+                  "descSubDisciplina":"Oncología, quimioterapia, cirugía oncología"
+                }
+              ]
             },
             {
               "idDisciplina":850,
               "cveDisciplina":"3619",
-              "descDisciplina":"Otorrinolaringología"
+              "descDisciplina":"Otorrinolaringología",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":4869,
+                  "cveSubDisciplina":"361901",
+                  "descSubDisciplina":"Otorrinolaringología"
+                }
+              ]
             },
             {
               "idDisciplina":851,
               "cveDisciplina":"3620",
-              "descDisciplina":"Radiología y diagnóstico por imágenes"
+              "descDisciplina":"Radiología y diagnóstico por imágenes",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":4870,
+                  "cveSubDisciplina":"362001",
+                  "descSubDisciplina":"Radiología y diagnóstico por imágenes"
+                }
+              ]
             },
             {
               "idDisciplina":852,
               "cveDisciplina":"3621",
-              "descDisciplina":"Reumatología, inflamación, enfermedades autoinmunes"
+              "descDisciplina":"Reumatología, inflamación, enfermedades autoinmunes",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":4871,
+                  "cveSubDisciplina":"362101",
+                  "descSubDisciplina":"Reumatología, inflamación, enfermedades autoinmunes"
+                }
+              ]
             },
             {
               "idDisciplina":853,
               "cveDisciplina":"3622",
-              "descDisciplina":"Urología, transplante renal, fisiología urogenital"
+              "descDisciplina":"Urología, transplante renal, fisiología urogenital",
+              "subDisciplinaVOs":[
+                {
+                  "idSubDisciplina":4872,
+                  "cveSubDisciplina":"362201",
+                  "descSubDisciplina":"Urología, transplante renal, fisiología urogenital"
+                }
+              ]
             }
           ]
         }

@@ -1,0 +1,30 @@
+:auto LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/amr205/Areas-del-conocimiento-disciplinas-y-subdisciplinas-Conacyt-Neo4j/main/csv_data/areaConocimiento.csv' AS line
+CALL {
+  WITH line
+  MERGE (:KnowledgeArea {identifier: toInteger(line['idAreaConocimiento']), cve: line['cveAreaConocimiento'], description: line['descAreaConocimiento']})
+} IN TRANSACTIONS OF 500 ROWS;
+
+:auto LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/amr205/Areas-del-conocimiento-disciplinas-y-subdisciplinas-Conacyt-Neo4j/main/csv_data/campoConocimiento.csv' AS line CALL{
+WITH line
+MERGE (newNode:KnowledgeField {identifier: toInteger(line['idCampoConocimiento']), cve: line['claveCampoConocimiento'], description: line['descCampoConocimiento']) })
+WITH newNode, line
+MATCH (parentNode:KnowledgeArea {identifier: toInteger(line['idAreaConocimiento'])})
+    MERGE (newNode)-[:SUBCLASS_OF]->(parentNode)
+} IN TRANSACTIONS OF 500 ROWS;
+
+:auto LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/amr205/Areas-del-conocimiento-disciplinas-y-subdisciplinas-Conacyt-Neo4j/main/csv_data/disciplinaConocimiento.csv' AS line CALL{
+WITH line
+MERGE (newNode:KnowledgeDiscipline {identifier: toInteger(line['idDisciplina']), cve: line['cveDisciplina'], description: line['descDisciplina']) })
+WITH newNode, line
+MATCH (parentNode:KnowledgeField {identifier: toInteger(line['idCampoConocimiento'])})
+    MERGE (newNode)-[:SUBCLASS_OF]->(parentNode)
+} IN TRANSACTIONS OF 500 ROWS;
+
+
+:auto LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/amr205/Areas-del-conocimiento-disciplinas-y-subdisciplinas-Conacyt-Neo4j/main/csv_data/subdisciplinaConocimiento.csv' AS line CALL{
+WITH line
+MERGE (newNode:KnowledgeSubdiscipline {identifier: toInteger(line['idSubDisciplina']), cve: line['cveSubDisciplina'], description: line['descSubDisciplina']) })
+WITH newNode, line
+MATCH (parentNode:KnowledgeDiscipline {identifier: toInteger(line['idDisciplina'])})
+    MERGE (newNode)-[:SUBCLASS_OF]->(parentNode)
+} IN TRANSACTIONS OF 500 ROWS;
